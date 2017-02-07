@@ -12,7 +12,7 @@ description: Seminar schedule of BigData Lab  in KMU
 | :------------: | :-------------: | :------------: | :-------------: | :------------: | 
 | Feb. 22th. 2017 | @jckim | SparkNet| [paper](https://amplab.cs.berkeley.edu/projects/sparknet/), [YahooHadoop-1](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop), [YahooHadoop-2](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep) | |
 | Feb. 15th. 2017 | @sss | Docker Swarm or Kubernetes |[Swarm](https://www.docker.com/products/docker-swarm) [Kubernetes](https://kubernetes.io) ||
-| Feb. 8th. 2017 | @mj | Spot instance for deep learning | ||
+| Feb. 8th. 2017 | @mj | Spot instance for deep learning(DeepSpotCloud) |[code](https://github.com/mjaysonnn/DeepSpotCloud) |[ppt](https://drive.google.com/open?id=0B93gDq1ZuFfuMzV0TjJSbm43YlE)|
 | Feb. 1st. 2017 | @sara | XGBoost | [paper](https://arxiv.org/abs/1603.02754) [site](https://xgboost.readthedocs.io/en/latest/)||
 | Jan. 25th. 2017 | @jckim | Virtualization or Containerization? | [Quora](https://www.quora.com/What-is-the-difference-between-containerization-Docker-and-virtualization-VMWare-VirtualBox-Xen), [stackoverflow](http://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine), [blog](https://monkeyvault.net/docker-vs-virtualization/) | [docs](https://drive.google.com/open?id=1KkE_-nf2OAf2QRBnM7a3Xv6jipPCczo4Yrbtw_cUqtw) |
 | Jan. 18th. 2017 | @sss | YARN | [YARN](http://dl.acm.org/citation.cfm?id=2523633) | [docs](https://docs.google.com/presentation/d/1MyyGAaSqBr7D90bZ29nryWQmAj_6n4l_bQEc2Ite5VE/edit#slide=id.p4)
