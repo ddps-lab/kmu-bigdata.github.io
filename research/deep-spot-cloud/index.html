@@ -4,11 +4,16 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script>
-$(document).ready(function(){
-    $("button").click(function(){
+$(document).ready(function()
+        {
+
         $.ajax({url: "https://j1kg8eg5p9.execute-api.us-east-1.amazonaws.com/deploy", success: function(result){
-            $("#div1").html(result);
-        }
+            $("#time").text(result['time']);
+            $("#az").text(result['az']);
+            $("#price").text(result['price']);
+            $("#step").text(result['step']);
+
+        // }
         });
     });
 });
@@ -47,12 +52,9 @@ $(document).ready(function(){
   </head>
 
   <body>
-  
-  	
 
-<div id="div1"><h2>Let jQuery AJAX Change This Text</h2></div>
 
-<button>Get External Content</button>
+
 
 
     <div class="container">
@@ -73,27 +75,27 @@ $(document).ready(function(){
       <h3>Current Spot Price</h3>
 
       <div class="row">
-        <div class="col-md-4">N.Virginia</div>
+        <div class="col-md-4" id="price"></div>
       </div>
 
 
-      <h3>Current Region</h3>
+      <h3>Current AZ</h3>
       <div class="row">
-        <div class="col-md-4">N.Virginia</div>
+        <div class="col-md-4" id="az"></div>
       </div>
 
 
 
-      <h3>Current AZs</h3>
+      <h3>Current Time</h3>
       <div class="row">
-        <div class="col-md-4">N.Virginia</div>
+        <div class="col-md-4" id="time" >Error</div>
       </div>
 
 
       <h3>Current Step</h3>
       <p><strong>How many steps</strong> is in Deep Learning Task</p>
       <div class="row">
-        <div class="col-md-3">100 steps</div>
+        <div class="col-md-3" id="step">Error</div>
       </div>
 
 
