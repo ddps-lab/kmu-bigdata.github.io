@@ -4,8 +4,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script>
-$(document).ready(function()
-        {
+$(document).ready(
+        function(){
 
         $.ajax({url: "https://j1kg8eg5p9.execute-api.us-east-1.amazonaws.com/deploy", success: function(result){
             $("#time").text(result['time']);
@@ -13,10 +13,17 @@ $(document).ready(function()
             $("#price").text(result['price']);
             $("#step").text(result['step']);
 
-        // }
-        });
+        }
+      ,fail: function(result){
+        $("#time").text("error occured");
+        $("#az").text("error occured");
+        $("#price").text("error occured");
+        $("#step").text("error occured");
+
+
+      }});
     });
-});
+
 </script>
 
 
@@ -32,17 +39,17 @@ $(document).ready(function()
     <title>DeepSpotCloud</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="../../dist/css/bootstrap.min.css" rel="stylesheet"> -->
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <!-- <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet"> -->
 
     <!-- Custom styles for this template -->
     <link href="grid.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+    <!-- <script src="../../assets/js/ie-emulation-modes-warning.js"></script> -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -66,36 +73,32 @@ $(document).ready(function()
 
 
       <h3>Deep Learning Tasks</h3>
-      <p><strong>Which Deep Learning task</strong> is running in spot instances</p>
+      <p>Which <strong>Deep Learning task</strong> is running in spot instance</p>
       <div class="row">
         <div class="col-md-4">cifar10 image classification(CNN)</div>
       </div>
 
+      <h3>Time</h3>
+      <div class="row">
+        <div class="col-md-4" id="time" >Fetching..</div>
+      </div>
 
       <h3>Current Spot Price</h3>
 
       <div class="row">
-        <div class="col-md-4" id="price"></div>
+        <div class="col-md-4" id="price">Fetching..</div>
       </div>
 
 
       <h3>Current AZ</h3>
       <div class="row">
-        <div class="col-md-4" id="az"></div>
+        <div class="col-md-4" id="az">Fetching..</div>
       </div>
-
-
-
-      <h3>Current Time</h3>
-      <div class="row">
-        <div class="col-md-4" id="time" >Error</div>
-      </div>
-
 
       <h3>Current Step</h3>
-      <p><strong>How many steps</strong> is in Deep Learning Task</p>
+      <p><strong>How many steps</strong> at Deep Learning Task</p>
       <div class="row">
-        <div class="col-md-3" id="step">Error</div>
+        <div class="col-md-3" id="step">Fetching..</div>
       </div>
 
 
