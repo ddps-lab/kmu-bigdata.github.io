@@ -8,11 +8,30 @@ $(document).ready(
         function(){
 
         $.ajax({url: "https://j1kg8eg5p9.execute-api.us-east-1.amazonaws.com/deploy", success: function(result){
-            $("#time").text(result['time']);
-            $("#az").text(result['az']);
-            $("#price").text(result['price']);
-            $("#step").text(result['step']);
+            // $("#time").text(result['time']);
+            // $("#az").text(result['az']);
+            // $("#price").text(result['price']);
+            // $("#step").text(result['step']);
+            // var foo = document.createTextNode("\u00A0");
+            $.each(result, function(key, value) {
+                if (key == "time"){
 
+                  $("#"+key).text(value);
+              }
+                else if (key == 'az'){
+                    $("#"+key).text(value);
+                }
+                else if (key == 'price'){
+                    $("#"+key).text(value);
+                }
+                else if (key == 'step'){
+                  $("#"+key).text(value);
+                }
+                else{
+                  $("#"+key).text(key+'     ->        '+value);
+                }
+                // alert( "The key is '" + key + "' and the value is '" + value + "'" );
+            });
         }
       ,fail: function(result){
         $("#time").text("error occured");
@@ -102,21 +121,36 @@ $(document).ready(
       </div>
 
 
-      <!-- <h3>Spot Instances Price </h3>
+      <h3>Spot Instances Price </h3>
       <div class="row">
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-        <div class="col-md-4">N.Virginia</div>
-      </div> -->
+        <div class="col-md-4" id="us-east-1a">Not Available</div>
+        <div class="col-md-4" id="us-east-1b">Not Available</div>
+        <div class="col-md-4" id="us-east-1c">Not Available</div>
+        <div class="col-md-4" id="us-east-1d">Not Available</div>
+        <div class="col-md-4" id="us-east-1e">Not Available</div>
+        <div class="col-md-4" id="us-west-1a">us-west-1a -> Not Available</div>
+        <div class="col-md-4" id="us-west-1b">Not Available</div>
+        <div class="col-md-4" id="us-west-1c">Not Available</div>
+        <div class="col-md-4" id="us-west-2a">Not Available</div>
+        <div class="col-md-4" id="us-west-2b">Not Available</div>
+        <div class="col-md-4" id="us-west-2c">Not Available</div>
+        <div class="col-md-4" id="eu-west-1a">Not Available</div>
+        <div class="col-md-4" id="eu-west-1b">Not Available</div>
+        <div class="col-md-4" id="eu-west-1c">Not Available</div>
+        <div class="col-md-4" id="eu-central-1a">Not Available</div>
+        <div class="col-md-4" id="eu-central-1b">Not Available</div>
+        <div class="col-md-4" id="ap-northeast-1a">Not Available</div>
+        <div class="col-md-4" id="ap-northeast-1b">ap-northeast-1b  ->  Not Available</div>
+        <div class="col-md-4" id="ap-northeast-1c">Not Available</div>
+        <div class="col-md-4" id="ap-southeast-1a">Not Available</div>
+        <div class="col-md-4" id="ap-southeast-1b">Not Available</div>
+        <div class="col-md-4" id="ap-southeast-2a">Not Available</div>
+        <div class="col-md-4" id="ap-southeast-2b">Not Available</div>
+        <!-- <div class="col-md-4" id="eu-west-1a">Not Available</div> -->
+        <!-- <div class="col-md-4" id="eu-west-1b">Not Available</div> -->
+      </div>
+
+
       <!-- <script>
     var link='{"url":"http://mywp.com/cilacap/api/get_posts/", "id":"url_id_01"}';
     var jcontent= JSON.parse(link);
@@ -126,7 +160,7 @@ $(document).ready(
 
 
 
-    <!-- </div> <!-- /container --> 
+    <!-- </div> <!-- /container -->
 
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
