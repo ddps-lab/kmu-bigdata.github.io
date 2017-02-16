@@ -11,13 +11,21 @@ $(document).ready(
             // $("#time").text(result['time']);
             // $("#az").text(result['az']);
             // $("#price").text(result['price']);
+            // var list = new List();
+            // list.add("time");
+            // list.add("az");
+            // list.add("price");
+            // list.add("step");
+            // var things = ['time','az','price','step'.'migration'];
+            // list.add("migration");
             // $("#step").text(result['step']);
             // var foo = document.createTextNode("\u00A0");
             $.each(result, function(key, value) {
+
                 if (key == "time"){
 
                   $("#"+key).text(value);
-              }
+                }
                 else if (key == 'az'){
                     $("#"+key).text(value);
                 }
@@ -27,10 +35,17 @@ $(document).ready(
                 else if (key == 'step'){
                   $("#"+key).text(value);
                 }
+                else if (key == 'migration'){
+                  $("#"+key).text(value);
+                }
+              // if (key in things){
+              //   $("#"+key).text(value);
+              // }
                 else{
                   $("#"+key).text(key+'     ->        '+value);
                 }
                 // alert( "The key is '" + key + "' and the value is '" + value + "'" );
+
             });
         }
       ,fail: function(result){
@@ -119,6 +134,13 @@ $(document).ready(
       <div class="row">
         <div class="col-md-3" id="step">Fetching..</div>
       </div>
+
+      <h3>Migration Route</h3>
+      <p>Migration Route</p>
+      <div class="row">
+        <div class="col-md-3" id="migration">Fetching..</div>
+      </div>
+
 
 
       <h3>Spot Instances Price </h3>
