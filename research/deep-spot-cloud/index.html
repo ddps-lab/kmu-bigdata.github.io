@@ -102,34 +102,34 @@ $(document).ready(
 
       <div class="page-header">
         <h1>DeepSpotCloud Service</h1>
-        <p class="lead">Run Deep Learning taks in a cost-efficient way </p>
+        <p class="lead">DeepSpotCloud provides a way to execute deep learning task in a cost efficient way using GPU spot instances in AWS EC2. It utilizes spot instances across regions (continents) to broaden candidate instances. To preserve intermediate work even when an instance is interrupted due to an outbid event, DeepSpotCloud uses the checkpoint mechanism; an interrupted instance uploads a checkpoint outcome to a shared storage, and a new instance (in a different region/availability zone) resumes after downloading the checkpoint outcome. 
+        <br>The goal of this website is to show how DeepSpotCloud operates. It currently runs on an AWS EC2 g2.2xlarge spot instance while executing <a href="https://www.tensorflow.org/tutorials/deep_cnn">CIFAR-10 TensorFlow</a> job. The code can be downloaded from <a href="https://github.com/mjaysonnn/DeepSpotCloud">GitHub</a>.
       </div>
-
 
       <h3>Deep Learning Tasks</h3>
-      <p>Which <strong>Deep Learning task</strong> is running in spot instance</p>
+      <p>Currently running task</p>
       <div class="row">
-        <div class="col-md-4">cifar10 image classification(CNN)</div>
+          <div class="col-md-4">CIFAR-10 image classification (CNN) <a href="https://www. tensorflow.org/tutorials/deep_cnn">link</a></div>
       </div>
 
-      <h3>Time</h3>
+      <h3>Time of last report</h3>
       <div class="row">
         <div class="col-md-4" id="time" >Fetching..</div>
       </div>
 
-      <h3>Current Spot Price</h3>
+      <h3>Current spot price where the job is running</h3>
 
       <div class="row">
         <div class="col-md-4" id="price">Fetching..</div>
       </div>
 
 
-      <h3>Current AZ</h3>
+      <h3>Current AZ where the job is running</h3>
       <div class="row">
         <div class="col-md-4" id="az">Fetching..</div>
       </div>
 
-      <h3>Current Step</h3>
+      <h3>Current step of the task</h3>
       <p><strong>How many steps</strong> at Deep Learning Task</p>
       <div class="row">
         <div class="col-md-3" id="step">Fetching..</div>
@@ -143,14 +143,13 @@ $(document).ready(
 
 
 
-      <h3>Spot Instances Price </h3>
+      <h3>Current g2.2xlarge spot instance price</h3>
       <div class="row">
         <div class="col-md-4" id="us-east-1a">Not Available</div>
         <div class="col-md-4" id="us-east-1b">Not Available</div>
         <div class="col-md-4" id="us-east-1c">Not Available</div>
         <div class="col-md-4" id="us-east-1d">Not Available</div>
         <div class="col-md-4" id="us-east-1e">Not Available</div>
-        <!-- <div class="col-md-4" id="us-west-1a">us-west-1a -> Not Available</div> -->
         <div class="col-md-4" id="us-west-1b">Not Available</div>
         <div class="col-md-4" id="us-west-1c">Not Available</div>
         <div class="col-md-4" id="us-west-2a">Not Available</div>
@@ -162,14 +161,11 @@ $(document).ready(
         <div class="col-md-4" id="eu-central-1a">Not Available</div>
         <div class="col-md-4" id="eu-central-1b">Not Available</div>
         <div class="col-md-4" id="ap-northeast-1a">Not Available</div>
-        <!-- <div class="col-md-4" id="ap-northeast-1b">ap-northeast-1b  ->  Not Available</div> -->
         <div class="col-md-4" id="ap-northeast-1c">Not Available</div>
         <div class="col-md-4" id="ap-southeast-1a">Not Available</div>
         <div class="col-md-4" id="ap-southeast-1b">Not Available</div>
         <div class="col-md-4" id="ap-southeast-2a">Not Available</div>
         <div class="col-md-4" id="ap-southeast-2b">Not Available</div>
-        <!-- <div class="col-md-4" id="eu-west-1a">Not Available</div> -->
-        <!-- <div class="col-md-4" id="eu-west-1b">Not Available</div> -->
       </div>
 
 
