@@ -6,46 +6,16 @@
 <script>
 $(document).ready(
         function(){
-
+          var list= {"time":undefined,"az":undefined,"price":undefined,"step":undefined,"migration":undefined};
         $.ajax({url: "https://j1kg8eg5p9.execute-api.us-east-1.amazonaws.com/deploy", success: function(result){
-            // $("#time").text(result['time']);
-            // $("#az").text(result['az']);
-            // $("#price").text(result['price']);
-            // var list = new List();
-            // list.add("time");
-            // list.add("az");
-            // list.add("price");
-            // list.add("step");
-            // var things = ['time','az','price','step'.'migration'];
-            // list.add("migration");
-            // $("#step").text(result['step']);
-            // var foo = document.createTextNode("\u00A0");
+
             $.each(result, function(key, value) {
-
-                if (key == "time"){
-
-                  $("#"+key).text(value);
-                }
-                else if (key == 'az'){
-                    $("#"+key).text(value);
-                }
-                else if (key == 'price'){
-                    $("#"+key).text(value);
-                }
-                else if (key == 'step'){
-                  $("#"+key).text(value);
-                }
-                else if (key == 'migration'){
-                  $("#"+key).text(value);
-                }
-              // if (key in things){
-              //   $("#"+key).text(value);
-              // }
+              if (key in list){
+                 $("#"+key).text(value);
+              }
                 else{
                   $("#"+key).text(key+'     ->        '+value);
                 }
-                // alert( "The key is '" + key + "' and the value is '" + value + "'" );
-
             });
         }
       ,fail: function(result){
@@ -102,7 +72,7 @@ $(document).ready(
 
       <div class="page-header">
         <h1>DeepSpotCloud Service</h1>
-        <p class="lead">DeepSpotCloud provides a way to execute deep learning task in a cost efficient way using GPU spot instances in AWS EC2. It utilizes spot instances across regions (continents) to broaden candidate instances. To preserve intermediate work even when an instance is interrupted due to an outbid event, DeepSpotCloud uses the checkpoint mechanism; an interrupted instance uploads a checkpoint outcome to a shared storage, and a new instance (in a different region/availability zone) resumes after downloading the checkpoint outcome. 
+        <p class="lead">DeepSpotCloud provides a way to execute deep learning task in a cost efficient way using GPU spot instances in AWS EC2. It utilizes spot instances across regions (continents) to broaden candidate instances. To preserve intermediate work even when an instance is interrupted due to an outbid event, DeepSpotCloud uses the checkpoint mechanism; an interrupted instance uploads a checkpoint outcome to a shared storage, and a new instance (in a different region/availability zone) resumes after downloading the checkpoint outcome.
         <br>The goal of this website is to show how DeepSpotCloud operates. It currently runs on an AWS EC2 g2.2xlarge spot instance while executing <a href="https://www.tensorflow.org/tutorials/deep_cnn">CIFAR-10 TensorFlow</a> job. The code can be downloaded from <a href="https://github.com/mjaysonnn/DeepSpotCloud">GitHub</a>.
       </div>
 
