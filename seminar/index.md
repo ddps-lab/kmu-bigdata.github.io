@@ -10,7 +10,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 | :------------: | :-------------: | :------------: | :-------------: | :------------: | 
-| Feb. 22th. 2017 | @jckim | SparkNet| [paper](https://amplab.cs.berkeley.edu/projects/sparknet/), [YahooHadoop-1](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop), [YahooHadoop-2](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep) | |
+| Feb. 22th. 2017 | @jckim | SparkNet| [paper](https://amplab.cs.berkeley.edu/projects/sparknet/), [YahooHadoop-1](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop), [YahooHadoop-2](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep), [TensorFrame](https://www.youtube.com/watch?v=08mrnJxcIWw) | |
 | Feb. 15th. 2017 | @sss | Docker Swarm or Kubernetes |[Swarm](https://www.docker.com/products/docker-swarm) [Kubernetes](https://kubernetes.io) ||
 | Feb. 8th. 2017 | @mj | Spot instance for deep learning(DeepSpotCloud) |[code](https://github.com/mjaysonnn/DeepSpotCloud) |[ppt](https://drive.google.com/open?id=0B93gDq1ZuFfubFdKSElkb0JEVzQ)|
 | Feb. 1st. 2017 | @sara | XGBoost | [paper](https://arxiv.org/abs/1603.02754) [site](https://xgboost.readthedocs.io/en/latest/)|[ppt](https://drive.google.com/open?id=0ByOPgARQ0MBmaHY2UnB5QUhSWWM)|
