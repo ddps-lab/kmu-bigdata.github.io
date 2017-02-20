@@ -7,7 +7,8 @@
 $(document).ready(
         function(){
           var list= {"time":undefined,"az":undefined,"price":undefined,"step":undefined,"migration":undefined};
-        $.ajax({url: "https://j1kg8eg5p9.execute-api.us-east-1.amazonaws.com/deploy", success: function(result){
+          var hrs = -(new Date().getTimezoneOffset() / 60);
+        $.ajax({url: "https://j1kg8eg5p9.execute-api.us-east-1.amazonaws.com/deploy?local="+hrs, success: function(result){
 
             $.each(result, function(key, value) {
               if (key in list){
@@ -18,14 +19,7 @@ $(document).ready(
                 }
             });
         }
-      // ,fail: function(result){
-      //   $("#time").text("error occured");
-      //   $("#az").text("error occured");
-      //   $("#price").text("error occured");
-      //   $("#step").text("error occured");
-      //
-      //
-      // }
+      
       });
     });
 
