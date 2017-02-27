@@ -3,35 +3,7 @@
   <head>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script>
-$(document).ready(
-        function(){
-          var list= {"time":undefined,"az":undefined,"price":undefined,"step":undefined,"migration":undefined};
-        $.ajax({url: "https://j1kg8eg5p9.execute-api.us-east-1.amazonaws.com/deploy", success: function(result){
-
-            $.each(result, function(key, value) {
-              if (key in list){
-                 $("#"+key).text(value);
-              }
-                else{
-                  $("#"+key).text(key+'     ->        '+value);
-                }
-            });
-        }
-      // ,fail: function(result){
-      //   $("#time").text("error occured");
-      //   $("#az").text("error occured");
-      //   $("#price").text("error occured");
-      //   $("#step").text("error occured");
-      //
-      //
-      // }
-      });
-    });
-
-</script>
-
-
+<script type="text/javascript" src="mj.js"></script>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
