@@ -10,6 +10,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 | :---------------: | :-------------: | :------------: | :-------------: | :------------: |
+| Mar. 20th. 2017 | @jckim | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | |
 | Mar. 13th. 2017 | @mj | using spot instances | [TR-Spark: Transient Computing for Big Data Analytics](http://dl.acm.org/citation.cfm?id=2987576) ||
 | Mar. 6th. 2017 | @sara | spot instance pricing | [Characterizing spot price dynamics in public cloud environments]( http://www.sciencedirect.com/science/article/pii/S0167739X12001483)|[ppt](https://drive.google.com/open?id=0ByOPgARQ0MBmajBZbzdhT3ZEdEE)|
 | Feb. 22th. 2017 | @jckim | SparkNet| [paper](https://amplab.cs.berkeley.edu/projects/sparknet/), [YahooHadoop-1](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop), [YahooHadoop-2](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep), [TensorFrame](https://www.youtube.com/watch?v=08mrnJxcIWw) | |
