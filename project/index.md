@@ -16,7 +16,7 @@ Smart Mirror란 사용자의 모션/음성/감정을 인식하여 제어하며 �
 <br>
 <br>
 전체 구성도는 다음과 같다.
-<img width="560" height="315" src="https://github.com/kmu-bigdata/kmu-bigdata.github.io/blob/master/project/%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6%E1%84%80%E1%85%AE%E1%84%89%E1%85%A5%E1%86%BC%E1%84%83%E1%85%A9.jpeg">
+<img width="560" height="315" src="http://bd-1.cs.kookmin.ac.kr/function.jpeg">
 <br>
 <br>작동 기능은 다음과 같다.
 <br>
