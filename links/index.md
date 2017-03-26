@@ -14,6 +14,7 @@ description: Seminar schedule of BigData Lab  in KMU
 ### Quora
 * [competitive programming contest](https://www.quora.com/Is-it-advisable-to-spend-at-least-1-hour-every-day-to-work-on-competitive-programming-problems-and-algorithms-to-become-a-better-developer)
 * [10 algorithms a SW engineer should know (Quora)](https://www.quora.com/What-are-the-top-10-algorithms-every-software-engineer-should-know-by-heart)
+* [Top 10 data mining algorithms you should learn](https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms)
 
 ### Random Stuffs
 * [Human errors brings down AWS](https://www.bloomberg.com/news/articles/2017-03-02/amazon-says-employee-error-caused-tuesday-s-cloud-outage)
