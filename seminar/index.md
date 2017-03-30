@@ -10,7 +10,10 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center> | <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center> | Topic | Link | Presentation |
 | :---------------: | :---------------: | :------------: | :-------------: | :------------: |
-| Mar. 27th. 2017 | Sara ALKharif | Sinusoidal Regression Model | | |
+| Apr. 24th. 2017 | Kim Jeong Chul | TensorFlow hands-on session| | |
+| Apr. 17th. 2017 | Kyungyong Lee | Autonomic BigData Cloud Computing | a new project| |
+| Apr. 3rd. 2017 | Nam Hyun Kim | NeuralNet | [textbook](http://neuralnetworksanddeeplearning.com/) | |
+| Mar. 27th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | | 
 | Mar. 20th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | |
 | Mar. 13th. 2017 | Son Myung Jun | using spot instances | [TR-Spark: Transient Computing for Big Data Analytics](http://dl.acm.org/citation.cfm?id=2987576) |[ppt](https://drive.google.com/file/d/0B93gDq1ZuFfud2hBcVM2TVFpSkU/view?usp=sharing)|
 | Mar. 6th. 2017 | Sara ALKharif | spot instance pricing | [Characterizing spot price dynamics in public cloud environments]( http://www.sciencedirect.com/science/article/pii/S0167739X12001483)|[ppt](https://drive.google.com/open?id=0ByOPgARQ0MBmajBZbzdhT3ZEdEE)|
