@@ -6,7 +6,8 @@ description: Seminar schedule of BigData Lab  in KMU
 ---
 
 ### Machine Learning (including deep learning)
-* [Top 100 deepp learning papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [efficient matrix multiplication](http://cseweb.ucsd.edu/classes/fa12/cse260-b/Lectures/Lec13.pdf)
+* [Top 100 deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Machine learning materials](https://github.com/off99555/machine-learning-curriculum)
 * [How do GANS intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.  7v46emcq0)
 * [Matrix Factorization and Collaborative Filtering](http://acsweb.ucsd.edu/~dklim/mf_presentation.   pdf)
