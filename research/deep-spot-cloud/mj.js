@@ -11,6 +11,7 @@ $(document).ready(
                 else{
                   $("#"+key).text(key+'     ->        '+value);
                 }
+
             });
         }
 
