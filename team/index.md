@@ -20,3 +20,6 @@ Administrator of BigData Laboratory<br>
 <b>Kim Jeong Chul  - B.S.</b><br> [blog](http://jeongchul.tistory.com/), [GitHub](https://github.com/KimJungChul)
 
 <b>Son Sung Soo    - B.S</b>   <br>[linkedin](https://www.linkedin.com/in/sungsoo-son-ba8ba9122/), [GitHub](https://github.com/sungsu7437)
+
+
+<b>Kim Nam Hyun    - B.S</b>   <br>
