@@ -12,6 +12,9 @@ description: Seminar schedule of BigData Lab  in KMU
 * [How do GANS intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.  7v46emcq0)
 * [Matrix Factorization and Collaborative Filtering](http://acsweb.ucsd.edu/~dklim/mf_presentation.   pdf)
 
+### Platforms - cloud and BigData
+* [Spark + GPU](https://www.oreilly.com/learning/accelerating-spark-workloads-using-gpus)
+
 ### Quora
 * [Is machine learning job better than a web developer job?](https://www.quora.com/Is-machine-learning-and-deep-learning-a-better-career-than-web-development-now)
 * [competitive programming contest](https://www.quora.com/Is-it-advisable-to-spend-at-least-1-hour-every-day-to-work-on-competitive-programming-problems-and-algorithms-to-become-a-better-developer)
