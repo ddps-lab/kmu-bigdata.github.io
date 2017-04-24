@@ -10,7 +10,8 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center> | <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center> | Topic | Link | Presentation |
 | :---------------: | :---------------: | :------------: | :-------------: | :------------: |
-| Apr. 24th. 2017 | Kim Jeong Chul | TensorFlow hands-on session| | |
+
+| May. 1st. 2017 | Kim Jeong Chul | TensorFlow hands-on session| | |
 | Apr. 17th. 2017 | Kyungyong Lee | Autonomic BigData Cloud Computing | a new project| |
 | Apr. 3rd. 2017 | Nam Hyun Kim | NeuralNet | [textbook](http://neuralnetworksanddeeplearning.com/) | |
 | Mar. 27th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | | 
