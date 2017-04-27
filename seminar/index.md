@@ -7,14 +7,12 @@ description: Seminar schedule of BigData Lab  in KMU
 ### Schedule
 
 
-
-| <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center> | <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center> | Topic | Link | Presentation |
-| :---------------: | :---------------: | :------------: | :-------------: | :------------: |
-
+| Date | Presenter | Topic | Link | Presentation |
+|------|-----------|-------|:----:|--------------|
 | May. 1st. 2017 | Kim Jeong Chul | TensorFlow hands-on session| | |
 | Apr. 17th. 2017 | Kyungyong Lee | Autonomic BigData Cloud Computing | a new project| |
 | Apr. 3rd. 2017 | Nam Hyun Kim | NeuralNet | [textbook](http://neuralnetworksanddeeplearning.com/) | |
-| Mar. 27th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | | 
+| Mar. 27th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | |
 | Mar. 20th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | |
 | Mar. 13th. 2017 | Son Myung Jun | using spot instances | [TR-Spark: Transient Computing for Big Data Analytics](http://dl.acm.org/citation.cfm?id=2987576) |[ppt](https://drive.google.com/file/d/0B93gDq1ZuFfud2hBcVM2TVFpSkU/view?usp=sharing)|
 | Mar. 6th. 2017 | Sara ALKharif | spot instance pricing | [Characterizing spot price dynamics in public cloud environments]( http://www.sciencedirect.com/science/article/pii/S0167739X12001483)|[ppt](https://drive.google.com/open?id=0ByOPgARQ0MBmajBZbzdhT3ZEdEE)|
@@ -25,7 +23,6 @@ description: Seminar schedule of BigData Lab  in KMU
 | Jan. 25th. 2017 | Kim Jeong Chul | Virtualization or Containerization? | [Quora](https://www.quora.com/What-is-the-difference-between-containerization-Docker-and-virtualization-VMWare-VirtualBox-Xen), [stackoverflow](http://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine), [blog](https://monkeyvault.net/docker-vs-virtualization/) | [docs](https://drive.google.com/open?id=1KkE_-nf2OAf2QRBnM7a3Xv6jipPCczo4Yrbtw_cUqtw) |
 | Jan. 18th. 2017 | Son Sung Soo | YARN | [YARN](http://dl.acm.org/citation.cfm?id=2523633) | [docs](https://docs.google.com/presentation/d/1MyyGAaSqBr7D90bZ29nryWQmAj_6n4l_bQEc2Ite5VE/edit#slide=id.p4)
 | Jan. 11th. 2017 | Son Myung Jun | GSDC Data computing school | [GSDC](https://indico.cern.ch/event/577216/) | [docs](https://drive.google.com/drive/folders/0B93gDq1ZuFfuWkJBcXl6YWlGa0k?usp=sharing)
-
 
 ### Good papers to read
 
