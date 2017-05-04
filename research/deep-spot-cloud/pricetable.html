@@ -7,6 +7,7 @@
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/datepicker3.css" rel="stylesheet">
+    <link href="css/bootstrap-table.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
 
     <!--Icons-->
@@ -52,7 +53,7 @@
         </div>
     </form>
     <ul class="nav menu">
-        <li class="active"><a href="index.html">
+        <li><a href="index.html">
             <svg class="glyph stroked dashboard-dial">
                 <use xlink:href="#stroked-dashboard-dial"></use>
             </svg>
@@ -62,7 +63,7 @@
                 <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#stroked-map"></use>
             </svg>
             Migration Routes</a></li>
-        <li><a href="pricetable.html">
+        <li class="active"><a href="pricetable.html">
             <svg class="glyph stroked table">
                 <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#stroked-table"></use>
             </svg>
@@ -86,93 +87,56 @@
                     <use xlink:href="#stroked-home"></use>
                 </svg>
             </a></li>
-            <li class="active">Dashboard</li>
+            <li class="active">PriceTable</li>
         </ol>
     </div><!--/.row-->
 
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Dashboard</h1>
+            <h1 class="page-header">PriceTable</h1>
         </div>
     </div><!--/.row-->
 
-    <div class="row">
-        <div class="col-xs-12 col-md-6">
-            <div class="panel panel-red panel-widget ">
-                <div class="row no-padding">
-                    <div class="col-sm-3 col-lg-5 widget-left">
-                        <svg class="glyph stroked usb-flash-drive">
-                            <use xlink:href="#stroked-usb-flash-drive"></use>
-                        </svg>
-                    </div>
-                    <div class="col-sm-9 col-lg-7 widget-right">
-                        <div id="view_current_running" class="large"></div>
-                        <div class="text-muted">Current Running</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-md-6">
-            <div class="panel panel-blue panel-widget">
-                <div class="row no-padding">
-                    <div class="col-sm-3 col-lg-5 widget-left">
-                        <svg class="glyph stroked desktop">
-                            <use xlink:href="#stroked-desktop"></use>
-                        </svg>
-                    </div>
-                    <div class="col-sm-9 col-lg-7 widget-right">
-                        <div id="view_current_price" class="large"></div>
-                        <div id="view_current_region" class="text-muted"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-md-6">
-            <div class="panel panel-orange panel-widget">
-                <div class="row no-padding">
-                    <div class="col-sm-3 col-lg-5 widget-left">
-                        <svg class="glyph stroked clipboard-with-paper">
-                            <use xlink:href="#stroked-clipboard-with-paper"></use>
-                        </svg>
-                    </div>
-                    <div class="col-sm-9 col-lg-7 widget-right">
-                        <div id="view_current_step" class="large"></div>
-                        <div class="text-muted">Current Step</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-md-6">
-            <div class="panel panel-teal panel-widget">
-                <div class="row no-padding">
-                    <div class="col-sm-3 col-lg-5 widget-left">
-                        <svg class="glyph stroked line-graph">
-                            <use xlink:href="#stroked-line-graph"></use>
-                        </svg>
-                    </div>
-                    <div class="col-sm-9 col-lg-7 widget-right">
-                        <div id="view_current_saving" class="large"></div>
-                        <div class="text-muted">Aver. Saving</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div><!--/.row-->
 
     <div class="row">
         <div class="col-lg-12">
             <div class="panel panel-default">
-                <div class="panel-heading">Saving Rates</div>
+                <div class="panel-heading">Current Spot Instances Price Table</div>
                 <div class="panel-body">
-                    <div class="canvas-wrapper">
-                        <canvas class="main-chart" id="view_saving_chart" height="200" width="600"></canvas>
-                    </div>
+                    <table id="price_table" data-show-refresh="true"
+                           data-show-toggle="true" data-show-columns="true" data-search="true"
+                           data-select-item-name="toolbar1" data-pagination="true" data-sort-name="type"
+                           data-sort-order="instance">
+                        <thead>
+                        <tr>
+                            <th data-field="type" data-sortable="true">Instace Type</th>
+                            <th data-field="ap" data-sortable="true">Region</th>
+                            <th data-field="price" data-sortable="true">Price</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </div>
     </div><!--/.row-->
 
-</div>    <!--/.main-->
+    <!--<div class="row">-->
+        <!--<div class="col-lg-12">-->
+            <!--<div class="panel panel-default">-->
+                <!--<div class="panel-heading">Price Graph</div>-->
+                <!--<div class="panel-body">-->
+                    <!--<div class="canvas-wrapper">-->
+                        <!--<canvas class="main-chart" id="line-chart" height="200" width="600"></canvas>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
+
+
+</div><!--/.main-->
 
 <div id="pleaseWaitDialog" data-backdrop="static" data-keyboard="false" class="modal fade" role="dialog">
     <div class="modal-dialog">
@@ -195,9 +159,9 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="js/core/bootstrap.min.js"></script>
 <script src="js/core/chart.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+<script src="js/core/bootstrap-table.js"></script>
 <script type="text/javascript" src="js/app/base.js"></script>
-<script type="text/javascript" src="js/app/index.js"></script>
+<script type="text/javascript" src="js/app/pricetable.js"></script>
 </body>
 
 </html>

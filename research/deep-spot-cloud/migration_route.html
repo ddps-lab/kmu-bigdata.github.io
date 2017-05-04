@@ -7,6 +7,7 @@
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/datepicker3.css" rel="stylesheet">
+    <link href="css/bootstrap-table.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
 
     <!--Icons-->
@@ -52,12 +53,12 @@
         </div>
     </form>
     <ul class="nav menu">
-        <li class="active"><a href="index.html">
+        <li><a href="index.html">
             <svg class="glyph stroked dashboard-dial">
                 <use xlink:href="#stroked-dashboard-dial"></use>
             </svg>
             Dashboard</a></li>
-        <li><a href="migration_route.html">
+        <li class="active"><a href="migration_route.html">
             <svg class="glyph stroked map">
                 <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#stroked-map"></use>
             </svg>
@@ -86,93 +87,86 @@
                     <use xlink:href="#stroked-home"></use>
                 </svg>
             </a></li>
-            <li class="active">Dashboard</li>
+            <li class="active">Migration Routes</li>
         </ol>
     </div><!--/.row-->
 
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Dashboard</h1>
+            <h1 class="page-header">Migration Routes</h1>
         </div>
     </div><!--/.row-->
 
-    <div class="row">
-        <div class="col-xs-12 col-md-6">
-            <div class="panel panel-red panel-widget ">
-                <div class="row no-padding">
-                    <div class="col-sm-3 col-lg-5 widget-left">
-                        <svg class="glyph stroked usb-flash-drive">
-                            <use xlink:href="#stroked-usb-flash-drive"></use>
-                        </svg>
-                    </div>
-                    <div class="col-sm-9 col-lg-7 widget-right">
-                        <div id="view_current_running" class="large"></div>
-                        <div class="text-muted">Current Running</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-md-6">
-            <div class="panel panel-blue panel-widget">
-                <div class="row no-padding">
-                    <div class="col-sm-3 col-lg-5 widget-left">
-                        <svg class="glyph stroked desktop">
-                            <use xlink:href="#stroked-desktop"></use>
-                        </svg>
-                    </div>
-                    <div class="col-sm-9 col-lg-7 widget-right">
-                        <div id="view_current_price" class="large"></div>
-                        <div id="view_current_region" class="text-muted"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-md-6">
-            <div class="panel panel-orange panel-widget">
-                <div class="row no-padding">
-                    <div class="col-sm-3 col-lg-5 widget-left">
-                        <svg class="glyph stroked clipboard-with-paper">
-                            <use xlink:href="#stroked-clipboard-with-paper"></use>
-                        </svg>
-                    </div>
-                    <div class="col-sm-9 col-lg-7 widget-right">
-                        <div id="view_current_step" class="large"></div>
-                        <div class="text-muted">Current Step</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-md-6">
-            <div class="panel panel-teal panel-widget">
-                <div class="row no-padding">
-                    <div class="col-sm-3 col-lg-5 widget-left">
-                        <svg class="glyph stroked line-graph">
-                            <use xlink:href="#stroked-line-graph"></use>
-                        </svg>
-                    </div>
-                    <div class="col-sm-9 col-lg-7 widget-right">
-                        <div id="view_current_saving" class="large"></div>
-                        <div class="text-muted">Aver. Saving</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div><!--/.row-->
+    <!--<div class="row">-->
+        <!--<div class="col-lg-12">-->
+            <!--<div class="panel panel-default">-->
+                <!--<div class="panel-heading">Migration Map</div>-->
+                <!--<div class="panel-body">-->
+                    <!--<p>Google Map here</p>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
 
     <div class="row">
         <div class="col-lg-12">
             <div class="panel panel-default">
-                <div class="panel-heading">Saving Rates</div>
+                <div class="panel-heading">Migration Log</div>
                 <div class="panel-body">
-                    <div class="canvas-wrapper">
-                        <canvas class="main-chart" id="view_saving_chart" height="200" width="600"></canvas>
+                    <div class="bootstrap-table">
+                        <div class="fixed-table-toolbar"></div>
+                        <div class="fixed-table-container">
+                            <div class="fixed-table-header">
+                                <table></table>
+                            </div>
+                            <div class="fixed-table-body">
+                                <div class="fixed-table-loading" style="top: 37px; display: none;">Loading, please
+                                    wait…
+                                </div>
+                                <table id="route_table" class="table table-hover">
+                                    <thead>
+                                    <tr>
+                                        <th style="text-align: right; ">
+                                            <div class="th-inner ">#</div>
+                                            <div class="fht-cell"></div>
+                                        </th>
+                                        <th style="">
+                                            <div class="th-inner ">Region</div>
+                                            <div class="fht-cell"></div>
+                                        </th>
+                                        <th style="">
+                                            <div class="th-inner ">Cost</div>
+                                            <div class="fht-cell"></div>
+                                        </th>
+                                        <th style="">
+                                            <div class="th-inner ">Saving</div>
+                                            <div class="fht-cell"></div>
+                                        </th>
+                                        <th style="">
+                                            <div class="th-inner ">Timestamp</div>
+                                            <div class="fht-cell"></div>
+                                        </th>
+                                        <th style="">
+                                            <div class="th-inner ">Step worked</div>
+                                            <div class="fht-cell"></div>
+                                        </th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="fixed-table-pagination"></div>
+                        </div>
                     </div>
+                    <div class="clearfix"></div>
                 </div>
             </div>
         </div>
     </div><!--/.row-->
 
-</div>    <!--/.main-->
+
+</div><!--/.main-->
 
 <div id="pleaseWaitDialog" data-backdrop="static" data-keyboard="false" class="modal fade" role="dialog">
     <div class="modal-dialog">
@@ -194,10 +188,9 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="js/core/bootstrap.min.js"></script>
-<script src="js/core/chart.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+<script src="js/core/bootstrap-table.js"></script>
 <script type="text/javascript" src="js/app/base.js"></script>
-<script type="text/javascript" src="js/app/index.js"></script>
+<script type="text/javascript" src="js/app/migration_route.js"></script>
 </body>
 
 </html>
