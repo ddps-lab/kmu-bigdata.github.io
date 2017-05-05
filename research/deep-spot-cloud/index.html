@@ -96,6 +96,17 @@
         </div>
     </div><!--/.row-->
 
+    <div id="service-info" class="row">
+        <div class="col-lg-12">
+            <div class="jumbotron">
+                <button type="button" class="close" aria-label="Close" onclick="closeDescription()"><span aria-hidden="true">&times;</span></button>
+                <p>DeepSpotCloud provides a way to execute deep learning task in a cost efficient way using GPU spot instances in AWS EC2. It utilizes spot instances across regions (continents) to broaden candidate instances. To preserve intermediate work even when an instance is interrupted due to an outbid event, DeepSpotCloud uses the checkpoint mechanism; an interrupted instance uploads a checkpoint outcome to a shared storage, and a new instance (in a different region/availability zone) resumes after downloading the checkpoint outcome.</p>
+                <p>The goal of this website is to show how DeepSpotCloud operates. It currently runs on an AWS EC2 g2.2xlarge spot instance while executing <a href="https://www.tensorflow.org/tutorials/deep_cnn">CIFAR-10 TensorFlow</a> job.</p>
+                <p><a class="btn btn-primary btn-lg" href="https://github.com/mjaysonnn/DeepSpotCloud" role="button">Code on Github</a></p>
+            </div>
+        </div>
+    </div>
+
     <div class="row">
         <div class="col-xs-12 col-md-6">
             <div class="panel panel-red panel-widget ">

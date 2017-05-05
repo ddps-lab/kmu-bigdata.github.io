@@ -2,6 +2,10 @@
  * Created by kde713 on 2017. 5. 1..
  */
 
+function closeDescription() {
+    $("#service-info").hide();
+}
+
 $(document).ready(function () {
     // 1. Get current timezone offset
     const tzOffset = -(new Date().getTimezoneOffset() / 60);
