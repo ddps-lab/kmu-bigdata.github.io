@@ -9,7 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|--------------|
-| May. 8th. 2017 | Son Myung Jun | CherryPick | [paper](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)| | |
+| May. 8th. 2017 | Son Myung Jun | CherryPick | [paper](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)| [ppt](https://docs.google.com/presentation/d/1FwFtsm5P0S01dMM7pK2nY_V_5qOkFndom6L5nKYu7Mo/edit?usp=sharing)|
 | May. 1st. 2017 | Kim Jeong Chul | TensorFlow hands-on session| | |
 | Apr. 17th. 2017 | Kyungyong Lee | Autonomic BigData Cloud Computing | a new project| |
 | Apr. 3rd. 2017 | Nam Hyun Kim | NeuralNet | [textbook](http://neuralnetworksanddeeplearning.com/) | |
