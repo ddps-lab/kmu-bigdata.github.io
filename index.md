@@ -1,9 +1,11 @@
 ---
 layout: page
-title: BigData Lab in KMU
+title: BigData/Database Lab in KMU
 tagline:
-description: BigData Lab in KMU
+description: BigData/Database Lab in KMU
 ---
+
+#### In BigData/Database Lab. in Kookmin University, cutting-edge research is conducted in the field of BigData processing platforms, efficient resource management in the cloud computing, and information extraction from large-scale datasets. Please refer to the [research](/research) page for further information.
 <div>Location: 서울특별시 성북구 정릉로 77 , 7호관, 628호</div>
 <div>Phone: 02-910-5046</div>
 <div>      628, 7th Department, 77 JEONGNEUNG-RO, SEONGBUK-GU, SEOUL, 02707, KOREA.</div>
