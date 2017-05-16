@@ -12,7 +12,7 @@ description: Seminar schedule of BigData Lab  in KMU
 | May. 22th. 2017 | Namhyun |Using Spark on GPUs | [paper](http://conferences.computer.org/pdswdiscs/2016/papers/5216a025.pdf) | |
 | May. 15th. 2017 | Sara | C-Fuzzy Decision Tree| [paper](http://dl.acm.org/citation.cfm?id=2169836) | |
 | May. 8th. 2017 | Son Myung Jun | CherryPick | [paper](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)| [ppt](https://docs.google.com/presentation/d/1FwFtsm5P0S01dMM7pK2nY_V_5qOkFndom6L5nKYu7Mo/edit?usp=sharing)|
-| May. 1st. 2017 | Kim Jeong Chul | TensorFlow hands-on session| [ppt](https://docs.google.com/presentation/d/1s8lIqARuRHa6rxAiVIxnzD_8hnS7Fs-eCQL_6IRfaH4/edit?usp=sharing) | |
+| May. 1st. 2017 | Kim Jeong Chul | TensorFlow hands-on session| | [ppt](https://docs.google.com/presentation/d/1s8lIqARuRHa6rxAiVIxnzD_8hnS7Fs-eCQL_6IRfaH4/edit?usp=sharing) |
 | Apr. 17th. 2017 | Kyungyong Lee | Autonomic BigData Cloud Computing | a new project| |
 | Apr. 3rd. 2017 | Nam Hyun Kim | NeuralNet | [textbook](http://neuralnetworksanddeeplearning.com/) | |
 | Mar. 27th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | |
