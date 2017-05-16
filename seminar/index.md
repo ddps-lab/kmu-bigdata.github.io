@@ -12,11 +12,11 @@ description: Seminar schedule of BigData Lab  in KMU
 | May. 22th. 2017 | Namhyun |Using Spark on GPUs | [paper](http://conferences.computer.org/pdswdiscs/2016/papers/5216a025.pdf) | |
 | May. 15th. 2017 | Sara | C-Fuzzy Decision Tree| [paper](http://dl.acm.org/citation.cfm?id=2169836) | |
 | May. 8th. 2017 | Son Myung Jun | CherryPick | [paper](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)| [ppt](https://docs.google.com/presentation/d/1FwFtsm5P0S01dMM7pK2nY_V_5qOkFndom6L5nKYu7Mo/edit?usp=sharing)|
-| May. 1st. 2017 | Kim Jeong Chul | TensorFlow hands-on session| | |
+| May. 1st. 2017 | Kim Jeong Chul | TensorFlow hands-on session| [ppt](https://docs.google.com/presentation/d/1s8lIqARuRHa6rxAiVIxnzD_8hnS7Fs-eCQL_6IRfaH4/edit?usp=sharing) | |
 | Apr. 17th. 2017 | Kyungyong Lee | Autonomic BigData Cloud Computing | a new project| |
 | Apr. 3rd. 2017 | Nam Hyun Kim | NeuralNet | [textbook](http://neuralnetworksanddeeplearning.com/) | |
 | Mar. 27th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | |
-| Mar. 20th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | |
+| Mar. 20th. 2017 | Kim Jeong Chul | TensorFlow | [paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) | [ppt](https://docs.google.com/presentation/d/1xZ8jrBzPRNpX2okp0lNNl79NQHmxBEEXiBr7cOk9QAk/edit?usp=sharing) |
 | Mar. 13th. 2017 | Son Myung Jun | using spot instances | [TR-Spark: Transient Computing for Big Data Analytics](http://dl.acm.org/citation.cfm?id=2987576) |[ppt](https://drive.google.com/file/d/0B93gDq1ZuFfud2hBcVM2TVFpSkU/view?usp=sharing)|
 | Mar. 6th. 2017 | Sara ALKharif | spot instance pricing | [Characterizing spot price dynamics in public cloud environments]( http://www.sciencedirect.com/science/article/pii/S0167739X12001483)|[ppt](https://drive.google.com/open?id=0ByOPgARQ0MBmajBZbzdhT3ZEdEE)|
 | Feb. 22th. 2017 | Kim Jeong Chul | SparkNet| [paper](https://amplab.cs.berkeley.edu/projects/sparknet/), [YahooHadoop-1](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop), [YahooHadoop-2](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep), [TensorFrame](https://www.youtube.com/watch?v=08mrnJxcIWw) | [ppt](https://docs.google.com/presentation/d/1WBPDKzWzgXxKPdAPduBeAIzXzc0UFn7iqm8jz4jSFJc/edit?usp=sharing) |
