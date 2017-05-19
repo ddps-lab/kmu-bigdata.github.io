@@ -8,6 +8,7 @@ tagline:
 * [GitHub organization](https://github.com/kmu-bigdata)
 
 ### 코드 공유 및 리뷰 요청
+* **개별 브랜치 사용의 생활화** (master 브랜치에서 직접 작업은 지양)
 * master 브랜치로 업데이트는 pull-request 를 통해서 이루어짐.
 * 개별 브랜치에서 작업 후 `git push origin branch-name` 을 통해서 개별 브랜치로 push 한 후, GitHub 에서 Pull Request 생성
 * Pull Request 생성시에 필요하다면 Reviewer 지정을 통해서 리뷰 요청 가능
