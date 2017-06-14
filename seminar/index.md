@@ -9,7 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|--------------|
-| June. 12th. 2017 | Son Myung Jun | CPU and GPU orchestration | [paper](Unified Development for Mixed Multi-GPU and Multi-Coprocessor Environments using a Lightweight Runtime Environment) | |
+| June. 12th. 2017 | Son Myung Jun | CPU and GPU orchestration | [paper](http://www.netlib.org/utk/people/JackDongarra/PAPERS/haidar_ipdps.pdf) | [paper](https://docs.google.com/presentation/d/1njK0i7WrJEuAfDItr9eE7iTpTp-0e2fXhTSXQFka-ts/edit?usp=sharing) |
 | May. 29th. 2017 | Kim Jeong Chul | Containerization VS. Virtualization | [paper](http://blog.pierreroudier.net/wp-content/uploads/2015/08/rc25482.pdf) | | 
 | May. 22th. 2017 | Namhyun Kim |Using Spark on GPUs | [paper](http://conferences.computer.org/pdswdiscs/2016/papers/5216a025.pdf) | |
 | May. 15th. 2017 | Sara | C-Fuzzy Decision Tree| [paper](http://dl.acm.org/citation.cfm?id=2169836) | [ppt](https://drive.google.com/open?id=0ByOPgARQ0MBmMm8zUWtrUXI3MzA)|
