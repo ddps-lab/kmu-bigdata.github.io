@@ -9,6 +9,8 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|--------------|
+| July. 13th. 2017 | Namhyun | Matrix multiplication on Sparkk | [marlin](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7364023) and [CARMA](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6569817) | |
+| June. 20th. 2017 | Sara | Time series for spot instance price | | |
 | June. 12th. 2017 | Son Myung Jun | CPU and GPU orchestration | [paper](Unified Development for Mixed Multi-GPU and Multi-Coprocessor Environments using a Lightweight Runtime Environment) | |
 | May. 29th. 2017 | Kim Jeong Chul | Containerization VS. Virtualization | [paper](http://blog.pierreroudier.net/wp-content/uploads/2015/08/rc25482.pdf) | | 
 | May. 22th. 2017 | Namhyun Kim |Using Spark on GPUs | [paper](http://conferences.computer.org/pdswdiscs/2016/papers/5216a025.pdf) | |
