@@ -9,6 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|--------------|
+| Aug. 14th. 2017 | Kim Jeong Chul | Selecting the Best VM across Multiple Public Clouds: A Data-Driven Performance Modeling Approach | [paper](https://rise.cs.berkeley.edu/blog/publication/selecting-best-vm-across-multiple-public-clouds-data-driven-performance-modeling-approach/) | |
 | Aug. 10th. 2017 | SSS | Distributed matrix computation on Spark | [paper](http://ieeexplore.ieee.org/document/7930046/) | |
 | Aug. 1st. 2017 | MJ | Exploiting Matrix Dependency for Efficient Distributed Matrix Computation | [paper](http://dl.acm.org/citation.cfm?id=2723712)| [ppt](https://docs.google.com/presentation/d/1CTtiXvtWdIOb9T81EeI-q7ZvDkx9koRGfWLk7_Eh87g/edit?usp=sharing) |
 | July. 18th. 2017 | Namhyun | Matrix multiplication on Sparkk | [marlin](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7364023) and [CARMA](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6569817) | |
