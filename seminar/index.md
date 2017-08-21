@@ -12,7 +12,7 @@ description: Seminar schedule of BigData Lab  in KMU
 | Aug. 14th. 2017 | Kim Jeong Chul | Selecting the Best VM across Multiple Public Clouds: A Data-Driven Performance Modeling Approach | [paper](https://rise.cs.berkeley.edu/blog/publication/selecting-best-vm-across-multiple-public-clouds-data-driven-performance-modeling-approach/) | |
 | Aug. 10th. 2017 | SSS | Distributed matrix computation on Spark | [paper](http://ieeexplore.ieee.org/document/7930046/) | |
 | Aug. 1st. 2017 | MJ | Exploiting Matrix Dependency for Efficient Distributed Matrix Computation | [paper](http://dl.acm.org/citation.cfm?id=2723712)| [ppt](https://docs.google.com/presentation/d/1CTtiXvtWdIOb9T81EeI-q7ZvDkx9koRGfWLk7_Eh87g/edit?usp=sharing) |
-| July. 18th. 2017 | Namhyun | Matrix multiplication on Sparkk | [marlin](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7364023) and [CARMA](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6569817) | |
+| July. 18th. 2017 | Namhyun | Matrix multiplication on Sparkk | [marlin](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7364023) and [CARMA](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6569817) | [ppt](https://drive.google.com/file/d/0B92DMqWrbqAIc01uZDJHU2EyaFU/view?usp=sharing) |
 | July. 13th. 2017 | Sara | Time series for spot instance price | | |
 | June. 12th. 2017 | Son Myung Jun | CPU and GPU orchestration | [paper](http://www.netlib.org/utk/people/JackDongarra/PAPERS/haidar_ipdps.pdf) | [ppt](https://docs.google.com/presentation/d/1njK0i7WrJEuAfDItr9eE7iTpTp-0e2fXhTSXQFka-ts/edit?usp=sharing) |
 | May. 29th. 2017 | Kim Jeong Chul | Containerization VS. Virtualization | [paper](http://blog.pierreroudier.net/wp-content/uploads/2015/08/rc25482.pdf) | | 
