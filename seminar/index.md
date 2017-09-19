@@ -10,7 +10,7 @@ description: Seminar schedule of BigData Lab  in KMU
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|--------------|
 | Sep. 26th. 2017 | Namhyun | Random forest and decision tree | [coursera](https://www.coursera.org/learn/practical-machine-learning/) - week 3 | |
-| Sep. 19th. 2017 | MJ | OpenCL and its application (Lessons from the summer accelerator school) | | |
+| Sep. 19th. 2017 | MJ | OpenCL and its application (Lessons from the summer accelerator school) | | [ppt](https://docs.google.com/presentation/d/1UrcOTkwWslU17_Zjd8WX2g4ccnsNtlpwbT6T4FJjMLc/edit?usp=sharing) [gitHub](https://github.com/mjaysonnn/Accelerator)|
 | Sep. 11th. 2017 | Kim Jeong Chul | Selecting the Best VM across Multiple Public Clouds: A Data-Driven Performance Modeling Approach | [paper](https://rise.cs.berkeley.edu/blog/publication/selecting-best-vm-across-multiple-public-clouds-data-driven-performance-modeling-approach/) | [ppt](https://docs.google.com/presentation/d/1Uy0X-vKmbqgqoaONZ19eUDCuw1E0_zxuubRGgRZDxVA/edit?usp=sharing) |
 | Aug. 31st. 2017 | SSS | Distributed matrix computation on Spark | [paper](http://ieeexplore.ieee.org/document/7930046/) | [ppt](https://docs.google.com/presentation/d/1UFTaaLUZwBiRQS13aD6iICVsJpGBxWFcUcHsAYRDXGI/edit?usp=sharing) |
 | Aug. 1st. 2017 | MJ | Exploiting Matrix Dependency for Efficient Distributed Matrix Computation | [paper](http://dl.acm.org/citation.cfm?id=2723712)| [ppt](https://docs.google.com/presentation/d/1CTtiXvtWdIOb9T81EeI-q7ZvDkx9koRGfWLk7_Eh87g/edit?usp=sharing) |
