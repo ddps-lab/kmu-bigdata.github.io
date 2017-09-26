@@ -6,8 +6,8 @@ description: who are in Lab.
 ---
 ### Faculties
 
-* **Kim, Hyuk Man** - Professor and Director of BigData/Database Lab.
-* **Lee, Kyungyong** - Assistant Professor [web](https://leeky.me)
+* **Kim, Hyeok Man** - Professor and Director of BigData/Database Lab.
+* **Lee, Kyungyong** - Assistant Professor [web](http://leeky.me)
 
 ### Graduate Students
 * **Sara ALKharif** [blog](https://saraml.com/), [GitHub](https://github.com/sarah-Abdulaziz)
