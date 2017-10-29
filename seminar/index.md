@@ -10,7 +10,7 @@ description: Seminar schedule of BigData Lab  in KMU
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
 | Oct. 30th. 2017 | MJ | Predicting cloud performance for HPC applications: a user-oriented approach | [paper](http://ieeexplore.ieee.org/document/7973739/) | [ppt](https://docs.google.com/presentation/d/1hC5pTUSrqA6lrC-qWmIJ38n27xCmvmNm1Rhc1EnMO70/edit?usp=sharing) |
-| Oct. 23th. 2017 | Kim Jeong Chul | boosting (ADAboosting and Gradient boosting) and random forest | | |
+| Oct. 23th. 2017 | Kim Jeong Chul | boosting (ADAboosting and Gradient boosting) and random forest | | [ppt](https://docs.google.com/presentation/d/1_oYDgG5tp7_ChVqqFxI9wluRRRfzENzBN5VPWLW2GwQ/edit?usp=sharing)|
 | Oct. 16th. 2017 | SSS | Ernest: Efficient Performance Prediction for Large-Scale Advanced Analytics | [paper](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-venkataraman.pdf) | |
 | Oct. 10th. 2017 | Namhyun | Random forest and decision tree | [coursera](https://www.coursera.org/learn/practical-machine-learning/) - week 3 | |
 | Sep. 19th. 2017 | MJ | OpenCL and its application (Lessons from the summer accelerator school) | | [ppt](https://docs.google.com/presentation/d/1UrcOTkwWslU17_Zjd8WX2g4ccnsNtlpwbT6T4FJjMLc/edit?usp=sharing) [gitHub](https://github.com/mjaysonnn/Accelerator)|
