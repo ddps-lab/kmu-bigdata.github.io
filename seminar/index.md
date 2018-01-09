@@ -9,7 +9,8 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
-| Jan. 3rd. 2018 | SSS | Resource Elasticity for Large-Scale Machine Learning | [paper](https://dl.acm.org/citation.cfm?id=2723372.2749432) | |
+| Jan. 24th. 2018 | MJ | Distributed nonnegative matrix factorization for web-scale dyadic data analysis on mapreduce | [paper](https://dl.acm.org/citation.cfm?id=1772760) | |
+| Jan. 17th. 2018 | SSS | Resource Elasticity for Large-Scale Machine Learning | [paper](https://dl.acm.org/citation.cfm?id=2723372.2749432) | |
 | Dec. 27th. 2017 | leeky | Autonomic BigData Cloud Computing | | |
 | Oct. 30th. 2017 | MJ | Predicting cloud performance for HPC applications: a user-oriented approach | [paper](http://ieeexplore.ieee.org/document/7973739/) | [ppt](https://docs.google.com/presentation/d/1hC5pTUSrqA6lrC-qWmIJ38n27xCmvmNm1Rhc1EnMO70/edit?usp=sharing) |
 | Oct. 23th. 2017 | Kim Jeong Chul | boosting (ADAboosting and Gradient boosting) and random forest | | [ppt](https://docs.google.com/presentation/d/1_oYDgG5tp7_ChVqqFxI9wluRRRfzENzBN5VPWLW2GwQ/edit?usp=sharing)|
