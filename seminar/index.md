@@ -9,7 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
-| Jan. 24th. 2018 | MJ | Distributed nonnegative matrix factorization for web-scale dyadic data analysis on mapreduce | [paper](https://dl.acm.org/citation.cfm?id=1772760) | |
+| Jan. 24th. 2018 | MJ | Distributed nonnegative matrix factorization for web-scale dyadic data analysis on mapreduce | [paper](https://dl.acm.org/citation.cfm?id=1772760) | [ppt](https://docs.google.com/presentation/d/12TtK-bIJXoPCYn3Oj2mBDf5_GPqjBpfliy8IKUeH-B0/edit#slide=id.p3)|
 | Jan. 17th. 2018 | SSS | Resource Elasticity for Large-Scale Machine Learning | [paper](https://dl.acm.org/citation.cfm?id=2723372.2749432) | [ppt](https://docs.google.com/presentation/d/1_yZYrLxb7WlmHp2IfA4K8px3-hePIIfMOHKqy6BMnIU/edit?usp=sharing) |
 | Dec. 27th. 2017 | leeky | Autonomic BigData Cloud Computing | | |
 | Oct. 30th. 2017 | MJ | Predicting cloud performance for HPC applications: a user-oriented approach | [paper](http://ieeexplore.ieee.org/document/7973739/) | [ppt](https://docs.google.com/presentation/d/1hC5pTUSrqA6lrC-qWmIJ38n27xCmvmNm1Rhc1EnMO70/edit?usp=sharing) |
