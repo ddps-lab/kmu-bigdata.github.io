@@ -10,6 +10,9 @@ description: Seminar schedule of BigData Lab  in KMU
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
 | Feb. 28th. 2018 | Kim Jeong Chul | WSDM CUP 2018 | [paper](http://wsdm-cup-2018.kkbox.events/pdf/1_WSDM_Cup_Bing_Bai_Revised.pdf) | [ppt](https://docs.google.com/presentation/d/1d43-vbnGOM_ggKcexQUcpp8Wx6BXYc3GOlDEMeMuE_A/edit?usp=sharing) |
+| Jan. 24th. 2018 | MJ | Distributed nonnegative matrix factorization for web-scale dyadic data analysis on mapreduce | [paper](https://dl.acm.org/citation.cfm?id=1772760) | [ppt](https://docs.google.com/presentation/d/12TtK-bIJXoPCYn3Oj2mBDf5_GPqjBpfliy8IKUeH-B0/edit#slide=id.p3)|
+| Jan. 17th. 2018 | SSS | Resource Elasticity for Large-Scale Machine Learning | [paper](https://dl.acm.org/citation.cfm?id=2723372.2749432) | [ppt](https://docs.google.com/presentation/d/1_yZYrLxb7WlmHp2IfA4K8px3-hePIIfMOHKqy6BMnIU/edit?usp=sharing) |
+| Dec. 27th. 2017 | leeky | Autonomic BigData Cloud Computing | | |
 | Oct. 30th. 2017 | MJ | Predicting cloud performance for HPC applications: a user-oriented approach | [paper](http://ieeexplore.ieee.org/document/7973739/) | [ppt](https://docs.google.com/presentation/d/1hC5pTUSrqA6lrC-qWmIJ38n27xCmvmNm1Rhc1EnMO70/edit?usp=sharing) |
 | Oct. 23th. 2017 | Kim Jeong Chul | boosting (ADAboosting and Gradient boosting) and random forest | | [ppt](https://docs.google.com/presentation/d/1_oYDgG5tp7_ChVqqFxI9wluRRRfzENzBN5VPWLW2GwQ/edit?usp=sharing)|
 | Oct. 16th. 2017 | SSS | Ernest: Efficient Performance Prediction for Large-Scale Advanced Analytics | [paper](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-venkataraman.pdf) | |
