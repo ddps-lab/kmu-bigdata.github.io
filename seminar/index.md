@@ -9,6 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
+| Feb. 28th. 2018 | Kim Jeong Chul | WSDM CUP 2018 | [paper](http://wsdm-cup-2018.kkbox.events/pdf/1_WSDM_Cup_Bing_Bai_Revised.pdf) | [ppt](https://docs.google.com/presentation/d/1d43-vbnGOM_ggKcexQUcpp8Wx6BXYc3GOlDEMeMuE_A/edit?usp=sharing) |
 | Oct. 30th. 2017 | MJ | Predicting cloud performance for HPC applications: a user-oriented approach | [paper](http://ieeexplore.ieee.org/document/7973739/) | [ppt](https://docs.google.com/presentation/d/1hC5pTUSrqA6lrC-qWmIJ38n27xCmvmNm1Rhc1EnMO70/edit?usp=sharing) |
 | Oct. 23th. 2017 | Kim Jeong Chul | boosting (ADAboosting and Gradient boosting) and random forest | | [ppt](https://docs.google.com/presentation/d/1_oYDgG5tp7_ChVqqFxI9wluRRRfzENzBN5VPWLW2GwQ/edit?usp=sharing)|
 | Oct. 16th. 2017 | SSS | Ernest: Efficient Performance Prediction for Large-Scale Advanced Analytics | [paper](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-venkataraman.pdf) | |
