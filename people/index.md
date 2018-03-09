@@ -12,10 +12,9 @@ description: who are in Lab.
 ### Graduate Students
 * **Sara ALKharif** [blog](https://saraml.com/), [GitHub](https://github.com/sarah-Abdulaziz)
 * **Son Myung Jun** [blog](http://mjson.tistory.com/), [Github](https://github.com/mjaysonnn)
+* **Son Sung Soo** [linkedin](https://www.linkedin.com/in/sungsoo-son-ba8ba9122/), [GitHub](https://github.com/sun    gsu7437)
+* **Kim Jeong Chul** [blog](http://jeongchul.tistory.com/), [GitHub](https://github.com/KimJungChul)
 
 ### Undergraduate Students
-* **Kim Jeong Chul** [blog](http://jeongchul.tistory.com/), [GitHub](https://github.com/KimJungChul)
-* **Son Sung Soo** [linkedin](https://www.linkedin.com/in/sungsoo-son-ba8ba9122/), [GitHub](https://github.com/sungsu7437)
-* **Kim Nam Hyun**
 
 ### Alumni
