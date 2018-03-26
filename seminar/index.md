@@ -9,6 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
+| Apr. 4th. 2018 | MJ | Packing light: Portable workload performance prediction for the cloud | [paper](http://ieeexplore.ieee.org/document/6547460/) | | 
 | Mar. 28th. 2018 | Kim Jeong Chul | PerfOrator: eloquent performance models for Resource Optimization | [paper](https://dl.acm.org/citation.cfm?id=2987566) | |
 | Mar. 21st. 2018 | SSS | Performance Characterization and Acceleration of In-Memory File
 Systems for Hadoop and Spark Applications on HPC Clusters | [paper](http://ieeexplore.ieee.org/abstract/document/7363761/) | |
