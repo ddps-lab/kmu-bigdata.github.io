@@ -18,7 +18,7 @@ description: Seminar schedule of BigData Lab  in KMU
 * [Spark + GPU](https://www.oreilly.com/learning/accelerating-spark-workloads-using-gpus)
 
 ### Quora
-* [Is machine learning job better than a web developer job?](https://www.quora.com/Is-machine-learning-and-deep-learning-a-better-career-than-web-development-now)
+* [How does Bayesian optimization work?](https://www.quora.com/How-does-Bayesian-optimization-work)
 * [competitive programming contest](https://www.quora.com/Is-it-advisable-to-spend-at-least-1-hour-every-day-to-work-on-competitive-programming-problems-and-algorithms-to-become-a-better-developer)
 * [10 algorithms a SW engineer should know (Quora)](https://www.quora.com/What-are-the-top-10-algorithms-every-software-engineer-should-know-by-heart)
 * [Top 10 data mining algorithms you should learn](https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms)
