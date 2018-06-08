@@ -13,4 +13,6 @@ title: Problems & Solution regarding managing server
 
 #### 5. apt-get update error
 
+#### 6. [Hadoop YARN REST API unauthorized mining problem](https://docs.google.com/document/d/1Atp9-PXv3Ziwi5QMWJCutrFcYhzZkBT6YWAPQ1y8WYk/edit?usp=sharing)
+
 
