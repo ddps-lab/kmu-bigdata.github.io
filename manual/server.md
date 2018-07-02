@@ -9,7 +9,7 @@ title: Problems & Solution regarding managing server
 
 #### 3. Changing ubuntu apt repository
 
-#### 4. apt-get update error
+#### 4. [apt-get update error](https://docs.google.com/document/d/1NRPqaLSLezAYAbig_as7ESJSRS-7GffAlRZGqo05IL8/edit?usp=sharing)
 
 #### 5. [Hadoop YARN REST API unauthorized mining problem](https://docs.google.com/document/d/1Atp9-PXv3Ziwi5QMWJCutrFcYhzZkBT6YWAPQ1y8WYk/edit?usp=sharing)
 
