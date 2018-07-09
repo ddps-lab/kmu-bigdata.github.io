@@ -9,8 +9,8 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
-| July 5th. 2018 | MJ | Dione: Profiling spark applications exploiting graph similarity | [paper](https://ieeexplore.ieee.org/abstract/document/8257950/) | [ppt](https://goo.gl/rB2hRi)|
-| June 28th. 2018 | Kim Jeong Chul | Improving spark application throughput via memory aware task co-location: a mixture of experts approach| [paper](https://dl.acm.org/citation.cfm?id=3135984) | |
+| July 5th. 2018 | Kim Jeong Chul | Improving spark application throughput via memory aware task co-location: a    mixture of experts approach| [paper](https://dl.acm.org/citation.cfm?id=3135984) | [ppt](https://docs.google.com/presentation/d/1U2zVpRQEjcvhUrvveQ03Qqt2T9EBg1dRa2yOZxgasZc/edit?usp=sharing) |
+| June 28th. 2018 | MJ | Dione: Profiling spark applications exploiting graph similarity | [paper](https://ieeexplore.ieee.org/abstract/document/8257950/) | [ppt](https://goo.gl/rB2hRi)|
 | June 18th. 2018 | SSS | Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks | [paper](https://dl.acm.org/citation.cfm?id=2670985) | |
 | Apr. 4th. 2018 | MJ | Packing light: Portable workload performance prediction for the cloud | [paper](http://ieeexplore.ieee.org/document/6547460/) | [ppt](https://goo.gl/cjadpY)| 
 | Mar. 28th. 2018 | Kim Jeong Chul | PerfOrator: eloquent performance models for Resource Optimization | [paper](https://dl.acm.org/citation.cfm?id=2987566) |[ppt](https://docs.google.com/presentation/d/1gG76VdnFayRw4kz7NPnpCh-QQar53PjudTrZdRa22-s/edit?usp=sharing) |
