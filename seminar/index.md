@@ -9,6 +9,9 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
+|Aug. 17th. 2018 | MJ | Metis: Robustly Tuning Tail Latencies of Cloud Systems | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-li-zhao.pdf) | |
+|Aug. 10th. 2018 | Kim Jeong Chul | Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-klimovic-selecta.pdf) | |
+|Aug. 2nd. 2018 | SSS | Peeking Behind the Curtains of Serverless Platforms | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf) | |
 | July 19th. 2018 | MJ | CLOUD2018 & Lessons from OSG School 2018 | [CLOUD2018](https://drive.google.com/open?id=1vbkHGg6lNd6twHzGINmJXvsnVYKdrNDxoYDjLzIl_5g) |  [HTCondor ppt & hands-on](https://drive.google.com/open?id=1kcafX1PqeVgVBWOFmLUMppbwijrM3rUc) |
 | July 5th. 2018 | Kim Jeong Chul | Improving spark application throughput via memory aware task co-location: a    mixture of experts approach| [paper](https://dl.acm.org/citation.cfm?id=3135984) | [ppt](https://docs.google.com/presentation/d/1U2zVpRQEjcvhUrvveQ03Qqt2T9EBg1dRa2yOZxgasZc/edit?usp=sharing) |
 | June 28th. 2018 | MJ | Dione: Profiling spark applications exploiting graph similarity | [paper](https://ieeexplore.ieee.org/abstract/document/8257950/) | [ppt](https://goo.gl/rB2hRi)|
