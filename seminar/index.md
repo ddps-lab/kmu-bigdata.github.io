@@ -9,7 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
-|Aug. 17th. 2018 | MJ | Metis: Robustly Tuning Tail Latencies of Cloud Systems | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-li-zhao.pdf) | |
+|Aug. 17th. 2018 | MJ | Metis: Robustly Tuning Tail Latencies of Cloud Systems | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-li-zhao.pdf) | [ppt](https://docs.google.com/presentation/d/1krjL49IM3iToINqez80rmKAcr7GtCoUjlin8kLsk55U/edit?usp=sharing)|
 |Aug. 10th. 2018 | Kim Jeong Chul | Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-klimovic-selecta.pdf) | |
 |Aug. 2nd. 2018 | SSS | Peeking Behind the Curtains of Serverless Platforms | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf) | [ppt](https://docs.google.com/presentation/d/150r5NiL3tzThQEJuwn_caFGdXVFiWG8tgjqV6pQr9_U/edit?usp=sharing)|
 | July 19th. 2018 | MJ | CLOUD2018 & Lessons from OSG School 2018 | [CLOUD2018](https://drive.google.com/open?id=1vbkHGg6lNd6twHzGINmJXvsnVYKdrNDxoYDjLzIl_5g) |  [HTCondor ppt & hands-on](https://drive.google.com/open?id=1kcafX1PqeVgVBWOFmLUMppbwijrM3rUc) |
