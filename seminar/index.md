@@ -12,9 +12,6 @@ description: Seminar schedule of BigData Lab  in KMU
 |Oct. 9th. 2018 | HJ | A Comparative Study of Containers and Virtual Machines in Big Data Environment | [paper](https://arxiv.org/pdf/1807.01842.pdf) | |
 |Oct. 2nd. 2018 | SSS | Toward Cost-effective Memory Scaling in Clouds: Symbiosis of Virtual and Physical Memory | [paper](https://wolfweb.unr.edu/~fyan/Paper/Cloud18.pdf) | |
 |Sep. 18th. 2018 | CW | Performance Evaluation of a MongoDB and Hadoop Platform for Scientific Data Analysis | [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.3630&rep=rep1&type=pdf) | | 
-<!---
-|Aug. 17th. 2018 | MJ | Metis: Robustly Tuning Tail Latencies of Cloud Systems | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-li-zhao.pdf) | [ppt](https://docs.google.com/presentation/d/1krjL49IM3iToINqez80rmKAcr7GtCoUjlin8kLsk55U/edit?usp=sharing)|
--->
 | Sep. 4th. 2018 | Kim Jeong Chul | Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-klimovic-selecta.pdf) | |
 | Aug. 2nd. 2018 | SSS | Peeking Behind the Curtains of Serverless Platforms | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf) | [ppt](https://docs.google.com/presentation/d/150r5NiL3tzThQEJuwn_caFGdXVFiWG8tgjqV6pQr9_U/edit?usp=sharing)|
 | July 19th. 2018 | MJ | CLOUD2018 & Lessons from OSG School 2018 | [CLOUD2018](https://drive.google.com/open?id=1vbkHGg6lNd6twHzGINmJXvsnVYKdrNDxoYDjLzIl_5g) |  [HTCondor ppt & hands-on](https://drive.google.com/open?id=1kcafX1PqeVgVBWOFmLUMppbwijrM3rUc) |
