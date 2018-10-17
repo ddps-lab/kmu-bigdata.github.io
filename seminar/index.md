@@ -9,7 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
-|Oct. 9th. 2018 | HJ | A Comparative Study of Containers and Virtual Machines in Big Data Environment | [paper](https://arxiv.org/pdf/1807.01842.pdf) | |
+|Oct. 9th. 2018 | HJ | A Comparative Study of Containers and Virtual Machines in Big Data Environment | [paper](https://arxiv.org/pdf/1807.01842.pdf) | [ppt] (https://drive.google.com/open?id=1zJl2vUo_UTM34ihM_hPwLB8SRwgmOjBa2cvCei_TvsU)|
 |Oct. 2nd. 2018 | SSS | Toward Cost-effective Memory Scaling in Clouds: Symbiosis of Virtual and Physical Memory | [paper](https://wolfweb.unr.edu/~fyan/Paper/Cloud18.pdf) | [ppt](https://docs.google.com/presentation/d/10x2prJO6BWrKNQ0w942Ft_bDuoBy-njKp1F7g3SsmH0/edit?usp=sharing) |
 |Sep. 18th. 2018 | CW | Performance Evaluation of a MongoDB and Hadoop Platform for Scientific Data Analysis | [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.3630&rep=rep1&type=pdf) | [ppt](https://drive.google.com/open?id=1W7MFd1caxvLiuWrd92UKNkCnl8pNWrplqcfbsqv1rpQ)|
 | Sep. 4th. 2018 | Kim Jeong Chul | Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-klimovic-selecta.pdf) | [ppt](https://docs.google.com/presentation/d/1A4Jt1T-mub9f6_YakesVxkOBzHNk3Y4bwFbrsMcC6QI/edit?usp=sharing)|
