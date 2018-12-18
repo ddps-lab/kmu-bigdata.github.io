@@ -16,6 +16,6 @@ Our research spans cloud computing, big data analytics, serverless computing, an
 > [Demo page](http://bigdata.cs.kookmin.ac.kr/deep-spot-cloud-demo/) 
 >
 > ##### Source Codes
-[GitHub](https://github.com/kmu-bigdata)
+>[GitHub](https://github.com/kmu-bigdata)
 
 
