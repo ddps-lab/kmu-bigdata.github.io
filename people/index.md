@@ -19,6 +19,8 @@ description: who are in Lab.
 ### Undergraduate Students
 
 * **Jisoo Min**
+* **Jaewon Kim**
+* **Sungjae Lee**
 
 ### Alumni
-* **Sara ALKharif (M.S.)** [Blog](https://saraml.com/), [GitHub](https://github.com/sarah-Abdulaziz)
+* **Sara Alkharif (M.S.)** [Blog](https://saraml.com/), [GitHub](https://github.com/sarah-Abdulaziz)
