@@ -11,8 +11,8 @@ description: who are in Lab.
 
 ### M.S. Students
 * [Myungjun Son](https://goo.gl/HVvKGB) - [Blog](http://mjson.tistory.com/), [Github](https://github.com/mjaysonnn)
-* **Sungsoo Son** - [Linkedin](https://www.linkedin.com/in/sungsoo-son-ba8ba9122/), [GitHub](https://github.com/sun    gsu7437)
-* **Jeongchul Kim** - [Linkedin](https://www.linkedin.com/in/kimjungchul/) [Blog](http://jeongchul.tistory.com/), [GitHub](https://github.com/KimJungChul)
+* **Sungsoo Son** - [Linkedin](https://www.linkedin.com/in/sungsoo-son-ba8ba9122/), [GitHub](https://github.com/sungsu7437)
+* **Jeongchul Kim** - [Linkedin](https://www.linkedin.com/in/kimjungchul/), [Blog](http://jeongchul.tistory.com/), [GitHub](https://github.com/KimJungChul)
 * **Hyunjun Kim** - [Blog](https://m.blog.naver.com/PostList.nhn?blogId=4u_olion), [GitHub](https://github.com/oryondark/-)
 * **Changwoo Lee** - [Blog](http://eyeballs.tistory.com), [GitHub](https://github.com/eyeballss)
 
