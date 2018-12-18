@@ -15,6 +15,7 @@ description: who are in Lab.
 * **Jeongchul Kim** - [Linkedin](https://www.linkedin.com/in/kimjungchul/) [Blog](http://jeongchul.tistory.com/), [GitHub](https://github.com/KimJungChul)
 * **Hyunjun Kim** - [Blog](https://m.blog.naver.com/PostList.nhn?blogId=4u_olion), [GitHub](https://github.com/oryondark/-)
 * **Changwoo Lee** - [Blog](http://eyeballs.tistory.com), [GitHub](https://github.com/eyeballss)
+
 ### Undergraduate Students
 
 * **Jisoo Min**
