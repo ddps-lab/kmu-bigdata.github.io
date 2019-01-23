@@ -9,6 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
+|Jan. 24th. 2019 | JC | Serverless Computing : One Step Forward, Two Steps Back | [paper](aws s3 cp tensorflow-keras.zip s3://kmu-serverless-lambda-library) | [ppt](https://docs.google.com/presentation/d/1yjQh6yNQATfmhZ-eiQfajt7yNlR1uEm3iOJNLMMbNQw/edit?usp=sharing)|
 |Jan. 17th. 2019 | HJ | HoloClean: Holistic Data Repairs with Probabilistic Inference | [paper](http://www.vldb.org/pvldb/vol10/p1190-rekatsinas.pdf) | [ppt](https://docs.google.com/presentation/d/15fJhFl57ooBxukC8d1WA8vbOq24Zx0cfT6lGCBXSa3Q/edit?usp=sharing)|
 |Jan. 17th. 2019 | CW | Machine Learning Winter School 2018 | [paper](https://drive.google.com/open?id=1d23HcgqkIOCOC98tQ1OrDHzZN3xCHssf) | [ppt](https://drive.google.com/open?id=1MRrZbDAejUosBgiiY9aQdTNLT0RejDbsUr2Y6OyWimQ)|
 |Dec. 12th. 2018 | Kim Jeong Chul | BIGDATA 2018 | [paper](http://bit.ly/2UOzsU1) | [ppt](https://docs.google.com/presentation/d/1XZi3CvoI6ITtCEezmp42bwAZ5Iw0KPwOnarq2bG0j0Y/edit?usp=sharing)|
