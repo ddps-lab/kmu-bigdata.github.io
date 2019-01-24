@@ -9,6 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
+|Jan. 24th. 2019 | MJ | Exploring Serverless Computing for Neural Network Training | [paper](https://www.computer.org/csdl/proceedings/cloud/2018/7235/00/723501a334-abs.html) | [ppt](https://docs.google.com/presentation/d/1AihE9YB0pas9XjLpf5usSlYIxT9L8hixST9Ocnlm8BU/edit?usp=sharing)|
 |Jan. 24th. 2019 | JC | Serverless Computing : One Step Forward, Two Steps Back | [paper](http://pages.cs.wisc.edu/~swift/papers/atc18-serverless.pdf) | [ppt](https://docs.google.com/presentation/d/1yjQh6yNQATfmhZ-eiQfajt7yNlR1uEm3iOJNLMMbNQw/edit?usp=sharing)|
 |Jan. 17th. 2019 | HJ | HoloClean: Holistic Data Repairs with Probabilistic Inference | [paper](http://www.vldb.org/pvldb/vol10/p1190-rekatsinas.pdf) | [ppt](https://docs.google.com/presentation/d/15fJhFl57ooBxukC8d1WA8vbOq24Zx0cfT6lGCBXSa3Q/edit?usp=sharing)|
 |Jan. 17th. 2019 | CW | Machine Learning Winter School 2018 | [paper](https://drive.google.com/open?id=1d23HcgqkIOCOC98tQ1OrDHzZN3xCHssf) | [ppt](https://drive.google.com/open?id=1MRrZbDAejUosBgiiY9aQdTNLT0RejDbsUr2Y6OyWimQ)|
