@@ -11,8 +11,7 @@ description: Seminar schedule of BigData Lab  in KMU
 |------|-----------|-------|:----:|:--------------: |
 | Apr. 2th. 2019 | Kim Jeong Chul | SOCK : Rapid Task Provisioning with Serverless-Optimized Containers | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-oakes.pdf) | [ppt](https://docs.google.com/presentation/d/1XDr_q-VBTJnMF-FuMI0a2SQg5UrjiLHqurLBrGbmm-c/edit?usp=sharing) |
 |Feb. 14th. 2019 | SSS | Dynamic Control of CPU Usage in a Lambda Platform | [paper](https://ieeexplore.ieee.org/document/8514884) | [ppt](https://docs.google.com/presentation/d/19Lp4Uobe_Sm4E2Kqxj7AMG8hqd9uS2LS_LqKhyoRPMw/edit?usp=sharing)|
-|Jan. 30th. 2019 | Jung AE |μSuite: A Benchmark Suite for
-Microservices| [paper](http://akshithasriraman.eecs.umich.edu/pubs/IISWC2018-%CE%BCSuite-preprint.pdf) | [ppt](https://docs.google.com/presentation/d/1dyWgaiuaSxcYBQr9Y40R48AJckro_z90LybvhBBaxSo/edit?usp=sharing)|
+|Jan. 30th. 2019 | Jung AE |μSuite: A Benchmark Suite for Microservices| [paper](http://akshithasriraman.eecs.umich.edu/pubs/IISWC2018-%CE%BCSuite-preprint.pdf) | [ppt](https://docs.google.com/presentation/d/1dyWgaiuaSxcYBQr9Y40R48AJckro_z90LybvhBBaxSo/edit?usp=sharing)|
 |Jan. 30th. 2019 | JS |  | [paper]() | [ppt]()|
 |Jan. 24th. 2019 | MJ | Exploring Serverless Computing for Neural Network Training | [paper](https://www.computer.org/csdl/proceedings/cloud/2018/7235/00/723501a334-abs.html) | [ppt](https://docs.google.com/presentation/d/1AihE9YB0pas9XjLpf5usSlYIxT9L8hixST9Ocnlm8BU/edit?usp=sharing)|
 |Jan. 24th. 2019 | JC | Serverless Computing : One Step Forward, Two Steps Back | [paper](http://pages.cs.wisc.edu/~swift/papers/atc18-serverless.pdf) | [ppt](https://docs.google.com/presentation/d/1yjQh6yNQATfmhZ-eiQfajt7yNlR1uEm3iOJNLMMbNQw/edit?usp=sharing)|
