@@ -9,6 +9,7 @@ description: Seminar schedule of BigData Lab  in KMU
 
 | Date | Presenter | Topic | Link | Presentation |
 |------|-----------|-------|:----:|:--------------: |
+| Apr. 2th. 2019 | Kim Jeong Chul | SOCK : Rapid Task Provisioning with Serverless-Optimized Containers | [paper](https://www.usenix.org/system/files/conference/atc18/atc18-oakes.pdf) | [ppt](https://docs.google.com/presentation/d/1XDr_q-VBTJnMF-FuMI0a2SQg5UrjiLHqurLBrGbmm-c/edit?usp=sharing) |
 |Feb. 14th. 2019 | SSS | Dynamic Control of CPU Usage in a Lambda Platform | [paper](https://ieeexplore.ieee.org/document/8514884) | [ppt](https://docs.google.com/presentation/d/19Lp4Uobe_Sm4E2Kqxj7AMG8hqd9uS2LS_LqKhyoRPMw/edit?usp=sharing)|
 |Jan. 30th. 2019 | Jung AE |  | [paper]() | [ppt]()|
 |Jan. 30th. 2019 | JS |  | [paper]() | [ppt]()|
