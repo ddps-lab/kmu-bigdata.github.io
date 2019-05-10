@@ -1,4 +1,32 @@
+# Jekyll Default
 _site
-Gemfile.lock
-*.swp
-.idea/
+.sass-cache
+.jekyll-metadata
+
+# OS Specific (Linux)
+*~
+.directory
+.Trash-*
+.nfs*
+
+# OS Specific (macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Trashes
+
+# OS Specific (Windows)
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Jetbrain IDE
+.idea
+
+# Custom
+_templates
