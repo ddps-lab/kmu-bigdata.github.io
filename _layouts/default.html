@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+    {%- include head.html -%}}
+
+    <body style="background: #e6e6e6;">
+
+        <div class="site-wrap">
+
+            {%- include header.html -%}
+
+            {{ content }}
+
+            {%- include footer.html -%}
+
+        </div>
+
+        <script src="{{ "/assets/js/jquery-3.3.1.min.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/jquery-migrate-3.0.1.min.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/jquery-ui.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/popper.min.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/bootstrap.min.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/owl.carousel.min.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/jquery.stellar.min.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/jquery.countdown.min.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/jquery.magnific-popup.min.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/bootstrap-datepicker.min.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/aos.js" | relative_url }}"></script>
+        
+        <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+
+    </body>
+
+</html>

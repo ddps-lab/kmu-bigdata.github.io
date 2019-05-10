@@ -1,0 +1,9 @@
+projects:
+  - name: DeepSpotCloud
+    photo: /assets/images/sample1.jpg
+    url: https://bigdata.cs.kookmin.ac.kr/deep-spot-cloud-demo
+    description: DeepSpotCloud provides a way to execute DeepLearning tasks in a cost efficient way using GPU-based spot instances on AWS EC2.
+  - name: ABC
+    photo: /assets/images/sample1.jpg
+    url: #
+    description: Hello, world!

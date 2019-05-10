@@ -1,0 +1,463 @@
+seminars:
+- date: '2017-01-25'
+  links:
+  - name: Quora
+    url: https://www.quora.com/What-is-the-difference-between-containerization-Docker-and-virtualization-VMWare-VirtualBox-Xen
+  - name: stackoverflow
+    url: http://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine
+  - name: blog
+    url: https://monkeyvault.net/docker-vs-virtualization/
+  presentation:
+  - name: docs
+    url: https://drive.google.com/open?id=1KkE_-nf2OAf2QRBnM7a3Xv6jipPCczo4Yrbtw_cUqtw
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: Virtualization or Containerization?
+- date: '2017-02-01'
+  links:
+  - name: paper
+    url: https://arxiv.org/abs/1603.02754
+  - name: site
+    url: https://xgboost.readthedocs.io/en/latest/
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/open?id=0ByOPgARQ0MBmaHY2UnB5QUhSWWM
+  presenter: "\uC0AC\uB77C"
+  topic: XGBoost
+- date: '2017-02-08'
+  links:
+  - name: code
+    url: https://github.com/mjaysonnn/DeepSpotCloud
+  presentation:
+  - name: paper
+    url: http://ieeexplore.ieee.org/document/8030577/
+  presenter: "\uC190\uBA85\uC900"
+  topic: Spot instance for deep learning(DeepSpotCloud)
+- date: '2017-02-22'
+  links:
+  - name: paper
+    url: https://amplab.cs.berkeley.edu/projects/sparknet/
+  - name: YahooHadoop-1
+    url: http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop
+  - name: YahooHadoop-2
+    url: http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep
+  - name: TensorFrame
+    url: https://www.youtube.com/watch?v=08mrnJxcIWw
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1WBPDKzWzgXxKPdAPduBeAIzXzc0UFn7iqm8jz4jSFJc/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: SparkNet
+- date: '2017-03-06'
+  links:
+  - name: Characterizing spot price dynamics in public cloud environments
+    url: http://www.sciencedirect.com/science/article/pii/S0167739X12001483
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/open?id=0ByOPgARQ0MBmajBZbzdhT3ZEdEE
+  presenter: "\uC0AC\uB77C"
+  topic: spot instance pricing
+- date: '2017-03-13'
+  links:
+  - name: 'TR-Spark: Transient Computing for Big Data Analytics'
+    url: http://dl.acm.org/citation.cfm?id=2987576
+  presentation:
+  - name: ppt
+    url: https://goo.gl/XF7kGs
+  presenter: "\uC190\uBA85\uC900"
+  topic: using spot instances
+- date: '2017-03-20'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1xZ8jrBzPRNpX2okp0lNNl79NQHmxBEEXiBr7cOk9QAk/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: TensorFlow
+- date: '2017-03-27'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf
+  presentation: []
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: TensorFlow
+- date: '2017-04-03'
+  links:
+  - name: textbook
+    url: http://neuralnetworksanddeeplearning.com/
+  presentation: []
+  presenter: "\uAE40\uB0A8\uD604"
+  topic: NeuralNet
+- date: '2017-04-17'
+  links: []
+  presentation: []
+  presenter: "\uC774\uACBD\uC6A9"
+  topic: Autonomic BigData Cloud Computing
+- date: '2017-05-01'
+  links: []
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1s8lIqARuRHa6rxAiVIxnzD_8hnS7Fs-eCQL_6IRfaH4/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: TensorFlow hands-on session
+- date: '2017-05-08'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf
+  presentation:
+  - name: ppt
+    url: https://goo.gl/NyVLvP
+  presenter: "\uC190\uBA85\uC900"
+  topic: CherryPick
+- date: '2017-05-15'
+  links:
+  - name: paper
+    url: http://dl.acm.org/citation.cfm?id=2169836
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/open?id=0ByOPgARQ0MBmMm8zUWtrUXI3MzA
+  presenter: "\uC0AC\uB77C"
+  topic: C-Fuzzy Decision Tree
+- date: '2017-05-22'
+  links:
+  - name: paper
+    url: http://conferences.computer.org/pdswdiscs/2016/papers/5216a025.pdf
+  presentation: []
+  presenter: "\uAE40\uB0A8\uD604"
+  topic: Using Spark on GPUs
+- date: '2017-05-29'
+  links:
+  - name: paper
+    url: http://blog.pierreroudier.net/wp-content/uploads/2015/08/rc25482.pdf
+  presentation: []
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: Containerization VS. Virtualization
+- date: '2017-06-12'
+  links:
+  - name: paper
+    url: http://www.netlib.org/utk/people/JackDongarra/PAPERS/haidar_ipdps.pdf
+  presentation:
+  - name: ppt
+    url: https://goo.gl/NoxWUD
+  presenter: "\uC190\uBA85\uC900"
+  topic: CPU and GPU orchestration
+- date: '2017-07-13'
+  links: []
+  presentation: []
+  presenter: "\uC0AC\uB77C"
+  topic: Time series for spot instance price
+- date: '2017-07-18'
+  links:
+  - name: marlin
+    url: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7364023
+  - name: CARMA
+    url: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6569817
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/0B92DMqWrbqAIc01uZDJHU2EyaFU/view?usp=sharing
+  presenter: "\uAE40\uB0A8\uD604"
+  topic: Matrix multiplication on Sparkk
+- date: '2017-08-01'
+  links:
+  - name: paper
+    url: http://dl.acm.org/citation.cfm?id=2723712
+  presentation: []
+  presenter: "\uC190\uBA85\uC900"
+  topic: Exploiting Matrix Dependency for Efficient Distributed Matrix Computation
+- date: '2017-08-31'
+  links:
+  - name: paper
+    url: http://ieeexplore.ieee.org/document/7930046/
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1UFTaaLUZwBiRQS13aD6iICVsJpGBxWFcUcHsAYRDXGI/edit?usp=sharing
+  presenter: "\uC190\uC131\uC218"
+  topic: Distributed matrix computation on Spark
+- date: '2017-09-11'
+  links:
+  - name: paper
+    url: https://rise.cs.berkeley.edu/blog/publication/selecting-best-vm-across-multiple-public-clouds-data-driven-performance-modeling-approach/
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1Uy0X-vKmbqgqoaONZ19eUDCuw1E0_zxuubRGgRZDxVA/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: 'Selecting the Best VM across Multiple Public Clouds: A Data-Driven Performance
+    Modeling Approach'
+- date: '2017-09-19'
+  links: []
+  presentation:
+  - name: ppt
+    url: https://goo.gl/gX8L4w
+  - name: gitHub
+    url: https://github.com/mjaysonnn/Accelerator
+  presenter: "\uC190\uBA85\uC900"
+  topic: OpenCL and its application (Lessons from the summer accelerator school)
+- date: '2017-10-10'
+  links:
+  - name: coursera
+    url: https://www.coursera.org/learn/practical-machine-learning/
+  presentation: []
+  presenter: "\uAE40\uB0A8\uD604"
+  topic: Random forest and decision tree
+- date: '2017-10-16'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-venkataraman.pdf
+  presentation: []
+  presenter: "\uC190\uC131\uC218"
+  topic: 'Ernest: Efficient Performance Prediction for Large-Scale Advanced Analytics'
+- date: '2017-10-23'
+  links: []
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1_oYDgG5tp7_ChVqqFxI9wluRRRfzENzBN5VPWLW2GwQ/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: boosting (ADAboosting and Gradient boosting) and random forest
+- date: '2017-10-30'
+  links:
+  - name: paper
+    url: http://ieeexplore.ieee.org/document/7973739/
+  presentation:
+  - name: ppt
+    url: https://goo.gl/QaPPCJ
+  presenter: "\uC190\uBA85\uC900"
+  topic: 'Predicting cloud performance for HPC applications: a user-oriented approach'
+- date: '2017-12-27'
+  links: []
+  presentation: []
+  presenter: "\uC774\uACBD\uC6A9"
+  topic: Autonomic BigData Cloud Computing
+- date: '2018-01-17'
+  links:
+  - name: paper
+    url: https://dl.acm.org/citation.cfm?id=2723372.2749432
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1_yZYrLxb7WlmHp2IfA4K8px3-hePIIfMOHKqy6BMnIU/edit?usp=sharing
+  presenter: "\uC190\uC131\uC218"
+  topic: Resource Elasticity for Large-Scale Machine Learning
+- date: '2018-01-24'
+  links:
+  - name: paper
+    url: https://dl.acm.org/citation.cfm?id=1772760
+  presentation:
+  - name: ppt
+    url: https://goo.gl/MF6ZGi
+  presenter: "\uC190\uBA85\uC900"
+  topic: Distributed nonnegative matrix factorization for web-scale dyadic data analysis
+    on mapreduce
+- date: '2018-02-21'
+  links:
+  - name: paper
+    url: https://www.semanticscholar.org/paper/SystemML's-Optimizer%3A-Plan-Generation-for-Large-Sc-Boehm-Burdick/0a9da717999ba687bcbef86cbc996f4b7334f990
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1SZgo423bGi_6HeKkTQDmq95qw1TMXsvsvPHXhJSiV7Y/edit?usp=sharing
+  presenter: "\uC190\uC131\uC218"
+  topic: "SystemML\u2019s Optimizer: Plan Generation for Large-Scale Machine Learning\
+    \ Programs"
+- date: '2018-02-28'
+  links:
+  - name: paper
+    url: http://wsdm-cup-2018.kkbox.events/pdf/1_WSDM_Cup_Bing_Bai_Revised.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1d43-vbnGOM_ggKcexQUcpp8Wx6BXYc3GOlDEMeMuE_A/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: WSDM CUP 2018
+- date: '2018-03-15'
+  links:
+  - name: link
+    url: https://docs.google.com/document/d/184OsxvbwNmcFdYNIGLxf-0urPXqILHMSbyxsfVWI-eQ/edit?usp=sharing
+  - name: paper
+    url: https://pdfs.semanticscholar.org/1d29/9db9d4f903e4156243760c431553cae585eb.pdf
+  presentation:
+  - name: ppt
+    url: https://goo.gl/chgqTi
+  presenter: "\uC190\uBA85\uC900"
+  topic: Design of Experiments
+- date: '2018-03-21'
+  links:
+  - name: paper
+    url: http://ieeexplore.ieee.org/abstract/document/7363761/
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1GMZb0HUAfG7mcJjYz4aQZD304YkqintktiDycw4ES4g/edit?usp=sharing
+  presenter: "\uC190\uC131\uC218"
+  topic: Performance Characterization and Acceleration of In-Memory File Systems for
+    Hadoop and Spark Applications on HPC Clusters
+- date: '2018-03-28'
+  links:
+  - name: paper
+    url: https://dl.acm.org/citation.cfm?id=2987566
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1gG76VdnFayRw4kz7NPnpCh-QQar53PjudTrZdRa22-s/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: 'PerfOrator: eloquent performance models for Resource Optimization'
+- date: '2018-06-18'
+  links:
+  - name: paper
+    url: https://dl.acm.org/citation.cfm?id=2670985
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1L6h6nAM6_0FndNYh-rDD8aDx7T35uu_kHmpFJyPsVjM/edit?usp=sharing
+  presenter: "\uC190\uC131\uC218"
+  topic: 'Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks'
+- date: '2018-06-28'
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/abstract/document/8257950/
+  presentation:
+  - name: ppt
+    url: https://goo.gl/rB2hRi
+  presenter: "\uC190\uBA85\uC900"
+  topic: 'Dione: Profiling spark applications exploiting graph similarity'
+- date: '2018-07-05'
+  links:
+  - name: paper
+    url: https://dl.acm.org/citation.cfm?id=3135984
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1U2zVpRQEjcvhUrvveQ03Qqt2T9EBg1dRa2yOZxgasZc/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: 'Improving spark application throughput via memory aware task co-location:
+    a    mixture of experts approach'
+- date: '2018-07-19'
+  links:
+  - name: CLOUD2018
+    url: https://drive.google.com/open?id=1vbkHGg6lNd6twHzGINmJXvsnVYKdrNDxoYDjLzIl_5g
+  presentation:
+  - name: HTCondor ppt & hands-on
+    url: https://drive.google.com/open?id=1kcafX1PqeVgVBWOFmLUMppbwijrM3rUc
+  presenter: "\uC190\uBA85\uC900"
+  topic: CLOUD2018 & Lessons from OSG School 2018
+- date: '2018-08-02'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/150r5NiL3tzThQEJuwn_caFGdXVFiWG8tgjqV6pQr9_U/edit?usp=sharing
+  presenter: "\uC190\uC131\uC218"
+  topic: Peeking Behind the Curtains of Serverless Platforms
+- date: '2018-09-04'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/conference/atc18/atc18-klimovic-selecta.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1A4Jt1T-mub9f6_YakesVxkOBzHNk3Y4bwFbrsMcC6QI/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: 'Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics'
+- date: '2018-09-18'
+  links:
+  - name: paper
+    url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.3630&rep=rep1&type=pdf
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/open?id=1W7MFd1caxvLiuWrd92UKNkCnl8pNWrplqcfbsqv1rpQ
+  presenter: "\uC774\uCC3D\uC6B0"
+  topic: Performance Evaluation of a MongoDB and Hadoop Platform for Scientific Data
+    Analysis
+- date: '2018-10-02'
+  links:
+  - name: paper
+    url: https://wolfweb.unr.edu/~fyan/Paper/Cloud18.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/10x2prJO6BWrKNQ0w942Ft_bDuoBy-njKp1F7g3SsmH0/edit?usp=sharing
+  presenter: "\uC190\uC131\uC218"
+  topic: 'Toward Cost-effective Memory Scaling in Clouds: Symbiosis of Virtual and
+    Physical Memory'
+- date: '2018-10-09'
+  links:
+  - name: paper
+    url: https://arxiv.org/pdf/1807.01842.pdf
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/open?id=1zJl2vUo_UTM34ihM_hPwLB8SRwgmOjBa2cvCei_TvsU
+  presenter: "\uAE40\uD604\uC900"
+  topic: A Comparative Study of Containers and Virtual Machines in Big Data Environment
+- date: '2018-12-12'
+  links:
+  - name: paper
+    url: http://bit.ly/2UOzsU1
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1XZi3CvoI6ITtCEezmp42bwAZ5Iw0KPwOnarq2bG0j0Y/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: BIGDATA 2018
+- date: '2019-01-17'
+  links:
+  - name: paper
+    url: https://drive.google.com/open?id=1d23HcgqkIOCOC98tQ1OrDHzZN3xCHssf
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/open?id=1MRrZbDAejUosBgiiY9aQdTNLT0RejDbsUr2Y6OyWimQ
+  presenter: "\uC774\uCC3D\uC6B0"
+  topic: Machine Learning Winter School 2018
+- date: '2019-01-17'
+  links:
+  - name: paper
+    url: http://www.vldb.org/pvldb/vol10/p1190-rekatsinas.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/15fJhFl57ooBxukC8d1WA8vbOq24Zx0cfT6lGCBXSa3Q/edit?usp=sharing
+  presenter: "\uAE40\uD604\uC900"
+  topic: 'HoloClean: Holistic Data Repairs with Probabilistic Inference'
+- date: '2019-01-24'
+  links:
+  - name: paper
+    url: http://pages.cs.wisc.edu/~swift/papers/atc18-serverless.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1yjQh6yNQATfmhZ-eiQfajt7yNlR1uEm3iOJNLMMbNQw/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: 'Serverless Computing : One Step Forward, Two Steps Back'
+- date: '2019-01-24'
+  links:
+  - name: paper
+    url: https://www.computer.org/csdl/proceedings/cloud/2018/7235/00/723501a334-abs.html
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1AihE9YB0pas9XjLpf5usSlYIxT9L8hixST9Ocnlm8BU/edit?usp=sharing
+  presenter: "\uC190\uBA85\uC900"
+  topic: Exploring Serverless Computing for Neural Network Training
+- date: '2019-01-30'
+  links:
+  - name: paper
+    url: https://cs.stanford.edu/~matei/papers/2016/kdd_linalg_spark.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1wpoX16OnSWLbm691dDG3RS1QkZXm9YVIftE7lP0Z1mk/edit?usp=sharing
+  presenter: "\uBBFC\uC9C0\uC218"
+  topic: Matrix Computations and Optimization in Apache Spark
+- date: '2019-01-30'
+  links:
+  - name: paper
+    url: http://akshithasriraman.eecs.umich.edu/pubs/IISWC2018-%CE%BCSuite-preprint.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1dyWgaiuaSxcYBQr9Y40R48AJckro_z90LybvhBBaxSo/edit?usp=sharing
+  presenter: "\uBC15\uC815\uC560"
+  topic: "\u03BCSuite: A Benchmark Suite for Microservices"
+- date: '2019-02-14'
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/document/8514884
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/19Lp4Uobe_Sm4E2Kqxj7AMG8hqd9uS2LS_LqKhyoRPMw/edit?usp=sharing
+  presenter: "\uC190\uC131\uC218"
+  topic: Dynamic Control of CPU Usage in a Lambda Platform
+- date: '2019-04-02'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/conference/atc18/atc18-oakes.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1XDr_q-VBTJnMF-FuMI0a2SQg5UrjiLHqurLBrGbmm-c/edit?usp=sharing
+  presenter: "\uAE40\uC815\uCD9C"
+  topic: 'SOCK : Rapid Task Provisioning with Serverless-Optimized Containers'
+

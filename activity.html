@@ -1,0 +1,38 @@
+---
+layout: page
+title: Activities in the lab.
+permalink: /activity/
+---
+
+<div class="site-section">
+    <div class="container">
+        {%- if site.posts.size > 0 -%}
+            <div class="row mb-5">
+                {% for post in site.posts %}
+                    {%- if post.layout == 'activity' -%}
+                        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                        <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
+                            <div class="mb-4">
+                                <a href="{{ post.url | relative_url }}">
+                                    <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title | escape }}" class="img-fluid">
+                                </a>
+                            </div>
+                            <h4 class="h5 mb-3">
+                                <a href="{{ post.url | relative_url }}">
+                                    {{ post.title | escape }}
+                                </a>
+                            </h4>
+                            <p>{{ post.description }}</p>
+                        </div>
+                    {%- endif -%}
+                {% endfor %}
+            </div>
+        {%- else -%}
+                <div class="row justify-content-center">
+                    <div class="col-md-7 text-center">
+                        <p>No content uploaded.</p>
+                    </div>
+                </div>
+        {%- endif -%}
+    </div>
+</div>
