@@ -1,0 +1,54 @@
+---
+layout: activity
+title:  "OSG User School"
+date:   2019-05-07 08:51:42 +0900
+thumbnail: "/assets/images/activity/madison/madison.jpg"
+description: "Learned high-throughput computing (HTC) systems and workload
+management system for compute-intensive jobs (HTCondor)"
+---
+
+
+![](/assets/images/activity/madison/IMG_1559.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1562.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1563.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1567.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1569.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1574.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1577.jpg){:height="50%" width="50%"}\
+
+![](/assets/images/activity/madison/IMG_1578.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1580.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1584.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1585.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1588.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1593.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1595.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1596.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1597.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1598.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1599.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1603.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1604.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1631.jpg){:height="50%" width="50%"}
+
+![](/assets/images/activity/madison/IMG_1632.jpg){:height="50%" width="50%"}
+
