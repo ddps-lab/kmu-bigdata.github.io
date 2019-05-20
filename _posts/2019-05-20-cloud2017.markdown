@@ -1,0 +1,13 @@
+---
+layout: activity
+title:  "CLOUD2017"
+date:   2019-05-18 08:51:42 +0900
+thumbnail: "/assets/images/activity/cloud2017/20170627_140715.jpg"
+description: ""
+---
+
+![](/assets/images/activity/cloud2017/20170627_130303.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/cloud2017/20170627_140715.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/cloud2017/20170627_180453.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/cloud2017/20170627_191125.jpg){:height="50%" width="50%"}
+
