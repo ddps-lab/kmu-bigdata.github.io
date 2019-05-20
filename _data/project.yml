@@ -2,8 +2,14 @@ projects:
   - name: DeepSpotCloud
     photo: /assets/images/sample1.jpg
     url: https://bigdata.cs.kookmin.ac.kr/deep-spot-cloud-demo
-    description: DeepSpotCloud provides a way to execute DeepLearning tasks in a cost efficient way using GPU-based spot instances on AWS EC2.
-  - name: ABC
+    description: Pprovides a way to execute DeepLearning tasks in a cost efficient way using GPU-based spot instances on AWS EC2.
+
+  - name: ABC2 (Autonomic BigData Cloud Computing)
     photo: /assets/images/sample1.jpg
     url: #
-    description: Hello, world!
+    description: Building an autonomic cloud computing service that abstracts complex infrastructure configurations. Providing an optimal kernel layer to utilize in a wide range of big-data processing applications
+
+  - name: Handling checkpointfile on Tensorflow
+    photo: /assets/images/project/tensorflow.jpg
+    url: #
+    description: Focusing on file reduction of checkpointfile on Tensorflow
