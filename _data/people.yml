@@ -1,6 +1,6 @@
 faculties:
-  - name: Hyeokman Kim
-    photo: /assets/images/people/placeholder.png
+  # - name: Hyeokman Kim
+  #   photo: /assets/images/people/placeholder.png
   - name: Kyungyong Lee
     photo: /assets/images/people/leeky.jpg
     website: https://leeky.me/
@@ -37,7 +37,7 @@ undergrad:
   - name: Jisoo Min
     photo: /assets/images/people/js.png
     description: Hello, world!
-  - name: Yunjee Lee
+  - name: Yeonji Lee
     photo: /assets/images/people/yunjee.png
   - name: Sungjae Lee
     photo: /assets/images/people/sungjae.jpeg
