@@ -86,6 +86,8 @@ Activity는 Activity 페이지에 표시되는 그리드형 게시물 항목입�
 - markdown 문서의 내용은 Activity 항목 클릭 시 나오는 디테일 페이지에 출력될 내용입니다.
 - markdown 파일 최상단에 아래와 같은 형식의 metadata를 입력하여야합니다.
 
+.. sourcecode:: markdown
+
     ---
     layout: activity
     title: "제목"
@@ -103,6 +105,8 @@ Wiki는 Wiki 페이지에 표시되는 그리드형 게시물 항목입니다. �
 - 파일 제목은 ``YYYY-MM-DD-{title}.markdown`` 이어야합니다.
 - markdown 문서의 내용은 Wiki 항목 클릭 시 나오는 디테일 페이지에 출력될 내용입니다.
 - markdown 파일 최상단에 아래와 같은 형식의 metadata를 입력하여야합니다.
+
+.. sourcecode:: markdown
 
     ---
     layout: wiki
