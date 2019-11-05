@@ -1,3 +1,7 @@
+# Bundle Vendor Ignore
+.bundle
+vendor/*
+
 # Jekyll Default
 _site
 .sass-cache
