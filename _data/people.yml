@@ -7,10 +7,6 @@ faculties:
     description: Big data platforms, large-scale distributed computing resource manangement, cloud computing, and peer-to-peer systems
 
 masterdeg:
-  - name: Myungjun Son
-    photo: /assets/images/people/mj.jpg
-    website: https://mjaysonnn.github.io/
-    description: Designing systems and algorithms for large-scale data analysis and machine learning.
   - name: Sungsoo Son
     photo: /assets/images/people/sonss.jpg
     website: https://github.com/sungsu7437
@@ -34,11 +30,6 @@ masterdeg:
     description: Cloud / Distributed computing
 
 undergrad:
-  - name: Jisoo Min
-    photo: /assets/images/people/js.png
-    description: Hello, world!
-  - name: Yeonji Lee
-    photo: /assets/images/people/yunjee.png
   - name: Sungjae Lee
     photo: /assets/images/people/sungjae.jpeg
     description: Big data analytics using machine learning algorithms.
@@ -48,3 +39,7 @@ alumni:
     photo: /assets/images/people/placeholder.png
     website: https://github.com/sarah-Abdulaziz
     description: M.S.
+  - name : Myungjun Son
+    photo: /assets/images/people/mj.jpg
+    website: https://mjaysonnn.github.io/
+    description: Designing systems and algorithms for large-scale data analysis and machine learning. 
