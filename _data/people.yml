@@ -35,10 +35,6 @@ undergrad:
     description: Big data analytics using machine learning algorithms.
 
 alumni:
-  - name: Sara Alkharif
-    photo: /assets/images/people/placeholder.png
-    website: https://github.com/sarah-Abdulaziz
-    description: M.S.
   - name : Myungjun Son
     photo: /assets/images/people/mj.jpg
     website: https://mjaysonnn.github.io/
