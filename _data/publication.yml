@@ -121,3 +121,12 @@ pubs:
   - name: bib
     url: http://leeky.me/publications/faas-network-eval.bib
   title: Network Resource Isolation in Serverless Cloud Function Service
+- authors: Jeongchul Kim, and Kyungyong Lee
+  date: 07/2019
+  draw: IEEE International Conference on Cloud Computing 2019 (WIP paper)
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/function_workload.pdf
+  - name: bib
+    url: http://leeky.me/publications/functionbench-cloud.bib
+  title: FunctionBench - A Suite of Workloads for Serverless Cloud Function Service
