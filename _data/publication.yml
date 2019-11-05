@@ -136,6 +136,8 @@ pubs:
   links:
   - name: pdf
     url : http://leeky.me/publications/functionbench-socc.pdf
+  - name: github
+    url : https://github.com/kmu-bigdata/serverless-faas-workbench/
   title: Practical Cloud Workloads for Serverless FaaS
 - authors: Jeongchul Kim, Myungjun Son, and Kyungyong Lee
   date: 2019
