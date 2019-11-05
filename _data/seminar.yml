@@ -254,8 +254,7 @@ seminars:
   - name: ppt
     url: https://docs.google.com/presentation/d/1SZgo423bGi_6HeKkTQDmq95qw1TMXsvsvPHXhJSiV7Y/edit?usp=sharing
   presenter: "\uC190\uC131\uC218"
-  topic: "SystemML\u2019s Optimizer: Plan Generation for Large-Scale Machine Learning\
-    \ Programs"
+  topic: "SystemML's Optimizer: Plan Generation for Large-Scale Machine Learning Programs"
 - date: '2018-02-28'
   links:
   - name: paper

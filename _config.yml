@@ -20,6 +20,8 @@ url: "http://bigdata.cs.kookmin.ac.kr" # the base hostname & protocol for your s
 twitter_username: jekyllrb
 github_username:  jekyll
 
+encoding: UTF-8
+
 # Build settings
 markdown: kramdown
 theme: minima
