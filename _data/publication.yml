@@ -137,3 +137,15 @@ pubs:
   - name: pdf
     url : http://leeky.me/publications/functionbench-socc.pdf
   title: Practical Cloud Workloads for Serverless FaaS
+- authors: Jeongchul Kim, Myungjun Son, and Kyungyong Lee
+  date: 2019
+  draw: IEEE Transactions on Cloud Computing, Accepted
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/mpec-tcc.pdf
+  - name: preprint
+    url: https://ieeexplore.ieee.org/document/8887190
+  - name: bib
+    url: http://leeky.me/publications/mpec-tcc.bib
+  title: MPEC - Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs
+
