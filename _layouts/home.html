@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="site-section bg-image" style="background-image: url('{{ "/assets/images/background/main.jpg" | relative_url }}'); background-attachment: fixed">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-7 text-center">
+                <h1 class="text-white">Bigdata Lab in Kookmin Univ.</h1>
+                <span class="caption d-block text-white">The BigData Laboratory (BDLAB) is part of the Department of Computer Science at the Kookmin University, Seoul. The BDLAB is interested in a broad range of topics including cloud computing, serverless computing, performance management, large-scale data analysis, and machine learning. </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section block-14 bg-light nav-direction-white">
+
+    <div class="container">
+
+        <div class="row mb-5">
+            <div class="col-md-12">
+                <h2 class="site-section-heading text-center">News</h2>
+            </div>
+        </div>
+
+        <div class="nonloop-block-14 owl-carousel">
+
+            {% for item in site.data.news.feed reversed %}
+                <div class="p-5">
+                    <div class="d-flex block-testimony">
+                        <div>
+                            <h2 class="h5">{{ item.title }}</h2>
+                            <blockquote>&ldquo;{{ item.content }}&rdquo;</blockquote>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+
+        </div>
+
+    </div>
+
+</div>
+

@@ -1,0 +1,53 @@
+---
+layout: page
+title: Seminars
+permalink: /seminar/
+---
+
+<div class="site-section">
+    <div class="container">
+        <h2 class="site-section-heading mb-5">About Seminar</h2>
+        <p>We have talks about topics regarding big data, including serverless computing, algorithms, performance analysis, and large-scale platofrms.</p>
+        <p>Currently, the seminar information is as follows:</p>
+        <ul>
+            <li>Every Tuesday</li>
+            <li>09:00 - 10:30am (During Bigdata Platform Class)</li>
+            <li>Building 7 - 629</li>
+        </ul>
+        <p class="mb-5">Students who are interested can attend seminars</p>
+
+        <h2 class="site-section-heading mb-5">Schedule</h2>
+        <div class="mb-5">
+            <table class="seminar-table">
+                <thead>
+                    <tr>
+                        <th width="150px">Date</th>
+                        <th>Presenter</th>
+                        <th>Topic</th>
+                        <th>Link</th>
+                        <th>Presentation</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for seminar in site.data.seminar.seminars reversed %}
+                        <tr>
+                            <td class="center">{{ seminar.date }}</td>
+                            <td class="center">{{ seminar.presenter }}</td>
+                            <td>{{ seminar.topic }}</td>
+                            <td class="center">
+                                {% for seminar_link in seminar.links %}
+                                    <a href="{{ seminar_link.url }}" target="_blank">{{ seminar_link.name }}</a> 
+                                {% endfor %}
+                            </td>
+                            <td class="center">
+                                {% for seminar_ppt in seminar.presentation %}
+                                    <a href="{{ seminar_ppt.url }}" target="_blank">{{ seminar_ppt.name }}</a> 
+                                {% endfor %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

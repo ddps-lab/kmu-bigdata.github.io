@@ -1,0 +1,21 @@
+---
+layout: page
+title: Publications
+permalink: /publication/
+---
+
+<div class="site-section">
+    <div class="container">
+        {% for pub in site.data.publication.pubs reversed %}
+            <div class="mb-5">
+                <h2 class="h5">{{ pub.title }}</h2>
+                <p>{{ pub.authors }}, {{ pub.draw }}, {{ pub.date }}</p>
+                <p>
+                    {% for pub_link in pub.links %}
+                        <a href="{{ pub_link.url }}" target="_blank">{{ pub_link.name }}</a> 
+                    {% endfor %}
+                </p>
+            </div>
+        {% endfor %}
+    </div>
+</div>

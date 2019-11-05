@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="site-section bg-image" style="background-image: url('{{ "/assets/images/background/main.jpg" | relative_url }}'); background-attachment: fixed">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-7 text-center">
+                <h2 class="text-white">Activities in the lab.</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section">
+    <div class="container">
+        <p class="mb-5 mt-0"><a href="/activity">&lt; Back</a></p>
+
+        <h2 class="site-section-heading mb-5">{{ page.title | escape }}</h2>
+
+        <div>
+            {{ content }}
+        </div>
+    </div>
+</div>

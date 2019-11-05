@@ -1,5 +1,15 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/twitter/page.html %}
+
+<div class="site-section bg-image" style="background-image: url('{{ "/assets/images/background/main.jpg" | relative_url }}'); background-attachment: fixed">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-7 text-center">
+                <h2 class="text-white">{{ page.title }}</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ content }}

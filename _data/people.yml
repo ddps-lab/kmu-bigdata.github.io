@@ -1,0 +1,50 @@
+faculties:
+  # - name: Hyeokman Kim
+  #   photo: /assets/images/people/placeholder.png
+  - name: Kyungyong Lee
+    photo: /assets/images/people/leeky.jpg
+    website: https://leeky.me/
+    description: Big data platforms, large-scale distributed computing resource manangement, cloud computing, and peer-to-peer systems
+
+masterdeg:
+  - name: Myungjun Son
+    photo: /assets/images/people/mj.jpg
+    website: https://mjaysonnn.github.io/
+    description: Designing systems and algorithms for large-scale data analysis and machine learning.
+  - name: Sungsoo Son
+    photo: /assets/images/people/sonss.jpg
+    website: https://github.com/sungsu7437
+    description: Cloud computing and distributed computig & cloud platforms.
+  - name: Jeongchul Kim
+    photo: /assets/images/people/jc.png
+    website: https://github.com/KimJungChul
+    description: Distributed computing and cloud computing performance analysis in a serverless computing system.
+  - name: Hyunjun Kim
+    photo: /assets/images/people/placeholder.png
+    website: https://github.com/oryondark/-
+  - name: Changwoo Lee
+    photo: /assets/images/people/cw.jpg
+    website: https://github.com/eyeballss
+    description: Performance evaluation of a MongoDB and Hadoop platform on a distributed computing system
+  - name: Jungae Park
+    photo: /assets/images/people/jungae.jpg
+  - name: Jueon Park
+    photo: /assets/images/people/jueon.jpg
+    website: https://orslow.github.io/
+    description: Cloud / Distributed computing
+
+undergrad:
+  - name: Jisoo Min
+    photo: /assets/images/people/js.png
+    description: Hello, world!
+  - name: Yeonji Lee
+    photo: /assets/images/people/yunjee.png
+  - name: Sungjae Lee
+    photo: /assets/images/people/sungjae.jpeg
+    description: Big data analytics using machine learning algorithms.
+
+alumni:
+  - name: Sara Alkharif
+    photo: /assets/images/people/placeholder.png
+    website: https://github.com/sarah-Abdulaziz
+    description: M.S.

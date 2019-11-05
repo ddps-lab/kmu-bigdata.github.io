@@ -1,0 +1,89 @@
+---
+layout: page
+title: People in the lab.
+permalink: /people/
+---
+
+<div class="site-section">
+    <div class="container">
+        <h2 class="site-section-heading mb-5">Faculty</h2>
+        <div class="row mb-5">
+            {% for faculty in site.data.people.faculties %}
+                <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+                    <div class="mb-4">
+                        <img src="{{ faculty.photo | relative_url }}" alt="{{ faculty.name }}" class="img-fluid">
+                    </div>
+                    <h4 class="h5 mb-3">
+                        {{ faculty.name }}
+                        {% if faculty.website %}
+                            <a href="{{ faculty.website }}" class="pb-2 pr-2 pl-0" target="_blank">
+                                <span class="icon-home"></span>
+                            </a>
+                        {% endif %}
+                    </h4>
+                    <p>{{ faculty.description }}</p>
+                </div>
+            {% endfor %}
+        </div>
+
+        <h2 class="site-section-heading mb-5">Graduate</h2>
+        <div class="row mb-5">
+            {% for ms in site.data.people.masterdeg %}
+                <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+                    <div class="mb-4">
+                        <img src="{{ ms.photo | relative_url }}" alt="{{ ms.name }}" class="img-fluid">
+                    </div>
+                    <h4 class="h5 mb-3">
+                        {{ ms.name }}
+                        {% if ms.website %}
+                            <a href="{{ ms.website }}" class="pb-2 pr-2 pl-0" target="_blank">
+                                <span class="icon-home"></span>
+                            </a>
+                        {% endif %}
+                    </h4>
+                    <p>{{ ms.description }}</p>
+                </div>
+            {% endfor %}
+        </div>
+
+        <h2 class="site-section-heading mb-5">Undergraduate</h2>
+        <div class="row mb-5">
+            {% for undergrad in site.data.people.undergrad %}
+                <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+                    <div class="mb-4">
+                        <img src="{{ undergrad.photo | relative_url }}" alt="{{ undergrad.name }}" class="img-fluid">
+                    </div>
+                    <h4 class="h5 mb-3">
+                        {{ undergrad.name }}
+                        {% if undergrad.website %}
+                            <a href="{{ undergrad.website }}" class="pb-2 pr-2 pl-0" target="_blank">
+                                <span class="icon-home"></span>
+                            </a>
+                        {% endif %}
+                    </h4>
+                    <p>{{ undergrad.description }}</p>
+                </div>
+            {% endfor %}
+        </div>
+
+        <h2 class="site-section-heading mb-5">Alumni</h2>
+        <div class="row mb-5">
+            {% for alumni in site.data.people.alumni %}
+                <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+                    <div class="mb-4">
+                        <img src="{{ alumni.photo | relative_url }}" alt="{{ alumni.name }}" class="img-fluid">
+                    </div>
+                    <h4 class="h5 mb-3">
+                        {{ alumni.name }}
+                        {% if alumni.website %}
+                            <a href="{{ alumni.website }}" class="pb-2 pr-2 pl-0" target="_blank">
+                                <span class="icon-home"></span>
+                            </a>
+                        {% endif %}
+                    </h4>
+                    <p>{{ alumni.description }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
