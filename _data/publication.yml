@@ -130,3 +130,10 @@ pubs:
   - name: bib
     url: http://leeky.me/publications/functionbench-cloud.bib
   title: FunctionBench - A Suite of Workloads for Serverless Cloud Function Service
+- authors: Jeongchul Kim, and Kyungyong Lee
+  date: 07/2019
+  draw: ACM Symposium on Cloud Computing - SoCC 2019 (Poster)
+  links:
+  - name: pdf
+    url : http://leeky.me/publications/functionbench-socc.pdf
+  title: Practical Cloud Workloads for Serverless FaaS
