@@ -3,8 +3,7 @@ layout: activity
 title:  "OSG User School"
 date:   2019-05-07 08:51:42 +0900
 thumbnail: "/assets/images/activity/madison/madison.jpg"
-description: "Learned high-throughput computing (HTC) systems and workload
-management system for compute-intensive jobs (HTCondor)"
+description: "Learned high-throughput computing (HTC) systems and workload management system for compute-intensive jobs (HTCondor)"
 ---
 
 
