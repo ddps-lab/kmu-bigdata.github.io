@@ -120,6 +120,10 @@ pubs:
     url: http://leeky.me/publications/serverless_function_analyze.pdf
   - name: bib
     url: http://leeky.me/publications/faas-network-eval.bib
+  - name: github
+    url: https://github.com/kmu-bigdata/faas-network
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1aT3D-kPn_BTjWxyjtWEvqm3uaLcEzSX4cDpSuykKATk/edit?usp=sharing
   title: Network Resource Isolation in Serverless Cloud Function Service
 - authors: Jeongchul Kim, and Kyungyong Lee
   date: 07/2019
