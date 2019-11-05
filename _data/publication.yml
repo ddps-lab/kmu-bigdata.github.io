@@ -1,103 +1,151 @@
 pubs:
-    -
-        authors: 'Pierre St. Juste, David I Wolinsky, Kyungyong Lee, Oscar Boykin, and Renato Figueiredo'
-        date: 10/2010
-        draw: 'In the 6th International Conference on Collaborative Computing (CollaborateCom 2010)'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/pierre1.pdf'}
-            - {name: bib, url: 'http://leeky.me/publications/pierre1.bib'}
-        title: 'SocialDNS: A Decentralized Naming Service for Collaborative P2P VPNs'
-    -
-        authors: 'David I Wolinsky, Kyungyong Lee, Oscar Boykin, and Renato Figueiredo'
-        date: 10/2010
-        draw: 'In the 6th International Conference on Collaborative Computing (CollaborateCom 2010)'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/david1.pdf'}
-            - {name: bib, url: 'http://leeky.me/publications/david1.bib'}
-        title: 'On the Design of Autonomic, Decentralized VPNs'
-    -
-        authors: 'Kyungyong Lee, Tae Woong Choi, Arijit Ganguly, David I. Wolinsky, Oscar Boykin, and Renato Figueiredo'
-        date: 05/2011
-        draw: 'In the 8th International Workshop on Hot Topics in Peer-to-Peer Systems in Conjunction with IPDPS 2011'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/mapreduce_p2p.pdf'}
-            - {name: bib, url: 'http://leeky.me/publications/mapreduce_p2p.bib'}
-        title: 'Parallel Processing Framework on a P2P System Using Map and Reduce Primitives'
-    -
-        authors: 'H. Zhao, Z. Yu, S. Tiwari, X. Mao, K. Lee, D. Wolinsky, X. Li and R. Figueiredo'
-        date: 11/2012
-        draw: 'In the 5th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2012)'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/cloudbay.pdf'}
-            - {name: bib, url: 'http://leeky.me/publications/cloudbay.bib'}
-        title: 'CloudBay: Enabling an Online Resource Market Place for Open Clouds'
-    -
-        authors: 'Kyungyong Lee, David I. Wolinsky, and Renato Figueiredo'
-        date: 06/2012
-        draw: 'In the 21st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2012)'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/pond.pdf'}
-            - {name: bib, url: 'http://leeky.me/publications/pond.bib'}
-        title: 'PonD : Dynamic Creation of HTC Pool on Demand Using a Decentralized Resource Discovery System'
-    -
-        authors: 'Kyungyong Lee and Renato Figueiredo'
-        date: 12/2012
-        draw: 'IEEE CloudCom 2012'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/mr_opprt.pdf'}
-            - {name: bib, url: 'http://leeky.me/publications/mr_opprt.bib'}
-        title: 'MapReduce on Opportunistic Resources Leveraging Resource Availability'
-    -
-        authors: 'Pierre St. Juste, Huengsik Eom, Kyungyong Lee, and Renato Figueiredo'
-        date: '2013'
-        draw: 'IEEE Consumer Communications and Networking Conference (CCNC)'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/ccnc_p2p.pdf'}
-            - {name: bib, url: 'http://leeky.me/publications/ccnc_p2p.bib'}
-        title: 'Enabling decentralized microblogging through P2PVPNs'
-    -
-        authors: 'David I. Wolinsky, Panoat Chuchaisri, Kyungyong Lee, and Renato Figueiredo'
-        date: 06/2013
-        draw: 'International  Journal of Cluster Computing'
-        links:
-            - {name: link, url: 'http://www.springerlink.com/content/j1677u2qx2n88r62/'}
-            - {name: bib, url: 'http://leeky.me/publications/ga.bib'}
-        title: 'Experiences with Self-Organizing Decentralized Grids Using the Grid Appliance'
-    -
-        authors: 'Kyungyong Lee, Tae Woong Choi, Patrick Oscar Boykin, and Renato Figueiredo'
-        date: 08/2013
-        draw: 'Future Generation Computer Systems - The International Journal of Grid Computing: Theory, Methods and Applications (FGCS) - Volume 29, Issue 6'
-        links:
-            - {name: link, url: 'http://authors.elsevier.com/sd/article/S0167739X12001653'}
-            - {name: bib, url: 'http://leeky.me/publications/matchtree.bib'}
-        title: 'MatchTree: Flexible, Scalable, and Fault-tolerant Wide-area Resource Discovery with Distributed Matchmaking and Aggregation'
-    -
-        authors: 'Sarah Alkharif, Kyungyong Lee, and Hyeokman Kim'
-        date: 08/2017
-        draw: 'The International Conference on Emerging Databases'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/spot-price-prediction.pdf'}
-            - {name: bib, url: 'http://leeky.me/publications/spot-price-prediction.bib'}
-        title: 'Time-Series Analysis for Price Prediction of Opportunistic Cloud Computing Resources'
-    -
-        authors: 'Kyungyong Lee, and Myungjun Son'
-        date: 06/2017
-        draw: 'IEEE International Conference on Cloud Computing 2017'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/deep-spot-cloud.pdf'}
-            - {name: bib, url: 'http://leeky.me/publications/deep-spot-cloud.bib'}
-        title: 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning'
-    -
-        authors: 'Sarah Alkharif, Kyungyong Lee, and Hyeokman Kim'
-        date: 08/2018
-        draw: 'The Fourth IEEE International Conference on Big Data Intelligence and Computing 2018'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/sara-datacom.pdf'}
-        title: 'LSTM Model to Forecast Time Series for EC2 Cloud Price'
-    -
-        authors: 'Myungjun Son, and Kyungyong Lee'
-        date: 07/2018
-        draw: 'IEEE International Conference on Cloud Computing 2018'
-        links:
-            - {name: pdf, url: 'http://leeky.me/publications/cloud_2018.pdf'}
-        title: 'Distributed Matrix Multiplication Performance Estimator for Machine Learning Jobs in Cloud Computing'
+- authors: Pierre St. Juste, David I Wolinsky, Kyungyong Lee, Oscar Boykin, and Renato Figueiredo
+  date: 10/2010
+  draw: In the 6th International Conference on Collaborative Computing (CollaborateCom 2010)
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/pierre1.pdf
+  - name: bib
+    url: http://leeky.me/publications/pierre1.bib
+  title: 'SocialDNS: A Decentralized Naming Service for Collaborative P2P VPNs'
+- authors: David I Wolinsky, Kyungyong Lee, Oscar Boykin, and Renato Figueiredo
+  date: 10/2010
+  draw: In the 6th International Conference on Collaborative Computing (CollaborateCom 2010)
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/david1.pdf
+  - name: bib
+    url: http://leeky.me/publications/david1.bib
+  title: On the Design of Autonomic, Decentralized VPNs
+- authors: Kyungyong Lee, Tae Woong Choi, Arijit Ganguly, David I. Wolinsky, Oscar Boykin, and Renato Figueiredo
+  date: 05/2011
+  draw: In the 8th International Workshop on Hot Topics in Peer-to-Peer Systems in Conjunction with IPDPS 2011
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/mapreduce_p2p.pdf
+  - name: bib
+    url: http://leeky.me/publications/mapreduce_p2p.bib
+  title: Parallel Processing Framework on a P2P System Using Map and Reduce Primitives
+- authors: H. Zhao, Z. Yu, S. Tiwari, X. Mao, K. Lee, D. Wolinsky, X. Li and R. Figueiredo
+  date: 11/2012
+  draw: In the 5th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2012)
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/cloudbay.pdf
+  - name: bib
+    url: http://leeky.me/publications/cloudbay.bib
+  title: 'CloudBay: Enabling an Online Resource Market Place for Open Clouds'
+- authors: Kyungyong Lee, David I. Wolinsky, and Renato Figueiredo
+  date: 06/2012
+  draw: In the 21st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2012)
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/pond.pdf
+  - name: bib
+    url: http://leeky.me/publications/pond.bib
+  title: 'PonD : Dynamic Creation of HTC Pool on Demand Using a Decentralized Resource Discovery System'
+- authors: Kyungyong Lee and Renato Figueiredo
+  date: 12/2012
+  draw: IEEE CloudCom 2012
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/mr_opprt.pdf
+  - name: bib
+    url: http://leeky.me/publications/mr_opprt.bib
+  title: MapReduce on Opportunistic Resources Leveraging Resource Availability
+- authors: Pierre St. Juste, Huengsik Eom, Kyungyong Lee, and Renato Figueiredo
+  date: '2013'
+  draw: IEEE Consumer Communications and Networking Conference (CCNC)
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/ccnc_p2p.pdf
+  - name: bib
+    url: http://leeky.me/publications/ccnc_p2p.bib
+  title: Enabling decentralized microblogging through P2PVPNs
+- authors: David I. Wolinsky, Panoat Chuchaisri, Kyungyong Lee, and Renato Figueiredo
+  date: 06/2013
+  draw: International  Journal of Cluster Computing
+  links:
+  - name: link
+    url: http://www.springerlink.com/content/j1677u2qx2n88r62/
+  - name: bib
+    url: http://leeky.me/publications/ga.bib
+  title: Experiences with Self-Organizing Decentralized Grids Using the Grid Appliance
+- authors: Kyungyong Lee, Tae Woong Choi, Patrick Oscar Boykin, and Renato Figueiredo
+  date: 08/2013
+  draw: 'Future Generation Computer Systems - The International Journal of Grid Computing: Theory, Methods and Applications (FGCS) - Volume 29, Issue 6'
+  links:
+  - name: link
+    url: http://authors.elsevier.com/sd/article/S0167739X12001653
+  - name: bib
+    url: http://leeky.me/publications/matchtree.bib
+  title: 'MatchTree: Flexible, Scalable, and Fault-tolerant Wide-area Resource Discovery with Distributed Matchmaking and Aggregation'
+- authors: Sarah Alkharif, Kyungyong Lee, and Hyeokman Kim
+  date: 08/2017
+  draw: The International Conference on Emerging Databases
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/spot-price-prediction.pdf
+  - name: bib
+    url: http://leeky.me/publications/spot-price-prediction.bib
+  title: Time-Series Analysis for Price Prediction of Opportunistic Cloud Computing Resources
+- authors: Kyungyong Lee, and Myungjun Son
+  date: 06/2017
+  draw: IEEE International Conference on Cloud Computing 2017
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/deep-spot-cloud.pdf
+  - name: bib
+    url: http://leeky.me/publications/deep-spot-cloud.bib
+  title: 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning'
+- authors: Sarah Alkharif, Kyungyong Lee, and Hyeokman Kim
+  date: 08/2018
+  draw: The Fourth IEEE International Conference on Big Data Intelligence and Computing 2018
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/sara-datacom.pdf
+  title: LSTM Model to Forecast Time Series for EC2 Cloud Price
+- authors: Myungjun Son, and Kyungyong Lee
+  date: 07/2018
+  draw: IEEE International Conference on Cloud Computing 2018
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/cloud_2018.pdf
+  title: Distributed Matrix Multiplication Performance Estimator for Machine Learning Jobs in Cloud Computing
+- authors: Jeongchul Kim, Jungae Park, and Kyungyong Lee
+  date : 06/2019
+  draw: The Fourth IEEE International Workshops on Foundations and Applications of Self* Systems (FAS*W)2019
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/serverless_function_analyze.pdf
+  - name: bib
+    url: http://leeky.me/publications/faas-network-eval.bib
+  title: Network Resource Isolation in Serverless Cloud Function Service
+- authors: Jeongchul Kim, and Kyungyong Lee
+  date: 07/2019
+  draw: IEEE International Conference on Cloud Computing 2019 (WIP paper)
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/function_workload.pdf
+  - name: bib
+    url: http://leeky.me/publications/functionbench-cloud.bib
+  title: FunctionBench - A Suite of Workloads for Serverless Cloud Function Service
+- authors: Jeongchul Kim, and Kyungyong Lee
+  date: 07/2019
+  draw: ACM Symposium on Cloud Computing - SoCC 2019 (Poster)
+  links:
+  - name: pdf
+    url : http://leeky.me/publications/functionbench-socc.pdf
+  title: Practical Cloud Workloads for Serverless FaaS
+- authors: Jeongchul Kim, Myungjun Son, and Kyungyong Lee
+  date: 2019
+  draw: IEEE Transactions on Cloud Computing, Accepted
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/mpec-tcc.pdf
+  - name: preprint
+    url: https://ieeexplore.ieee.org/document/8887190
+  - name: bib
+    url: http://leeky.me/publications/mpec-tcc.bib
+  title: MPEC - Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs
+
