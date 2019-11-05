@@ -4,30 +4,30 @@ faculties:
   - name: Kyungyong Lee
     photo: /assets/images/people/leeky.jpg
     website: https://leeky.me/
-    description: Big data platforms, large-scale distributed computing resource manangement, cloud computing, and peer-to-peer systems
+    description: "Big data platforms, large-scale distributed computing resource manangement, cloud computing, and peer-to-peer systems"
 
 masterdeg:
   - name: Sungsoo Son
     photo: /assets/images/people/sonss.jpg
     website: https://github.com/sungsu7437
-    description: Cloud computing and distributed computig & cloud platforms.
+    description: "Cloud computing and distributed computig & cloud platforms."
   - name: Jeongchul Kim
     photo: /assets/images/people/jc.png
     website: https://github.com/KimJungChul
-    description: Distributed computing and cloud computing performance analysis in a serverless computing system.
+    description: "Distributed computing and cloud computing performance analysis in a serverless computing system."
   - name: Hyunjun Kim
     photo: /assets/images/people/placeholder.png
     website: https://github.com/oryondark/-
   - name: Changwoo Lee
     photo: /assets/images/people/cw.jpg
     website: https://github.com/eyeballss
-    description: Performance evaluation of a MongoDB and Hadoop platform on a distributed computing system
+    description: "Performance evaluation of a MongoDB and Hadoop platform on a distributed computing system"
   - name: Jungae Park
     photo: /assets/images/people/jungae.jpg
   - name: Jueon Park
     photo: /assets/images/people/jueon.jpg
     website: https://orslow.github.io/
-    description: Cloud / Distributed computing
+    description: "Cloud / Distributed computing"
 
 undergrad:
   - name: Sungjae Lee
@@ -42,4 +42,4 @@ alumni:
   - name : Myungjun Son
     photo: /assets/images/people/mj.jpg
     website: https://mjaysonnn.github.io/
-    description: Designing systems and algorithms for large-scale data analysis and machine learning. 
+    description: "Designing systems and algorithms for large-scale data analysis and machine learning."
