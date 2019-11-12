@@ -1,6 +1,6 @@
 ---
 layout: activity
-title:  "WSDM2018"
+title:  "ACM WSDM 2018"
 date:   2019-11-12 09:00:00 +0900
 thumbnail: "/assets/images/activity/wsdm2018/wsdm2018.jpeg"
 description: "ACM International Conference on Web Search and Data Mining 2017, LA, CA, USA"
