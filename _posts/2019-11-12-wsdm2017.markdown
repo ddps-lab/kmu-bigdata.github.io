@@ -1,11 +1,11 @@
 ---
 layout: activity
-title:  "WSDM2017"
-date:   2019-11-12 08:51:42 +0900
-thumbnail: "/assets/images/activity/wsdm2017/wsdm2017.jpeg"
+title:  "WSDM2018"
+date:   2019-11-12 09:00:00 +0900
+thumbnail: "/assets/images/activity/wsdm2018/wsdm2018.jpeg"
 description: "ACM International Conference on Web Search and Data Mining 2017, LA, CA, USA"
 ---
 
 ACM International Conference on Web Search and Data Mining 2017, LA, CA, USA, 2018 Jan 5~8, KimJeongChul
 
-![](/assets/images/activity/wsdm2018/wsdm2017.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/wsdm2018/wsdm2018.jpeg){:height="50%" width="50%"}
