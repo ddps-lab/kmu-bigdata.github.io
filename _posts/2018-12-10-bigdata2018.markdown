@@ -1,0 +1,18 @@
+---
+layout: activity
+title:  "IEEE BIGDATA 2018"
+date:   2018-12-10 10:00:00 +0900
+thumbnail: "/assets/images/activity/bigdata2018/bigdata2018.jpeg"
+description: "IEEE BIGDATA2018, Seattle, WA, USA"
+---
+
+
+IEEE BIGDATA2018, Seattle, WA, USA, 2018, Dec 10~13, KimJeongChul
+
+![](/assets/images/activity//bigdata2018/bigdata2018.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity//bigdata2018/bigdata2018_02.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity//bigdata2018/bigdata2018_03.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity//bigdata2018/bigdata2018_04.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity//bigdata2018/bigdata2018_05.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity//bigdata2018/bigdata2018_06.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity//bigdata2018/bigdata2018_07.JPEG){:height="50%" width="50%"}
