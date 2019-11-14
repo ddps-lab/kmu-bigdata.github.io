@@ -2,7 +2,7 @@
  KMU BigData Lab
 =================
 
-:Web: http://bigdata.cs.kookmin.ac.kr/
+:Web: http://kmubigdata.cloud/
 
 
 컨텐츠 추가
