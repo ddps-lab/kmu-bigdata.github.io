@@ -1,9 +1,7 @@
 faculties:
-  # - name: Hyeokman Kim
-  #   photo: /assets/images/people/placeholder.png
   - name: Kyungyong Lee
     photo: /assets/images/people/leeky.jpg
-    website: http://leeky.me/
+    website: http://leeky.kmubigdata.cloud
     description: "Big data platforms, large-scale distributed computing resource manangement, cloud computing, and peer-to-peer systems"
 
 masterdeg:
@@ -32,11 +30,11 @@ masterdeg:
 undergrad:
   - name: Sungjae Lee
     photo: /assets/images/people/sungjae.jpeg
-    website: sungjae.me
+    website: http://sungjae.me
     description: Big data analytics using machine learning algorithms.
 
 alumni:
   - name : Myungjun Son
     photo: /assets/images/people/mj.jpg
     website: https://mjaysonnn.github.io/
-    description: Ph.D.'s in the department of Computer Science of Penn State University, University Park, USA
+    description: first employment : Ph.D. student in the department of Computer Science of Penn State University, USA
