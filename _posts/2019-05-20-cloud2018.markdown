@@ -1,24 +1,16 @@
 ---
 layout: activity
-title:  "CLOUD2018"
+title:  "IEEE CLOUD 2018"
 date:   2019-05-20 08:51:42 +0900
 thumbnail: "/assets/images/activity/cloud2018/IMG_1165.JPG"
 description: ""
 ---
 
 ![](/assets/images/activity/cloud2018/IMG_1052.JPG){:height="50%" width="50%"}
-
-![](/assets/images/activity/cloud2018/IMG_1153.jpg){:height="50%" width="50%"}
-
-![](/assets/images/activity/cloud2018/IMG_1194.jpg){:height="50%" width="50%"}
-
-![](/assets/images/activity/cloud2018/IMG_1195.jpg){:height="50%" width="50%"}
-
-![](/assets/images/activity/cloud2018/IMG_1196.jpg){:height="50%" width="50%"}
-
-![](/assets/images/activity/cloud2018/IMG_1319.jpg){:height="50%" width="50%"}
-
-![](/assets/images/activity/cloud2018/IMG_1320.jpg){:height="50%" width="50%"}\
-
-![](/assets/images/activity/cloud2018/IMG_1494.jpg){:height="50%" width="50%"}
-
+![](/assets/images/activity/cloud2018/IMG_1153.JPG){:height="50%" width="50%"}
+![](/assets/images/activity/cloud2018/IMG_1194.JPG){:height="50%" width="50%"}
+![](/assets/images/activity/cloud2018/IMG_1195.JPG){:height="50%" width="50%"}
+![](/assets/images/activity/cloud2018/IMG_1196.JPG){:height="50%" width="50%"}
+![](/assets/images/activity/cloud2018/IMG_1319.JPG){:height="50%" width="50%"}
+![](/assets/images/activity/cloud2018/IMG_1320.JPG){:height="50%" width="50%"}
+![](/assets/images/activity/cloud2018/IMG_1494.JPG){:height="50%" width="50%"}

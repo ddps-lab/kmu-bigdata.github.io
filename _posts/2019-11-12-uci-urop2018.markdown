@@ -1,0 +1,16 @@
+---
+layout: activity
+title:  "UCI UROP 2018"
+date:   2019-11-12 09:00:00 +0900
+thumbnail: "/assets/images/activity/uci_urop_2018/uci2018_01.JPEG"
+description: "University of California, Irvine, LA, CA, USA"
+---
+
+University of California, Irvine, LA, CA, USA, 2018, Dec ~ Feb, KimJeongChul
+![](/assets/images/activity/uci_urop_2018/uci2018_01.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/uci_urop_2018/uci2018_02.JPG){:height="50%" width="50%"}
+![](/assets/images/activity/uci_urop_2018/uci2018_03.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/uci_urop_2018/uci2018_04.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/uci_urop_2018/uci2018_06.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/uci_urop_2018/uci2018_07.JPEG){:height="50%" width="50%"}
+

@@ -1,0 +1,12 @@
+---
+layout: activity
+title:  "IEEE BIGDATA 2018"
+date:   2019-11-12 10:00:00 +0900
+thumbnail: "/assets/images/activity/bigdata2018/bigdata2018.jpeg"
+description: "IEEE BIGDATA2018, Seattle, WA, USA"
+---
+
+
+IEEE BIGDATA2018, Seattle, WA, USA, 2018, Dec 10~13, KimJeongChul
+
+![](/assets/images/activity//bigdata2018/bigdata2018.jpeg){:height="50%" width="50%"}

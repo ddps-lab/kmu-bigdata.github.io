@@ -1,0 +1,16 @@
+---
+layout: activity
+title:  "IEEE ICAC 2019"
+date:   2019-11-12 12:00:00 +0900
+thumbnail: "/assets/images/activity/icac2019/icac2019_04.JPEG"
+description: "AMGCC19, IEEE International Conference on Autonomic Computing 2019, Umea, Sweden"
+---
+
+AMGCC19, IEEE International Conference on Autonomic Computing 2019, Umea, Sweden, 2019, June 16~20, KimJeongChul
+
+![](/assets/images/activity/icac2019/icac2019_01.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/icac2019/icac2019_02.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/icac2019/icac2019_04.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/icac2019/icac2019_05.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/icac2019/icac2019_06.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/icac2019/icac2019_07.JPEG){:height="50%" width="50%"}
