@@ -11,7 +11,7 @@ masterdeg:
     description: "Cloud computing and distributed computig & cloud platforms."
   - name: Jeongchul Kim
     photo: /assets/images/people/jc.png
-    website: https://github.com/KimJungChul
+    website: http://jckim.me/
     description: "Distributed computing and cloud computing performance analysis in a serverless computing system."
   - name: Hyunjun Kim
     photo: /assets/images/people/hj.png
