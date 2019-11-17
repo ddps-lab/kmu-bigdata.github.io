@@ -14,6 +14,3 @@ IoT Innovation Challenge 2017, KES 2017, COEX, 2017, 삼성전자 대표이사�
 ![](/assets/images/activity/iot_innovation_challenge_2017/iot_innovation_challenge2017_4.JPG){:height="50%" width="50%"}
 ![](/assets/images/activity/iot_innovation_challenge_2017/iot_innovation_challenge2017_5.JPG){:height="50%" width="50%"}
 ![](/assets/images/activity/iot_innovation_challenge_2017/iot_innovation_challenge2017_6.PNG){:height="50%" width="50%"}
-
-
-![](/assets/images/activity/wsdm2018/wsdm2018-02.JPG){:height="50%" width="50%"}
