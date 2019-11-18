@@ -1,7 +1,7 @@
 ---
 layout: activity
 title:  "All@Cloud DemoDay 2019"
-date:   2019-09-28 12:00:00 +0900
+date:   2019-09-18 12:00:00 +0900
 thumbnail: "/assets/images/activity/ALL_Cloud_2019/all_cloud5.jpeg"
 description : "All@Cloud DemoDay 2019, September, 18"
 ---
