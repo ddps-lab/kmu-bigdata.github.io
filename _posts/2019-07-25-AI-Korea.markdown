@@ -1,0 +1,15 @@
+---
+layout: activity
+title:  "AI Korea 2019"
+date:   2019-07-25 12:00:00 +0900
+thumbnail: "/assets/images/activity/AI_Korea_2019/ai_korea4.jpeg"
+description : "2019 한국정보과학회 인공지능 소사이어티, THE AI KOREA, Yonsei University, 2019, July, 25~26"
+---
+
+2019 한국정보과학회 인공지능 소사이어티, THE AI KOREA, Yonsei University, 2019, July, 25~26
+
+![](/assets/images/activity/AI_Korea_2019/ai_korea.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/AI_Korea_2019/ai_korea2.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/AI_Korea_2019/ai_korea3.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/AI_Korea_2019/ai_korea4.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/AI_Korea_2019/ai_korea5.jpeg){:height="50%" width="50%"}
