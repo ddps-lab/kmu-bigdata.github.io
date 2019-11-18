@@ -2,7 +2,7 @@
 layout: activity
 title:  "KubeCon + CloudNativeCon 2018"
 date:   2018-12-10 11:00:00 +0900
-thumbnail: "/assets/images/activity/kubecon2018/kubecon2018_02.png"
+thumbnail: "/assets/images/activity/kubecon2018/kubecon2018_03.jpg"
 description: "KubeCon + CloudNativeCon 2018, ,Seattle, WA, USA"
 ---
 
@@ -10,7 +10,6 @@ description: "KubeCon + CloudNativeCon 2018, ,Seattle, WA, USA"
 KubeCon + CloudNativeCon 2018, ,Seattle, WA, USA, Dec 10~13, Son Sungsoo
 
 ![](/assets/images/activity/kubecon2018/kubecon2018_01.png){:height="50%" width="50%"}
-![](/assets/images/activity/kubecon2018/kubecon2018_02.png){:height="50%" width="50%"}
 ![](/assets/images/activity/kubecon2018/kubecon2018_03.jpg){:height="50%" width="50%"}
 ![](/assets/images/activity/kubecon2018/kubecon2018_04.jpg){:height="50%" width="50%"}
 ![](/assets/images/activity/kubecon2018/kubecon2018_05.png){:height="50%" width="50%"}
