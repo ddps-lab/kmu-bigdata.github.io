@@ -8,5 +8,5 @@ description: "NVIDIA AI Conference 2018, Coex, Seoul, November, 7~8"
 
 NVIDIA AI Conference 2018, Coex, Seoul, November, 7~8
 
-![](/assets/images/activity/nvidia_ai_conference_2018/nvidia.jpg)
-![](/assets/images/activity/nvidia_ai_conference_2018/nvidia2.jpg)
+![](/assets/images/activity/nvidia_ai_conference_2018/nvidia.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/nvidia_ai_conference_2018/nvidia2.jpg){:height="50%" width="50%"}
