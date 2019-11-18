@@ -1,0 +1,16 @@
+---
+layout: activity
+title:  "All@Cloud DemoDay 2019"
+date:   2019-09-28 12:00:00 +0900
+thumbnail: "/assets/images/activity/ALL_Cloud_2019/all_cloud5.jpeg"
+description : "All@Cloud DemoDay 2019, September, 18"
+---
+
+All@Cloud DemoDay 2019, September, 18
+FlexAds: Personalized Digital Signage based on Cloud Computing
+
+![](/assets/images/activity/ALL_Cloud_2019/all_cloud.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/ALL_Cloud_2019/all_cloud2.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/ALL_Cloud_2019/all_cloud3.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/ALL_Cloud_2019/all_cloud4.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/ALL_Cloud_2019/all_cloud5.jpeg){:height="50%" width="50%"}
