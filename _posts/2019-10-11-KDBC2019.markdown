@@ -1,0 +1,13 @@
+---
+layout: activity
+title:  "KDBC 2019"
+date:   2019-10-11 12:00:00 +0900
+thumbnail: "/assets/images/activity/kdbc2019/kdbc3.jpeg"
+description: "KDBC 2019, 688, Bukhangangbyeon-gil, Namsan-myeon, Chuncheon-si, Gangwon-do, October 11~12"
+---
+
+KDBC 2019, 688, Bukhangangbyeon-gil, Namsan-myeon, Chuncheon-si, Gangwon-do, October 11~12
+
+![](/assets/images/activity/kdbc2019/kdbc.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/kdbc2019/kdbc2.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/kdbc2019/kdbc3.jpeg){:height="50%" width="50%"}

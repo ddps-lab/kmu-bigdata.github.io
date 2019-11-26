@@ -1,0 +1,15 @@
+---
+layout: activity
+title:  "kcc 2018"
+date:   2018-06-20 12:00:00 +0900
+thumbnail: "/assets/images/activity/kcc2018/kcc.jpeg"
+description : "kcc 2018, 제주 국제컨벤션센터, Jun, 20~23"
+---
+
+여름 정보과학회 제주 국제컨벤션센터
+2018.06.20~23
+현준 : Oral
+지수 : Poster
+
+![](/assets/images/activity/kcc2018/kcc.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/kcc2018/kcc2.jpeg){:height="50%" width="50%"}
