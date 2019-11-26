@@ -1,7 +1,7 @@
 projects:
   - name: "DeepSpotCloud"
     photo: /assets/images/deepspotcloud.png
-    url: https://bigdata.cs.kookmin.ac.kr/deep-spot-cloud-demo
+    url: https://kmubigdata.cloud/deep-spot-cloud-demo
     description: "Provides a way to execute DeepLearning tasks in a cost efficient way using GPU-based spot instances on AWS EC2."
 
   - name: "MPEC"
