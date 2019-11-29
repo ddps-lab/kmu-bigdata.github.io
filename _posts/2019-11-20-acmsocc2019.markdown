@@ -3,7 +3,7 @@ layout: activity
 title:  "ACM SoCC 2019"
 date:   2019-11-20 12:00:00 +0900
 thumbnail: "/assets/images/activity/acm_socc_2019/acm_socc_2019_1.JPEG"
-description : "ACM Symposium on Cloud Computing 2019, November"
+description : "ACM Symposium on Cloud Computing 2019, Santa Cruz, USA"
 ---
 
 ACM Symposium on Cloud Computing 2019 (SoCC`19), Santa Cruz, CA, USA, 2019, November 20~24, KimJeongChul
