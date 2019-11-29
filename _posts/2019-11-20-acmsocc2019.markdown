@@ -1,0 +1,17 @@
+---
+layout: activity
+title:  "CRC Showcase"
+date:   2019-11-04 12:00:00 +0900
+thumbnail: "/assets/images/activity/acm_socc_2019/acm_socc_2019_1.JPEG"
+description : "ACM Symposium on Cloud Computing 2019, November"
+---
+
+ACM Symposium on Cloud Computing 2019 (SoCC`19), Santa Cruz, CA, USA, 2019, November 20~24, KimJeongChul
+
+![](/assets/images/activity/acm_socc_2019/acm_socc_2019_1.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/acm_socc_2019/acm_socc_2019_2.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/acm_socc_2019/acm_socc_2019_3.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/acm_socc_2019/acm_socc_2019_4.JPEG){:height="50%" width="50%"}
+![](/assets/images/activity/acm_socc_2019/acm_socc_2019_5.JPG){:height="50%" width="50%"}
+![](/assets/images/activity/acm_socc_2019/acm_socc_2019_6.JPG){:height="50%" width="50%"}
+![](/assets/images/activity/acm_socc_2019/acm_socc_2019_7.jpg){:height="50%" width="50%"}
