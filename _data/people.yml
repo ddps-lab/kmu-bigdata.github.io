@@ -9,10 +9,6 @@ masterdeg:
     photo: /assets/images/people/sonss.jpg
     website: https://github.com/sungsu7437
     description: "Cloud computing and distributed computig & cloud platforms."
-  - name: Jeongchul Kim
-    photo: /assets/images/people/jc.png
-    website: http://jckim.me/
-    description: "Distributed computing and cloud computing performance analysis in a serverless computing system."
   - name: Hyunjun Kim
     photo: /assets/images/people/hj.png
     website: https://github.com/oryondark/-
@@ -38,3 +34,7 @@ alumni:
     photo: /assets/images/people/mj.jpg
     website: https://mjaysonnn.github.io/
     description: A Ph.D. student in the department of Computer Science of Penn State University, USA
+  - name: Jeongchul Kim
+    photo: /assets/images/people/jc.png
+    website: http://jckim.me/
+    description: KT AI Platform Researcher, Korea
