@@ -1,0 +1,22 @@
+---
+layout: activity
+title:  "IEEE BigData 2019"
+date:   2019-12-08 08:00:00 +0900
+thumbnail: "/assets/images/activity/bigdata2019/bigdata2019-11.jpeg"
+description: "IEEE BigData2019, Los Angeles Downtown, CA, USA"
+---
+
+IEEE BigData2019 Conference in Los Angeles, California, 2019 DEC 8~14.
+Participate to conference as author of 'RnR: Keyword Extraction of Large-Scale Fashion Dataset' in 'Workshop on BigData Construction'.
+
+![](/assets/images/activity/bigdata2019/bigdata2019-01.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-02.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-03.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-04.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-05.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-06.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-07.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-08.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-09.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-10.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/bigdata2019/bigdata2019-11.jpeg){:height="50%" width="50%"}
