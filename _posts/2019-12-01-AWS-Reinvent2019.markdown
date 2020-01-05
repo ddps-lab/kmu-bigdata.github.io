@@ -30,8 +30,3 @@ The event prepared 3,000+ sessions consisted of the best practices and the talki
 ![](/assets/images/activity/aws_reinvent_2019/MGM_hotel.jpeg){:height="50%" width="50%"}
 ![](/assets/images/activity/aws_reinvent_2019/Practice_session_sample.jpeg){:height="50%" width="50%"}
 ![](/assets/images/activity/aws_reinvent_2019/Practice_session_sample2.jpeg){:height="50%" width="50%"}
-
-You can watch more information followed link.
-[AWS Reinvent 2019 Page](https://aws.amazon.com/ko/new/reinvent/)
-
-### Thanks for my professor!
