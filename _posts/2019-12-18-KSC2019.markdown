@@ -1,0 +1,17 @@
+---
+layout: activity
+title:  "KSC 2019"
+date:   2019-12-18 08:00:00 +0900
+thumbnail: "/assets/images/activity/ksc2019/ksc2019-thumbnail.png"
+description: "KSC2019, Pyeongchang, South Korea"
+---
+
+KSC2019 Conference in pyeongchang phoenix park, 2019 DEC 18~20.
+Sungjae Lee and Jungae Park for presentation of their papers.
+Sungjae Lee: 'Accelerating of Cloud Face Recognition with Deep Learning based Edge Computing'
+Jungae Park: 'Reasearch for algorithm to minimize cold-start time on FaaS services'
+
+![](/assets/images/activity/ksc2019/ksc2019-01.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/ksc2019/ksc2019-02.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/ksc2019/ksc2019-03.jpeg){:height="50%" width="50%"}
+![](/assets/images/activity/ksc2019/ksc2019-04.jpeg){:height="50%" width="50%"}

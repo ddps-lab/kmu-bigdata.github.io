@@ -143,6 +143,13 @@ pubs:
   - name: github
     url : https://github.com/kmu-bigdata/serverless-faas-workbench/
   title: Practical Cloud Workloads for Serverless FaaS
+- authors: Sungjae Lee, Yeonji Lee, Junho Kim, Kyungyong Lee
+  date: 2019
+  draw: IEEE Big Data Workshop on Big Media Dataset, Accepted
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/bigdata-media-workshop-2019.pdf
+  title: RnR: Extraction of Visual Attributes from Large-Scale Fashion Dataset.
 - authors: Jeongchul Kim, Myungjun Son, and Kyungyong Lee
   date: 2019
   draw: IEEE Transactions on Cloud Computing, Accepted
@@ -154,4 +161,3 @@ pubs:
   - name: bib
     url: http://leeky.me/publications/mpec-tcc.bib
   title: MPEC - Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs
-
