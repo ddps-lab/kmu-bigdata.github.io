@@ -7,7 +7,7 @@ description: "IEEE BigData2019, Los Angeles Downtown, CA, USA"
 ---
 
 IEEE BigData2019 Conference in Los Angeles, California, 2019 DEC 8~14.
-Participate to conference as author of 'RnR: Keyword Extraction of Large-Scale Fashion Dataset' in 'Workshop on BigData Construction'.
+Participate to conference as author of 'RnR: Extraction of Visual Attributes from Large-Scale Fashion Dataset' in 'Workshop on BigData Construction'.
 
 ![](/assets/images/activity/bigdata2019/bigdata2019-01.jpeg){:height="50%" width="50%"}
 ![](/assets/images/activity/bigdata2019/bigdata2019-02.jpeg){:height="50%" width="50%"}
