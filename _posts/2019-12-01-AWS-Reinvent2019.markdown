@@ -2,16 +2,9 @@
 layout: activity
 title:  "AWS Reinvent 2019"
 date:   2019-12-02 08:00:00 +0900
-thumbnail: "/assets/images/activity/aws_reinvent_2019/hjkim_awsReinvent2019.jpeg"
-description: "Welcome to AWS Reinvent 2019 in Las Vegas, Nevada!"
+thumbnail: "/assets/images/activity/aws_reinvent_2019/reinvent-andy.jpg"
+description: "AWS Reinvent 2019 in Las Vegas, Nevada!"
 ---
-
-Attender : <br>
-Hyunjune Kim ( Student )<br>
-
-Description : <br>
-AWS held a big event on strip st. in Las Vegas, Nevada.<br>
-The event prepared 3,000+ sessions consisted of the best practices and the talking tables with AWS engineers.<br>
 
 ### Keynote by CEO
 
@@ -25,7 +18,9 @@ The event prepared 3,000+ sessions consisted of the best practices and the talki
 ![](/assets/images/activity/aws_reinvent_2019/CTO_Keynote_3.jpeg){:height="50%" width="50%"}
 
 ### Reinvent
-
+![](/assets/images/activity/aws_reinvent_2019/external.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/aws_reinvent_2019/reinvent-cloud.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/aws_reinvent_2019/waiting.jpg){:height="50%" width="50%"}
 ![](/assets/images/activity/aws_reinvent_2019/hjkim_awsReinvent2019.jpeg){:height="50%" width="50%"}
 ![](/assets/images/activity/aws_reinvent_2019/MGM_hotel.jpeg){:height="50%" width="50%"}
 ![](/assets/images/activity/aws_reinvent_2019/Practice_session_sample.jpeg){:height="50%" width="50%"}
