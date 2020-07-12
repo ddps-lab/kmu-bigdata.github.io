@@ -5,7 +5,7 @@ projects:
     description: "Provides a way to execute DeepLearning tasks in a cost efficient way using GPU-based spot instances on AWS EC2."
 
   - name: "MPEC"
-    photo:
+    photo: 
     url: "#"
     description: "The MPEC predicts the latency incurred when executing distributed matrix multiplication tasks of various input sizes and shapes with diverse instance types and a different number of worker nodes on cloud computing environments"
 
