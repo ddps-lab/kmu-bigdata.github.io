@@ -9,7 +9,3 @@ projects:
     url: "#"
     description: "The MPEC predicts the latency incurred when executing distributed matrix multiplication tasks of various input sizes and shapes with diverse instance types and a different number of worker nodes on cloud computing environments"
 
-  - name: "CRC Fashion Search Platform"
-    photo:
-    url:
-    description: ""
