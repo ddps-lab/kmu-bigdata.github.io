@@ -9,9 +9,7 @@ masterdeg:
     photo: /assets/images/people/sonss.jpg
     website: https://github.com/sungsu7437
     description: "Cloud computing and distributed computig & cloud platforms."
-  - name: Hyunjun Kim
-    photo: /assets/images/people/hj.png
-    website: https://github.com/oryondark/-
+
   - name: Changwoo Lee
     photo: /assets/images/people/cw.jpg
     website: https://github.com/eyeballss
@@ -38,3 +36,7 @@ alumni:
     photo: /assets/images/people/jc.png
     website: http://jckim.me/
     description: KT AI Platform Researcher, Korea
+  - name: Hyunjune Kim
+    photo: /assets/images/people/hj.png
+    website: https://github.com/oryondark/-
+    description: a Software Engineer in Marqvision. Implementation, Integration and Deployment of Deep Learning Platform using AWS.
