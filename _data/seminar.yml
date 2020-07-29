@@ -459,4 +459,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1XDr_q-VBTJnMF-FuMI0a2SQg5UrjiLHqurLBrGbmm-c/edit?usp=sharing
   presenter: "\uAE40\uC815\uCD9C"
   topic: 'SOCK : Rapid Task Provisioning with Serverless-Optimized Containers'
-
+- date: '2020-07-29'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_park.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1Cm0fP3TBftRcSDmEPh5eOjKXluW9WEnuBGHSJVMAx3U/edit?usp=sharing
+  presenter: "박주언"
+  topic: More IOPS for Less: Exploiting Burstable Storage in Public Clouds
