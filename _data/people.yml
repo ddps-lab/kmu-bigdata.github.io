@@ -5,38 +5,50 @@ faculties:
     description: "Big data platforms, large-scale distributed computing resource manangement, cloud computing, and peer-to-peer systems"
 
 masterdeg:
-  - name: Sungsoo Son
-    photo: /assets/images/people/sonss.jpg
-    website: https://github.com/sungsu7437
-    description: "Cloud computing and distributed computig & cloud platforms."
-
-  - name: Changwoo Lee
-    photo: /assets/images/people/cw.jpg
-    website: https://github.com/eyeballss
-    description: "Performance evaluation of a MongoDB and Hadoop platform on a distributed computing system"
   - name: Jungae Park
     photo: /assets/images/people/jungae.jpg
+    description: "A Study on the Cloud Architect Using Serverless Computing & Linux System TroubleShooting"
   - name: Jueon Park
     photo: /assets/images/people/jueon.jpg
     website: https://orslow.github.io/
     description: "Cloud / Distributed computing"
-
-undergrad:
   - name: Sungjae Lee
     photo: /assets/images/people/sungjae.jpg
     website: http://sungjae.me
-    description: Big data analytics using machine learning algorithms.
+    description: "Big data analytics using machine learning algorithms"
+  - name: Taeseon Son
+    photo: /assets/images/people/sts.jpg
+    website: http://linkedin.com/in/taeseon-son-kmu-bigdatalab
+    description: "Storage performance analysis on Cloud/Distributed Computing"
+    
+undergrad:
+  - name: Unho Choi
+    photo: /assets/images/people/unho.jpg
+    website: https://wooono.tistory.com
+    description: "Cloud / Distributed computing"
+#   - name: Jaeghang Choi
+#     photo: /assets/images/people/unho.jpg
+#     website: https://wooono.tistory.com
+#     description: Cloud / Distributed computing
 
 alumni:
   - name : Myungjun Son
     photo: /assets/images/people/mj.jpg
     website: https://mjaysonnn.github.io/
-    description: A Ph.D. student in the department of Computer Science of Penn State University, USA
+    description: "A Ph.D. student in the department of Computer Science of Penn State University, USA"
   - name: Jeongchul Kim
     photo: /assets/images/people/jc.png
     website: http://jckim.me/
-    description: KT AI Platform Researcher, Korea
+    description: "KT AI Platform Researcher, Korea"
+  - name: Sungsoo Son
+    photo: /assets/images/people/sonss.jpg
+    website: https://github.com/sungsu7437
+    description: "Cloud computing and distributed computig & cloud platforms."
+  - name: Changwoo Lee
+    photo: /assets/images/people/cw.jpg
+    website: https://github.com/eyeballss
+    description: "Performance evaluation of a MongoDB and Hadoop platform on a distributed computing system"
   - name: Hyunjune Kim
     photo: /assets/images/people/hj.png
     website: https://github.com/oryondark/-
-    description: a Software Engineer in Marqvision. Implementation, Integration and Deployment of Deep Learning Platform using AWS.
+    description: "a Software Engineer in Marqvision. Implementation, Integration and Deployment of Deep Learning Platform using AWS"
