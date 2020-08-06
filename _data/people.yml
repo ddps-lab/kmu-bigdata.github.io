@@ -7,7 +7,7 @@ faculties:
 masterdeg:
   - name: Jungae Park
     photo: /assets/images/people/jungae.jpg
-    description: "A Study on the Cloud Architect Using Serverless Computing & Linux System TroubleShooting"
+    description: "A study on the cloud architect using serverless computing & linux system troubleshooting"
   - name: Jueon Park
     photo: /assets/images/people/jueon.jpg
     website: https://orslow.github.io/
@@ -15,21 +15,21 @@ masterdeg:
   - name: Sungjae Lee
     photo: /assets/images/people/sungjae.jpg
     website: http://sungjae.me
-    description: "Big data analytics using machine learning algorithms"
+    description: "Cloud computing resource management for heterogeneous machine learning workloads"
   - name: Taeseon Son
     photo: /assets/images/people/sts.jpg
     website: http://linkedin.com/in/taeseon-son-kmu-bigdatalab
-    description: "Storage performance analysis on Cloud/Distributed Computing"
+    description: "Storage performance analysis on Cloud / Distributed computing"
     
 undergrad:
   - name: Unho Choi
     photo: /assets/images/people/unho.jpg
     website: https://wooono.tistory.com
     description: "Cloud / Distributed computing"
-#   - name: Jaeghang Choi
-#     photo: /assets/images/people/unho.jpg
-#     website: https://wooono.tistory.com
-#     description: Cloud / Distributed computing
+  - name: Jaeghang Choi
+    photo: /assets/images/people/jaeghang.jpg
+    website: https://wooono.tistory.com
+    description: "Analysis and compare about cloud computing performance in a serverless computing system"
 
 alumni:
   - name : Myungjun Son
@@ -43,7 +43,7 @@ alumni:
   - name: Sungsoo Son
     photo: /assets/images/people/sonss.jpg
     website: https://github.com/sungsu7437
-    description: "Cloud computing and distributed computig & cloud platforms."
+    description: "Cloud / Distributed computig & cloud platforms"
   - name: Changwoo Lee
     photo: /assets/images/people/cw.jpg
     website: https://github.com/eyeballss
@@ -51,4 +51,4 @@ alumni:
   - name: Hyunjune Kim
     photo: /assets/images/people/hj.png
     website: https://github.com/oryondark/-
-    description: "a Software Engineer in Marqvision. Implementation, Integration and Deployment of Deep Learning Platform using AWS"
+    description: "A Software Engineer in Marqvision. Implementation, Integration and Deployment of Deep Learning Platform using AWS"
