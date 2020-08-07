@@ -723,7 +723,7 @@ a {
       .block-13 .owl-nav .owl-prev.disabled, .block-13 .owl-nav .owl-next.disabled, .block-14 .owl-nav .owl-prev.disabled, .block-14 .owl-nav .owl-next.disabled, .block-15 .owl-nav .owl-prev.disabled, .block-15 .owl-nav .owl-next.disabled, .slide-one-item .owl-nav .owl-prev.disabled, .slide-one-item .owl-nav .owl-next.disabled {
         opacity: .2; }
   .block-13.nav-direction-white .owl-prev, .block-13.nav-direction-white .owl-next, .block-14.nav-direction-white .owl-prev, .block-14.nav-direction-white .owl-next, .block-15.nav-direction-white .owl-prev, .block-15.nav-direction-white .owl-next, .slide-one-item.nav-direction-white .owl-prev, .slide-one-item.nav-direction-white .owl-next {
-    background: #fff;
+    background: #fff0;
     padding: 5px 10px;
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
