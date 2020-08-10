@@ -161,3 +161,14 @@ pubs:
   - name: pdf
     url: http://leeky.me/publications/bigdata-media-workshop-2019.pdf
   title: RnR - Extraction of Visual Attributes from Large-Scale Fashion Dataset
+- authors: JeongChul Kim, and Kyungyong Lee
+  date: 04/2020
+  draw: International Journal of Cluster Computing, Springer, Accepted
+  links:
+  - name: pdf
+    url: https://link.springer.com/epdf/10.1007/s10586-020-03103-4?author_access_token=MEzk9N4Qskyf-9ICGZYhC_e4RwlQNchNByi7wbcMAY6F4M6vAx_h1iKS24Rf-9JssvcPLoRZr33PDx8Ii68zWCdd0CJP0t_SSbT62XxA7OQVQTurczRriseuuBXCNLjWlIfFrXLo0a3q2sbrASF9-g%3D%3D
+  - name: preprint
+    url: https://link.springer.com/article/10.1007/s10586-020-03103-4
+  - name: bib
+    url: http://leeky.me/publications/serverless-io.bib
+  title: I/O Resource Isolation of Public Cloud Serverless Function Runtimes for Data-Intensive Applications
