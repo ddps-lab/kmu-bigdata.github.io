@@ -2,7 +2,7 @@
 layout: activity
 title:  "IEEE BigData 2019"
 date:   2019-12-08 08:00:00 +0900
-thumbnail: "/assets/images/activity/bigdata2019/bigdata2019-11.jpeg"
+thumbnail: "/assets/images/activity/bigdata2019/bigdata2019_thumbnail.jpeg"
 description: "IEEE BigData2019, Los Angeles Downtown, CA, USA"
 ---
 

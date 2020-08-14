@@ -2,7 +2,7 @@
 layout: activity
 title:  "IEEE CLOUD 2017"
 date:   2017-06-25 08:51:42 +0900
-thumbnail: "/assets/images/activity/cloud2017/20170627_140715.jpg"
+thumbnail: "/assets/images/activity/cloud2017/cloud2017_thumbnail.jpg"
 description: ""
 ---
 

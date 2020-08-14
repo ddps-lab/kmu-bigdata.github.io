@@ -2,7 +2,7 @@
 layout: activity
 title:  "KSC 2019"
 date:   2019-12-18 08:00:00 +0900
-thumbnail: "/assets/images/activity/ksc2019/ksc2019-thumbnail.png"
+thumbnail: "/assets/images/activity/ksc2019/ksc2019_thumbnail.jpeg"
 description: "KSC2019, Pyeongchang, South Korea"
 ---
 

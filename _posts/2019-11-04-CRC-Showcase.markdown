@@ -2,7 +2,7 @@
 layout: activity
 title:  "CRC Showcase"
 date:   2019-11-04 12:00:00 +0900
-thumbnail: "/assets/images/activity/CRC_Showcate_2019/crc.jpg"
+thumbnail: "/assets/images/activity/CRC_Showcate_2019/crc2019_thumbnail.jpg"
 description : "CRC Showcase, Kookmin Univ, November, 04~06"
 ---
 

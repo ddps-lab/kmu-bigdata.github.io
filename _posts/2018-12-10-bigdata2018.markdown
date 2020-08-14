@@ -2,7 +2,7 @@
 layout: activity
 title:  "IEEE BIGDATA 2018"
 date:   2018-12-10 10:00:00 +0900
-thumbnail: "/assets/images/activity/bigdata2018/bigdata2018.jpeg"
+thumbnail: "/assets/images/activity/bigdata2018/bigdata2018_thumbnail.jpeg"
 description: "IEEE BIGDATA2018, Seattle, WA, USA"
 ---
 
