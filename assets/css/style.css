@@ -729,8 +729,9 @@ a {
     -o-transition: .3s all ease;
     transition: .3s all ease; }
     .block-13.nav-direction-white .owl-prev:hover, .block-13.nav-direction-white .owl-next:hover, .block-14.nav-direction-white .owl-prev:hover, .block-14.nav-direction-white .owl-next:hover, .block-15.nav-direction-white .owl-prev:hover, .block-15.nav-direction-white .owl-next:hover, .slide-one-item.nav-direction-white .owl-prev:hover, .slide-one-item.nav-direction-white .owl-next:hover {
-      -webkit-box-shadow: 5px 5px 30px -5px rgba(0, 0, 0, 0.1);
-      box-shadow: 5px 5px 30px -5px rgba(0, 0, 0, 0.1); }
+/*       -webkit-box-shadow: 5px 5px 30px -5px rgba(0, 0, 0, 0.1);
+      box-shadow: 5px 5px 30px -5px rgba(0, 0, 0, 0.1);  */
+    }
 
 .block-13 .owl-stage-outer, .block-14 .owl-stage-outer, .block-15 .owl-stage-outer {
   padding-top: 30px;
