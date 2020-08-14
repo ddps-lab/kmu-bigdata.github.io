@@ -2,7 +2,7 @@
 layout: activity
 title:  "IoT Innovation Challenge 2016"
 date:   2016-10-26 08:51:42 +0900
-thumbnail: "/assets/images/activity/iot_innovation_challenge_2016/iot_innovation_challenge2016_6.jpg"
+thumbnail: "/assets/images/activity/iot_innovation_challenge_2016/iot_innovation_challenge2016_thumbnail.JPG"
 description: ""
 ---
 
