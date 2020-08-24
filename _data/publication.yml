@@ -172,3 +172,10 @@ pubs:
   - name: bib
     url: http://leeky.me/publications/serverless-io.bib
   title: I/O Resource Isolation of Public Cloud Serverless Function Runtimes for Data-Intensive Applications
+- authors: Jueon Park, and Kyungyong Lee
+  date: 07/2020
+  draw: The 8th International Workshop on Autonomic Management of high performance Grid and Cloud Computing (AMGCC'20), Accepted
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/spmm_prediction.pdf
+  title: Performance Prediction of Sparse Matrix Multiplication on a Distributed BigData Processing Environment
