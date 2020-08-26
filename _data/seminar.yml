@@ -957,3 +957,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1aQes5ahOD3hpHgDVEj2iHm5YLp1LTFx9L0x0BL73RaI/edit?usp=sharing
   presenter: 박정애
   topic: 'Serverless Boom or Bust? An Analysis of Economic Incentives'
+- date: '2020-08-26'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_morisawa.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1YyRkm2nCHFp2UqM4DtlYIEu2Ur5-R4obv1lpWKMVul8/edit?usp=sharing
+  presenter: 손태선
+  topic: 'Resource Efficient Stream Processing Platform with Latency-Aware Scheduling Algorithms'
