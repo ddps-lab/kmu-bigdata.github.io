@@ -966,3 +966,9 @@ seminars:
     url: https://docs.google.com/presentation/d/1YyRkm2nCHFp2UqM4DtlYIEu2Ur5-R4obv1lpWKMVul8/edit?usp=sharing
   presenter: 손태선
   topic: 'Resource Efficient Stream Processing Platform with Latency-Aware Scheduling Algorithms'
+- date: '2020-09-03'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_simpson.pdf
+  presenter: 최운호
+  topic: 'Securing RDMA for HIgh-Performance Datacenter Storage Systems'
