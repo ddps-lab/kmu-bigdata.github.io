@@ -2,7 +2,7 @@
 layout: activity
 title:  "AWS Reinvent 2019"
 date:   2019-12-02 08:00:00 +0900
-thumbnail: "/assets/images/activity/aws_reinvent_2019/reinvent-andy.jpg"
+thumbnail: "/assets/images/activity/aws_reinvent_2019/reinvent_thumbnail.jpg"
 description: "AWS Reinvent 2019 in Las Vegas, Nevada!"
 ---
 
