@@ -2,7 +2,7 @@
 layout: activity
 title:  "AI Korea 2019"
 date:   2019-07-25 12:00:00 +0900
-thumbnail: "/assets/images/activity/AI_Korea_2019/ai_korea4.jpeg"
+thumbnail: "/assets/images/activity/AI_Korea_2019/ai_korea_thumbnail.jpg"
 description : "2019 한국정보과학회 인공지능 소사이어티, THE AI KOREA, Yonsei University, 2019, July, 25~26"
 ---
 
