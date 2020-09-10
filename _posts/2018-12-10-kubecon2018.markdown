@@ -2,7 +2,7 @@
 layout: activity
 title:  "KubeCon + CloudNativeCon 2018"
 date:   2018-12-10 11:00:00 +0900
-thumbnail: "/assets/images/activity/kubecon2018/kubecon2018_03.jpg"
+thumbnail: "/assets/images/activity/kubecon2018/kubecon2018_thumbnail.jpg"
 description: "KubeCon + CloudNativeCon 2018, ,Seattle, WA, USA"
 ---
 
