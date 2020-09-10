@@ -2,7 +2,7 @@
 layout: activity
 title:  "Innovation Update 2019"
 date:   2019-10-31 12:00:00 +0900
-thumbnail: "/assets/images/activity/innovation_update_2019/iu4.jpeg"
+thumbnail: "/assets/images/activity/innovation_update_2019/iu_thumbnail.jpg"
 description : "Innovation Update 2019, Four Seasons Hotel, October, 31"
 ---
 
