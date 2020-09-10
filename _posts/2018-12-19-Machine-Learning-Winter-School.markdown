@@ -2,7 +2,7 @@
 layout: activity
 title:  "Machine Learning Winter School 2019"
 date:   2018-12-19 12:00:00 +0900
-thumbnail: "/assets/images/activity/machine_learning_winter_school_2018/mlws.jpg"
+thumbnail: "/assets/images/activity/machine_learning_winter_school_2018/mlws_thumbnail.jpg"
 description: "Machine Learning Winter School 2019, Pyeongchang-gun, December, 19~21"
 ---
 
