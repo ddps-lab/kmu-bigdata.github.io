@@ -975,3 +975,21 @@ seminars:
     url: https://drive.google.com/file/d/1BIwGQ97b6xht-0HRani86XfeEI_ru2Iq/view?usp=sharing
   presenter: 최운호
   topic: 'Securing RDMA for HIgh-Performance Datacenter Storage Systems'
+  - date: '2020-09-03'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_simpson.pdf
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/1BIwGQ97b6xht-0HRani86XfeEI_ru2Iq/view?usp=sharing
+  presenter: 최운호
+  topic: 'Securing RDMA for HIgh-Performance Datacenter Storage Systems'
+  - date: '2020-09-10'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_bag.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1mOj_OKd7nwsW5bzbGpbo8b8zsYLZJAx8TsP3-c7hCPU/edit?usp=sharing
+  presenter: 최재강
+  topic: 'Towards Plan-aware Resource Allocation in Serverless Query Processing'
