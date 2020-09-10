@@ -6,6 +6,8 @@ thumbnail: "/assets/images/activity/winter_isurf_2020/winter_isurf_2020_thumbnai
 description: "Winter I-SURF 2020, University of California Irvine, CA, USA"
 ---
 
+Sungjae participate as undergraduate research fellow at Biostatistics Lab, ICS, UCI.
+
 IEEE BigData2019 Conference in Los Angeles, California, 2019 DEC 29 ~ 2020 FEB 21.
 
 ![](/assets/images/activity/winter_isurf_2020/winter_isurf_2020_01.jpg){:height="50%" width="50%"}
