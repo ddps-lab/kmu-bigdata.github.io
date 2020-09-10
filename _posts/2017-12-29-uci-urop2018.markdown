@@ -2,7 +2,7 @@
 layout: activity
 title:  "UCI UROP 2018"
 date:   2017-12-29 09:00:00 +0900
-thumbnail: "/assets/images/activity/uci_urop_2018/uci2018_01.JPEG"
+thumbnail: "/assets/images/activity/uci_urop_2018/uci2018_thumbnail.jpg"
 description: "University of California, Irvine, LA, CA, USA"
 ---
 
