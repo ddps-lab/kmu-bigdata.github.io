@@ -1,21 +1,13 @@
 feed:
-  - title: "Accepted to IEEE Transactions on Cloud Computing (TCC)"
-    content: "Jeongchul Kim's work of predicting distributed matrix multiplication performance on diverse cloud computing resources (MPEC) has been accepted to IEEE TCC. Congratulate for his hard work!"
 
-  - title: "Jeongchul received a student scholarship to attend SoCC 2019"
-    content: "Jeongchul is selected as a recipient of ACM SoCC 2019 student scholarship. Congratulate Jenogchul!"
+  - title: "A Paper is accepted to IEEE Cloud 2020"
+    content: "Jungae's work on Evaluating Concurrent Executions of Multiple FaaS with Micro VM is accepted to IEEE International Conference on Cloud Computing 2020. Congratulation, Jungae!"
 
-  - title: "A paper is accepted to a workshop in the IEEE BigData Conference"
-    content: "Sungjae Lee's work on extracting visual information from image-text information is accepted to a workshop in the IEEE BigData 2019 conference. Congratulate Sungjae!"
+  - title: "A Paper is accepted to AMGCC20"
+    content: "Jueon's work on Performance Prediction of Sparse Matrix Multiplication is accepted to The 8th International Workshop on Autonomic Management of high performance Grid and Cloud Computing."
 
-  - title: "A poster is accepted to ACM SoCC 2019"
-    content: "Jeongchul's work on FaaS public workloads (FuntionBench) is accepted to ACM SoCC 2019 (one of the prestigious system conference) poster session. Congratulate Jeongchul!"
+  - title: "A Paper is published to International Journal of Cluster Computing"
+    content: "Jeongchul Kim's work of I/O resource isolation of public cloud serverless function runtimes for data-intensive applications has been published to Cluster Computing. Congratulate for his hard work!"
 
-  - title: "I-SURF in UC Irvine"
-    content: "Sungjae Lee has been selected for I-SURF Program. He will spend time researching in UC-Irvine from December ~ February, 2019 ~ 2020"
-
-  - title: "Accepted to the Ph.D. program at PSU with full funnding"
+  - title: "Accepted to the Ph.D. program at PSU with full funding"
     content: "Myungjun Son has been offered the admission to the Penn State University's Computer Science Ph.D. program with full funding support! He will continue a new research path in PSU from Fall. 2019."
-
-  - title: "Awarded at All@Cloud DemoDay 2019"
-    content: "Sungjae Lee and his team won the 2nd prize($2,500) and the Corporate Sponsorship Award at All@Cloud DemoDay 2019"
