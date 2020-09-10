@@ -975,16 +975,7 @@ seminars:
     url: https://drive.google.com/file/d/1BIwGQ97b6xht-0HRani86XfeEI_ru2Iq/view?usp=sharing
   presenter: 최운호
   topic: 'Securing RDMA for HIgh-Performance Datacenter Storage Systems'
-  - date: '2020-09-03'
-  links:
-  - name: paper
-    url: https://www.usenix.org/system/files/hotcloud20_paper_simpson.pdf
-  presentation:
-  - name: ppt
-    url: https://drive.google.com/file/d/1BIwGQ97b6xht-0HRani86XfeEI_ru2Iq/view?usp=sharing
-  presenter: 최운호
-  topic: 'Securing RDMA for HIgh-Performance Datacenter Storage Systems'
-  - date: '2020-09-10'
+- date: '2020-09-10'
   links:
   - name: paper
     url: https://www.usenix.org/system/files/hotcloud20_paper_bag.pdf
