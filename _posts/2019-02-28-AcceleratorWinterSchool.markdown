@@ -2,7 +2,7 @@
 layout: activity
 title:  "Accelerator Winter School 2019"
 date:   2019-02-28 12:00:00 +0900
-thumbnail: "/assets/images/activity/accelerator2019/Accelerator.jpg"
+thumbnail: "/assets/images/activity/accelerator2019/Accelerator_thumbnail.jpg"
 description: "Accelerator Winter School, 2019, Osan-si, Gyeonggi-do, February 28 ~ March 1"
 ---
 
