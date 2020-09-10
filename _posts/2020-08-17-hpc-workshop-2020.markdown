@@ -1,0 +1,15 @@
+---
+layout: activity
+title:  "HPC Workshop 2020"
+date:   2020-08-17 08:00:00 +0900
+thumbnail: "/assets/images/activity/hpc_workshop_2020/hpc_workshop_2020_thumbnail.jpg"
+description: "HPC Workshop 2020, Gangwon, South Korea"
+---
+HPC Workshop 2020 in Gangwon, South Korea, 2020 AUG 17 ~ 2020 AUG 19
+
+![](/assets/images/activity/hpc_workshop_2020/hpc_workshop_2020_01.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/hpc_workshop_2020/hpc_workshop_2020_02.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/hpc_workshop_2020/hpc_workshop_2020_03.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/hpc_workshop_2020/hpc_workshop_2020_04.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/hpc_workshop_2020/hpc_workshop_2020_05.jpg){:height="50%" width="50%"}
+![](/assets/images/activity/hpc_workshop_2020/hpc_workshop_2020_06.jpg){:height="50%" width="50%"}

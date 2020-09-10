@@ -2,7 +2,7 @@
 layout: activity
 title:  "IEEE ICAC 2019"
 date:   2019-06-16 12:00:00 +0900
-thumbnail: "/assets/images/activity/icac2019/icac2019_04.JPEG"
+thumbnail: "/assets/images/activity/icac2019/icac2019_thumbnail.jpg"
 description: "AMGCC19, IEEE International Conference on Autonomic Computing 2019, Umea, Sweden"
 ---
 
