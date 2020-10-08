@@ -993,4 +993,18 @@ seminars:
     url: https://docs.google.com/presentation/d/1KBR87z3IF-UoTggzMQ_fJBf3D8fmTWpcjTDiBi54Ufc/edit?usp=sharing
   presenter: 박주언
   topic: 'A Cloud-native Architecture for Replicated Data Services'
-
+- date: '2020-09-24'
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/17Svdpv8n3vgHij-rNN-qx7vVGYx-Z8QAYAz0oM62G8Q/edit?usp=sharing
+  presenter: 손태선
+  topic: 'Apache Parquet'
+- date: '2020-10-08'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_bhardwaj.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1zJWBbOyYc6HFvO5L0H-ffTpL3H63Yt0zcmrISVSo92M/edit?usp=sharing
+  presenter: 박정애
+  topic: 'On the Impact of Isolation Costs on Locality-aware Cloud Scheduling'
