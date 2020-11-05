@@ -1026,3 +1026,12 @@ seminars:
     url: https://drive.google.com/file/d/1vkOaM6q4SksNX9SB7EjcUBVvtnZv_6Ne/view?usp=sharing
   presenter: 손태선
   topic: 'Auto-sizing for Stream Processing Applications at LinkedIn'
+- date: '2020-11-05'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_ambati.pdf
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/1bhyX7ReLEZAYrwvNUPA5QN4gxB5l180Z/view?usp=sharing
+  presenter: 최운호
+  topic: 'No Reservations: A First Look at Amazon Reserved Instance Marketplace'
