@@ -34,6 +34,9 @@ undergrad:
     photo: /assets/images/people/subin.jpg
     website: https://subeans.tistory.com
     description: "Developing and analyzing machine learning workloads in cloud computing"
+  - name: Yoonseo Heo
+    photo: /assets/images/people/yoonseo.jpg
+    description: "A study on cloud computing"
 
 alumni:
   - name : Myungjun Son
