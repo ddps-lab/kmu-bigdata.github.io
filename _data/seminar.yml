@@ -1035,3 +1035,12 @@ seminars:
     url: https://drive.google.com/file/d/1bhyX7ReLEZAYrwvNUPA5QN4gxB5l180Z/view?usp=sharing
   presenter: 최운호
   topic: 'No Reservations: A First Look at Amazon Reserved Instance Marketplace'
+- date: '2020-11-12'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_angel.pdf
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/13ENRfz31bjus85kn_z0Ds25zdU681oGT/view?usp=sharing
+  presenter: 최재강
+  topic: 'Disaggregation and the Application'
