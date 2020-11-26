@@ -1044,3 +1044,21 @@ seminars:
     url: https://drive.google.com/file/d/13ENRfz31bjus85kn_z0Ds25zdU681oGT/view?usp=sharing
   presenter: 최재강
   topic: 'Disaggregation and the Application'
+- date: '2020-11-19'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_bulman.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1tTi9ryAZ23CgQRsmkwIJDg9sAsJSu64aWfv-z1YLSkE/edit?usp=sharing
+  presenter: 박주언
+  topic: 'A Cloud Gaming Framework for Dynamic Graphical Rendering Towards Achieving Distributed Game Engines'
+- date: '2020-11-26'
+  links:
+  - name: paper
+    url: https://www.usenix.org/system/files/hotcloud20_paper_razavi_0.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1vOgmeWytrOpb5yqBoX98kZBJkinzK_g1f2pElu1V88M/edit#slide=id.p29
+  presenter: 박정애
+  topic: 'Stratus: Clouds with Microarchitectural Resource Management'
