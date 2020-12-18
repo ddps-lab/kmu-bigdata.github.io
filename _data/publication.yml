@@ -186,3 +186,10 @@ pubs:
   - name: pdf
     url: http://leeky.me/publications/microvm-performance.pdf
   title: Evaluating Concurrent Executions of Multiple Function-as-a-Service Runtimes with MicroVM
+- authors: Jaeghang Choi, and Kyungyong Lee
+  date: 10/2020
+  draw: Sixth International Workshop on Serverless Computing held with ACM/IFIP Middleware 2020, Accepted
+  links:
+  - name: pdf
+    url: http://leeky.me/publications/faas-nfs.pdf
+  title: Evaluation of Network File System as a Shared Data Storage in Serverless Computing
