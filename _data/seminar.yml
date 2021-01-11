@@ -1062,3 +1062,9 @@ seminars:
     url: https://docs.google.com/presentation/d/1vOgmeWytrOpb5yqBoX98kZBJkinzK_g1f2pElu1V88M/edit#slide=id.p29
   presenter: 박정애
   topic: 'Stratus: Clouds with Microarchitectural Resource Management'
+- date: '2021-01-11'
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1ajWFe_v5EUz-y70otmEQLzr-vn47PXSh3npDBiYV6Hs/edit?usp=sharing
+  presenter: 허윤서
+  topic: 'Dimensionality Reduction'
