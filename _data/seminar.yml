@@ -1068,3 +1068,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1ajWFe_v5EUz-y70otmEQLzr-vn47PXSh3npDBiYV6Hs/edit?usp=sharing
   presenter: 허윤서
   topic: 'Dimensionality Reduction'
+- date: '2021-01-18'
+  links:
+  - name: paper
+    url: https://i.cs.hku.hk/~cwu/papers/yrchen-socc20.pdf
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/1tccvOs1cyZa_kyBXgGG3JYtx7kLQqBpb/view?usp=sharing
+  presenter: 손태선
+  topic: 'Elastic Parameter Server Load Distribution in Deep Learning Clusters'
