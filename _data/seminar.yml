@@ -1077,3 +1077,12 @@ seminars:
     url: https://drive.google.com/file/d/1tccvOs1cyZa_kyBXgGG3JYtx7kLQqBpb/view?usp=sharing
   presenter: 손태선
   topic: 'Elastic Parameter Server Load Distribution in Deep Learning Clusters'
+- date: '2021-02-01'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3419111.3421278
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1jP6PNlOhjd7T28wU4xopUZSrgsuVHi1DbtLCRq2wtOk/edit?usp=sharing
+  presenter: 최운호
+  topic: 'Making Edge Computing Resilient'
