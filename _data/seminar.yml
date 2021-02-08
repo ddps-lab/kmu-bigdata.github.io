@@ -1086,3 +1086,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1jP6PNlOhjd7T28wU4xopUZSrgsuVHi1DbtLCRq2wtOk/edit?usp=sharing
   presenter: 최운호
   topic: 'Making Edge Computing Resilient'
+- date: '2021-02-08'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3419111.3421281
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1unc8xXP-35In-DL61Y0Ixz3zds6SeBOCZ1W9NeWeok8/edit?usp=sharing
+  presenter: 이성재
+  topic: 'PaGraph: Scaling GNN Training on Large Graph via Computation-aware Caching'
