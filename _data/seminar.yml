@@ -1095,3 +1095,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1unc8xXP-35In-DL61Y0Ixz3zds6SeBOCZ1W9NeWeok8/edit?usp=sharing
   presenter: 이성재
   topic: 'PaGraph: Scaling GNN Training on Large Graph via Computation-aware Caching'
+- date: '2021-02-15'
+  links:
+  - name: paper
+    url: https://storage.lesteryu.com/pub/socc20-vessels.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1mywvoOpZCWxxDANnfKR1IcGnK1uL_FRsi3HyTF6xTws/edit?usp=sharing
+  presenter: 허윤서
+  topic: 'Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors'
