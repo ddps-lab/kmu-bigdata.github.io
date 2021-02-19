@@ -20,12 +20,15 @@ masterdeg:
     photo: /assets/images/people/sts.jpg
     website: http://linkedin.com/in/taeseon-son-kmu-bigdatalab
     description: "Storage performance analysis on Cloud / Distributed computing"
-    
-undergrad:
   - name: Unho Choi
     photo: /assets/images/people/unho.jpg
     website: https://wooono.tistory.com
     description: "Cloud / Distributed computing"
+  - name: Yoonseo Heo
+    photo: /assets/images/people/yoonseo.jpg
+    description: "A study on cloud computing"
+    
+undergrad:
   - name: Jaeghang Choi
     photo: /assets/images/people/jaeghang.jpg
     website: https://manchann.tistory.com
@@ -34,9 +37,6 @@ undergrad:
     photo: /assets/images/people/subin.jpg
     website: https://subeans.tistory.com
     description: "Developing and analyzing machine learning workloads in cloud computing"
-  - name: Yoonseo Heo
-    photo: /assets/images/people/yoonseo.jpg
-    description: "A study on cloud computing"
 
 alumni:
   - name : Myungjun Son
