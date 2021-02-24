@@ -1104,3 +1104,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1mywvoOpZCWxxDANnfKR1IcGnK1uL_FRsi3HyTF6xTws/edit?usp=sharing
   presenter: 허윤서
   topic: 'Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors'
+  - date: '2021-02-22'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1145/3419111.3421286
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1avZ4v0Nbc3XYUcWv7b69gknKE01KTvbO-JTtcQ12B9c/edit#slide=id.p
+  presenter: 최재강
+  topic: 'Wukong: a scalable and locality-enhanced framework for serverless parallel computing'
