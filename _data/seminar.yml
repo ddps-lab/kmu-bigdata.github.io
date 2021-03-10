@@ -1113,3 +1113,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1avZ4v0Nbc3XYUcWv7b69gknKE01KTvbO-JTtcQ12B9c/edit#slide=id.p
   presenter: 최재강
   topic: 'Wukong: a scalable and locality-enhanced framework for serverless parallel computing'
+- date: '2021-03-08'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3127479.3128601
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1thSo7eHlpUPCyi2FqGewtIlnBKnU2sqenxVZh1LZF5Q/edit?usp=sharing
+  presenter: 박정애
+  topic: 'Occupy the Cloud: Distributed Computing for the 99%'
