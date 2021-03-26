@@ -1131,3 +1131,13 @@ seminars:
     url: https://drive.google.com/file/d/19jvZaybcV4k5uLWg3URROQrWIjbr7icl/view?usp=sharing
   presenter: 박수빈
   topic: 'Session-Based Recommendations with Recurrent Neural Networks'
+  - date: '2021-03-22'
+  links:
+  - name: paper
+    url: https://arxiv.org/pdf/1706.04148
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/1TjmSg-FmkOOjoyKtAU60snQJk_rXUM9J/view?usp=sharing
+  presenter: 박수빈
+  topic: 'Personalizing Session-Based Recommendations with Hierarchical Recurrent Neural Networks'
+
