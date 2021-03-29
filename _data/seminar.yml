@@ -1122,7 +1122,7 @@ seminars:
     url: https://docs.google.com/presentation/d/1thSo7eHlpUPCyi2FqGewtIlnBKnU2sqenxVZh1LZF5Q/edit?usp=sharing
   presenter: 박정애
   topic: 'Occupy the Cloud: Distributed Computing for the 99%'
-  - date: '2021-03-15'
+- date: '2021-03-15'
   links:
   - name: paper
     url: https://arxiv.org/abs/1511.06939
@@ -1131,7 +1131,7 @@ seminars:
     url: https://drive.google.com/file/d/19jvZaybcV4k5uLWg3URROQrWIjbr7icl/view?usp=sharing
   presenter: 박수빈
   topic: 'Session-Based Recommendations with Recurrent Neural Networks'
-  - date: '2021-03-22'
+- date: '2021-03-22'
   links:
   - name: paper
     url: https://arxiv.org/pdf/1706.04148
@@ -1140,4 +1140,12 @@ seminars:
     url: https://drive.google.com/file/d/1TjmSg-FmkOOjoyKtAU60snQJk_rXUM9J/view?usp=sharing
   presenter: 박수빈
   topic: 'Personalizing Session-Based Recommendations with Hierarchical Recurrent Neural Networks'
-
+- date: '2021-03-29'
+  links:
+  - name: paper
+    url: https://openreview.net/pdf?id=HylxE1HKwS
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1OTiBoxdMzc9a1sg6ZHzdA18USJ4tDu67Y6T0f266nng/edit?usp=sharing
+  presenter: 이성재
+  topic: 'Once for All: Train One Network and Specialize it for Efficient Deployment'
