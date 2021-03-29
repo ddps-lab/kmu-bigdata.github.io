@@ -1140,4 +1140,12 @@ seminars:
     url: https://drive.google.com/file/d/1TjmSg-FmkOOjoyKtAU60snQJk_rXUM9J/view?usp=sharing
   presenter: 박수빈
   topic: 'Personalizing Session-Based Recommendations with Hierarchical Recurrent Neural Networks'
-
+- date: '2021-03-29'
+  links:
+  - name: paper
+    url: https://openreview.net/pdf?id=HylxE1HKwS
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1OTiBoxdMzc9a1sg6ZHzdA18USJ4tDu67Y6T0f266nng/edit?usp=sharing
+  presenter: 이성재
+  topic: 'Once for All: Train One Network and Specialize it for Efficient Deployment'
