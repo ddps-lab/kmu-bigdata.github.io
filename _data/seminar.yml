@@ -1149,3 +1149,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1OTiBoxdMzc9a1sg6ZHzdA18USJ4tDu67Y6T0f266nng/edit?usp=sharing
   presenter: 이성재
   topic: 'Once for All: Train One Network and Specialize it for Efficient Deployment'
+- date: '2021-04-05'
+  links:
+  - name: paper
+    url: https://paperswithcode.com/paper/branchynet-fast-inference-via-early-exiting
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/1ImLB4ctZDGr0s4JI20SHvonlmxvg339r/view?usp=sharing
+  presenter: 
+  topic: 'Early Exit에 대하여'
