@@ -1158,3 +1158,12 @@ seminars:
     url: https://drive.google.com/file/d/1ImLB4ctZDGr0s4JI20SHvonlmxvg339r/view?usp=sharing
   presenter: 손태선
   topic: 'Early Exit에 대하여'
+- date: '2021-04-12'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3419111.3421300
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1p8xMT_Hbw5R63LMxuX40XKo7i3FQadsumCtpofH9AZA/edit?usp=sharing
+  presenter: 최운호
+  topic: 'Improving the Accuracy, Adaptability, and Interpretability of SSD Failure Prediction Models'
