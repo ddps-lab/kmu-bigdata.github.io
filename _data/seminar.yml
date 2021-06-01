@@ -1176,3 +1176,21 @@ seminars:
     url: https://docs.google.com/presentation/d/1H2_GCLkJJH42XbVWXZXkhv_yubTLT82WWk7ymkHLo8M/edit?usp=sharing
   presenter: 허윤서
   topic: 'Semi-Dynamic Load Balancing: Efficient Distributed Learning in Non-Dedicated Environments'
+- date: '2021-05-24'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3419111.3421287
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1B7BkRTLgq-lvrjMtNKA2dLjp4spzf_0w9ldOjvZTaW0/edit?usp=sharing
+  presenter: 박정애
+  topic: 'Serverless Linear Algebra'
+- date: '2021-05-31'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3447786.3456245
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1NMiSav3iNt_6BHgWu42JtBLk0kPSr4WLilrgaO7BbG4/edit?usp=sharing
+  presenter: 이성재
+  topic: 'RubberBand: Cloud-based Hyperparameter Tuning'
