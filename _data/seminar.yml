@@ -1167,3 +1167,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1p8xMT_Hbw5R63LMxuX40XKo7i3FQadsumCtpofH9AZA/edit?usp=sharing
   presenter: 최운호
   topic: 'Improving the Accuracy, Adaptability, and Interpretability of SSD Failure Prediction Models'
+- date: '2021-04-26'
+  links:
+  - name: paper
+    url: https://www.cse.ust.hk/~weiwa/papers/lbbsp-socc20.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1H2_GCLkJJH42XbVWXZXkhv_yubTLT82WWk7ymkHLo8M/edit?usp=sharing
+  presenter: 허윤서
+  topic: 'Semi-Dynamic Load Balancing: Efficient Distributed Learning in Non-Dedicated Environments'
