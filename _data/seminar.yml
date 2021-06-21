@@ -1194,3 +1194,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1NMiSav3iNt_6BHgWu42JtBLk0kPSr4WLilrgaO7BbG4/edit?usp=sharing
   presenter: 이성재
   topic: 'RubberBand: Cloud-based Hyperparameter Tuning'
+- date: '2021-06-21'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3419111.3421305
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1SW1YEU9HfYJYt-lhTyHxJ5g0ISMHEbfO8KAs4Bde3Tg/edit?usp=sharing
+  presenter: 최운호
+  topic: 'Finding the Right Cloud Configuration for Analytics Clusters'
