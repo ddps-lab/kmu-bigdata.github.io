@@ -1203,3 +1203,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1SW1YEU9HfYJYt-lhTyHxJ5g0ISMHEbfO8KAs4Bde3Tg/edit?usp=sharing
   presenter: 최운호
   topic: 'Finding the Right Cloud Configuration for Analytics Clusters'
+- date: '2021-06-28'
+  links:
+  - name: paper
+    url: https://hal.archives-ouvertes.fr/hal-03211416/document
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1dQkBaTXOOpsfnWCear1Ks3t6qqcCp7CKQ4vKeh_ay2M/edit?usp=sharing
+  presenter: 허윤서
+  topic: 'OFC: an opportunistic caching system for FaaS platforms'
