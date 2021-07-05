@@ -1212,3 +1212,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1dQkBaTXOOpsfnWCear1Ks3t6qqcCp7CKQ4vKeh_ay2M/edit?usp=sharing
   presenter: 허윤서
   topic: 'OFC: an opportunistic caching system for FaaS platforms'
+- date: '2021-07-05'
+  links:
+  - name: paper
+    url: https://arxiv.org/abs/1905.13348?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1rizv_WXiwUccZGYULpUUFtFFxTJ_Ir0ooiYKbbZ5KN4/edit?usp=sharing
+  presenter: 최재강
+  topic: 'INFaaS: A Model-less and Managed Inference Serving System'
