@@ -1221,3 +1221,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1rizv_WXiwUccZGYULpUUFtFFxTJ_Ir0ooiYKbbZ5KN4/edit?usp=sharing
   presenter: 최재강
   topic: 'INFaaS: A Model-less and Managed Inference Serving System'
+- date: '2021-07-12'
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/document/8713989
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/1os5RbuuaTcy59liiUD-FlTIScgpn0HEV/view?usp=sharing
+  presenter: 박수빈
+  topic: 'Iteration Time Prediction for CNN in Multi-GPU Platform: Modeling and Analysis'
