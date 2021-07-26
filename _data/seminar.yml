@@ -1230,3 +1230,21 @@ seminars:
     url: https://drive.google.com/file/d/1os5RbuuaTcy59liiUD-FlTIScgpn0HEV/view?usp=sharing
   presenter: 박수빈
   topic: 'Iteration Time Prediction for CNN in Multi-GPU Platform: Modeling and Analysis'
+- date: '2021-07-19'
+  links:
+  - name: paper
+    url: https://arxiv.org/pdf/1907.10701.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1EKhUFdZ9kw-0LciI1TqaZQJ7gVHkQ3KFYuUErK4UH6Q/edit?usp=sharing
+  presenter: 박정애
+  topic: 'Benchmarking TPU, GPU, and CPU Platforms for Deep Learning'
+- date: '2021-07-26'
+  links:
+  - name: paper
+    url: https://arxiv.org/pdf/2106.02743.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/15Efl5SCnuKNnLdYJ-qojqqY6nwv1Sp3oC8vEQgEYd3w/edit?usp=sharing
+  presenter: 이성재
+  topic: 'SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks'
