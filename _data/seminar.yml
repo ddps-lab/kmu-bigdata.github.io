@@ -1248,3 +1248,12 @@ seminars:
     url: https://docs.google.com/presentation/d/15Efl5SCnuKNnLdYJ-qojqqY6nwv1Sp3oC8vEQgEYd3w/edit?usp=sharing
   presenter: 이성재
   topic: 'SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks'
+- date: '2021-08-02'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3357223.3362707
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1oJLvBRLAdteFOZcp9toXdUnZT0iSpcMySIVecK4pk4Y/edit?usp=sharing
+  presenter: 최운호
+  topic: 'BigDL : A Distributed Deep Learning Framework for Big Data'
