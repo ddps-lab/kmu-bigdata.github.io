@@ -1257,3 +1257,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1oJLvBRLAdteFOZcp9toXdUnZT0iSpcMySIVecK4pk4Y/edit?usp=sharing
   presenter: 최운호
   topic: 'BigDL : A Distributed Deep Learning Framework for Big Data'
+- date: '2021-08-09'
+  links:
+  - name: paper
+    url: https://eprints.lancs.ac.uk/id/eprint/154311/1/TPDS_Horus_4_.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1_U-JbhRpzpbLiOJhf2lk0tDj_Kb7cLMFT4OvCrmXLxw/edit?usp=sharing
+  presenter: 허윤서
+  topic: 'Horus : Interference-Aware and Prediction-Based Scheduling in Deep Learning Systems'
