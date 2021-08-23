@@ -1266,3 +1266,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1_U-JbhRpzpbLiOJhf2lk0tDj_Kb7cLMFT4OvCrmXLxw/edit?usp=sharing
   presenter: 허윤서
   topic: 'Horus : Interference-Aware and Prediction-Based Scheduling in Deep Learning Systems'
+- date: '2021-08-23'
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8916327&tag=1
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1-dkSc6fMXgX08UIyHXcL9Nw9AXOE5c9Ydz7msat4FVc/edit?usp=sharing
+  presenter: 최재강
+  topic: 'Characterizing the Deep Neural Networks Inference Performance of Mobile Applications'
