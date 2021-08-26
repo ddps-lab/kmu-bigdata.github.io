@@ -8,18 +8,10 @@ masterdeg:
   - name: Jungae Park
     photo: /assets/images/people/jungae.jpg
     description: "A study on the cloud architect using serverless computing & linux system troubleshooting"
-  - name: Jueon Park
-    photo: /assets/images/people/jueon.jpg
-    website: https://orslow.github.io/
-    description: "Cloud / Distributed computing"
   - name: Sungjae Lee
     photo: /assets/images/people/sungjae.jpg
     website: http://sungjae.me
-    description: "Cloud computing resource management for heterogeneous machine learning workloads"
-  - name: Taeseon Son
-    photo: /assets/images/people/sts.jpg
-    website: http://linkedin.com/in/taeseon-son-kmu-bigdatalab
-    description: "Storage performance analysis on Cloud / Distributed computing"
+    description: "AI system / Cloud computing / System optimization"
   - name: Unho Choi
     photo: /assets/images/people/unho.jpg
     website: https://wooono.tistory.com
@@ -27,12 +19,12 @@ masterdeg:
   - name: Yoonseo Heo
     photo: /assets/images/people/yoonseo.jpg
     description: "A study on cloud computing"
-    
-undergrad:
   - name: Jaeghang Choi
     photo: /assets/images/people/jaeghang.jpg
     website: https://manchann.tistory.com
     description: "BigData processing using serverless computing"
+    
+undergrad:
   - name: Subin Park
     photo: /assets/images/people/subin.jpg
     website: https://subeans.tistory.com
@@ -59,3 +51,7 @@ alumni:
     photo: /assets/images/people/hj.png
     website: https://github.com/oryondark/-
     description: "A Software Engineer in Marqvision. Implementation, Integration and Deployment of Deep Learning Platform using AWS"
+  - name: Jueon Park
+    photo: /assets/images/people/jueon.jpg
+    website: https://orslow.github.io/
+    description: "Cloud / Distributed computing"
