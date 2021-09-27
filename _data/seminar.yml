@@ -1275,3 +1275,21 @@ seminars:
     url: https://docs.google.com/presentation/d/1-dkSc6fMXgX08UIyHXcL9Nw9AXOE5c9Ydz7msat4FVc/edit?usp=sharing
   presenter: 최재강
   topic: 'Characterizing the Deep Neural Networks Inference Performance of Mobile Applications'
+- date: '2021-09-13'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1145/3458305.3463377
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1ZNYeUKOWNtKRTNm_bNleAmtEP5oMfwCjvjMkHpbakIY/edit?usp=sharing
+  presenter: 박정애
+  topic: 'Towards Cloud-Edge Collaborative Online Video Analytics with Fine-Grained Serverless Pipeline'
+- date: '2021-09-27'
+  links:
+  - name: paper
+    url: https://www.usenix.org/conference/nsdi19/presentation/gu
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1oC3FwvAyBOzCGlkWutoBpQ02ksnVZyUfgPQheklqMnM/edit?usp=sharing
+  presenter: 이성재
+  topic: 'Tiresias: A GPU Cluster Manager for Distributed Deep Learning'
