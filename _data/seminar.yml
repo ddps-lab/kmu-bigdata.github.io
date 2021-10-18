@@ -1293,3 +1293,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1oC3FwvAyBOzCGlkWutoBpQ02ksnVZyUfgPQheklqMnM/edit?usp=sharing
   presenter: 이성재
   topic: 'Tiresias: A GPU Cluster Manager for Distributed Deep Learning'
+- date: '2021-10-18'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3357223.3362711
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1JljRsDlDpmp69H8e6OC6jX-dI2cajGjULphmLbvc0A4/edit?usp=sharing
+  presenter: 최운호
+  topic: 'Cirrus: a Serverless Framework for End-to-end ML Workflows'
