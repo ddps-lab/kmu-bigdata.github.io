@@ -1302,6 +1302,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1JljRsDlDpmp69H8e6OC6jX-dI2cajGjULphmLbvc0A4/edit?usp=sharing
   presenter: 최운호
   topic: 'Cirrus: a Serverless Framework for End-to-end ML Workflows'
+- date: '2021-11-08'
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/1JIwMe0w_YXHthlG7bO7VFZfYQ7IoV56_/view
+  presenter: 백소현
+  topic: 'Amazon SageMaker Neo'
 - date: '2021-11-15'
   links:
   - name: paper
