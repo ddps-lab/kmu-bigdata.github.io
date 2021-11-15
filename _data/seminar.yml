@@ -1296,7 +1296,7 @@ seminars:
 - date: '2021-10-18'
   links:
   - name: paper
-    url: https://arxiv.org/pdf/2104.10350.pdf
+    url: https://dl.acm.org/doi/pdf/10.1145/3357223.3362711
   presentation:
   - name: ppt
     url: https://docs.google.com/presentation/d/1JljRsDlDpmp69H8e6OC6jX-dI2cajGjULphmLbvc0A4/edit?usp=sharing
@@ -1311,7 +1311,7 @@ seminars:
 - date: '2021-11-15'
   links:
   - name: paper
-    url: https://dl.acm.org/doi/pdf/10.1145/3357223.3362711
+    url:  https://arxiv.org/pdf/2104.10350.pdf
   presentation:
   - name: ppt
     url: https://docs.google.com/presentation/d/11Myb1pEuhIeMXk0lgspHSXPwPbw6ozYvJ_sYtaP07fY/edit?usp=sharing
