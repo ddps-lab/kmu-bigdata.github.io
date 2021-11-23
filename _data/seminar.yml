@@ -1305,7 +1305,7 @@ seminars:
 - date: '2021-11-08'
   presentation:
   - name: ppt
-    url: https://drive.google.com/file/d/1JIwMe0w_YXHthlG7bO7VFZfYQ7IoV56_/view
+    url: https://docs.google.com/presentation/d/1-_iRXlJplmJNfy2h8ZAQrwloosSnyWRbnWgn2AWVmVc/edit?usp=sharing
   presenter: 백소현
   topic: 'Amazon SageMaker Neo'
 - date: '2021-11-15'
