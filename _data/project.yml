@@ -12,4 +12,4 @@ projects:
    - name: "reActor"
      photo: /assets/images/project/reActor.png
      url: http://reactor.kmubigdata.cloud/
-     description: "Real-time Edge Accelator Monitor"
+     description: "Real time Edge Accelator Monitor"
