@@ -8,3 +8,8 @@ projects:
     photo: /assets/images/project/mpec.png
     url: http://mpec.kmubigdata.cloud
     description: "The MPEC predicts the latency incurred when executing distributed matrix multiplication tasks of various input sizes and shapes with diverse instance types and a different number of worker nodes on cloud computing environments"
+    
+   - name: "reActor"
+     photo: /assets/images/project/reActor.png
+     url: http://reactor.kmubigdata.cloud/
+     description: "Real-time Edge Accelator Monitor"
