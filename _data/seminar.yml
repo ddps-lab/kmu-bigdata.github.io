@@ -1317,3 +1317,12 @@ seminars:
     url: https://docs.google.com/presentation/d/11Myb1pEuhIeMXk0lgspHSXPwPbw6ozYvJ_sYtaP07fY/edit?usp=sharing
   presenter: 허윤서
   topic: 'Carbon Emissions and Large Neural Network Training'
+- date: '2022-01-03'
+  links:
+  - name: paper
+    url:  http://home.cse.ust.hk/~weiwa/papers/morphling-socc21.pdf
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1awXe-OUOrwAiRR18PSkQKLMAD9ynYOo_qT1SOE3CHRI/edit?usp=sharing
+  presenter: 최재강
+  topic: 'Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving'
