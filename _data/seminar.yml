@@ -1326,3 +1326,21 @@ seminars:
     url: https://docs.google.com/presentation/d/1awXe-OUOrwAiRR18PSkQKLMAD9ynYOo_qT1SOE3CHRI/edit?usp=sharing
   presenter: 최재강
   topic: 'Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving'
+- date: '2022-01-10'
+  links:
+  - name: paper
+    url:  https://dl.acm.org/doi/10.14778/3282495.3282499
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1e6oQwewU2t6_NXAn3o5hwnkAkBTthP8N8YY6fyo8tpw/edit?usp=sharing
+  presenter: 박수빈
+  topic: 'Rafiki: Machine Learning as an Analytics Service System'
+- date: '2022-01-17'
+  links:
+  - name: paper
+    url:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9251253&tag=1
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1Dmw9lwThOVJR94O_ZXHPkX88o9bipU-Y8Go4lkJC2Nk/edit?usp=sharing
+  presenter: 박정애
+  topic: 'AI on the Edge: Characterizing AI-based IoT Applications Using Specialized Edge Architectures'
