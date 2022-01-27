@@ -1344,3 +1344,13 @@ seminars:
     url: https://docs.google.com/presentation/d/1Dmw9lwThOVJR94O_ZXHPkX88o9bipU-Y8Go4lkJC2Nk/edit?usp=sharing
   presenter: 박정애
   topic: 'AI on the Edge: Characterizing AI-based IoT Applications Using Specialized Edge Architectures'
+- date: '2022-01-24'
+  links:
+  - name: paper
+    url:  https://www.usenix.org/conference/atc21/presentation/yu
+  presentation:
+  - name: ppt
+    url: https://drive.google.com/file/d/1sL0FVKdEvQpwXkjAqm5UbfDq49ty1Xyn/view?usp=sharing
+  presenter: 백소현
+  topic: 'Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training'
+  
