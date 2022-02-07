@@ -1353,4 +1353,12 @@ seminars:
     url: https://drive.google.com/file/d/1sL0FVKdEvQpwXkjAqm5UbfDq49ty1Xyn/view?usp=sharing
   presenter: 백소현
   topic: 'Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training'
-  
+- date: '2022-02-07'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1145/3458817.3476168
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1HRJ9X0KzW4QqPv-W5grB5AAFmxv-6VcVgg0DZn4y64c/edit?usp=sharing
+  presenter: 이성재
+  topic: 'RIBBON: cost-effective and qos-aware deep learning model inference using a diverse pool of cloud computing instances'
