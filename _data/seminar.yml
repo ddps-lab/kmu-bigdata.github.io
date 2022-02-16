@@ -1275,6 +1275,15 @@ seminars:
     url: https://docs.google.com/presentation/d/1-dkSc6fMXgX08UIyHXcL9Nw9AXOE5c9Ydz7msat4FVc/edit?usp=sharing
   presenter: 최재강
   topic: 'Characterizing the Deep Neural Networks Inference Performance of Mobile Applications'
+- date: '2021-08-30'
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/pdf/10.1145/3437984.3458837
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1ySEzRBfZHEE2-GYchKvM-SCu_z_NVhKW/edit?usp=sharing&ouid=105884189498109779289&rtpof=true&sd=true
+  presenter: 박수빈
+  topic: 'Interference-Aware Scheduling for Inference Serving'
 - date: '2021-09-13'
   links:
   - name: paper
