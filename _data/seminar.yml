@@ -1371,3 +1371,12 @@ seminars:
     url: https://docs.google.com/presentation/d/1q0snXDUo7EVqEN9MkKYZhU7rvxrrVTtgVS-wqSREsUU/edit?usp=sharing
   presenter: 최운호
   topic: 'Couper: DNN Model Slicing for Visual Analytics Containers at the Edge'
+- date: '2022-02-28'
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9415606
+  presentation:
+  - name: ppt
+    url: https://docs.google.com/presentation/d/1S7O5ApR18h6FUwWPyni9bd_t2YGONOHbhN50sHkfHN4/edit?usp=sharing
+  presenter: 허윤서
+  topic: 'Beyond Peak Performance: Comparing the Real Performance of AI-Optimized FPGAs and GPUs' 
